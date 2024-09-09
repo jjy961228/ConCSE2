@@ -14,6 +14,7 @@ pip install -r requirements.txt
 ```
 
 ### Download datasets ###
+You can download the Koglish dataset using the datasets library as shown below.
 ```
 from datasets import load_dataset
 
