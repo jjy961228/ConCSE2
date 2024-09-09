@@ -1,0 +1,501 @@
+,sentence1,source1_np0,sentence2,source2_np0,label
+0,A group of kids is playing in a yard and an old man is standing in the background,A group of kids,A group of boys in a yard is playing and a man is standing in the background,A group of boys in a yard,4.5
+1,A group of children is playing in the house and there is no man standing in the background,A group of children,A group of kids is playing in a yard and an old man is standing in the background,A group of kids,3.200000047683716
+2,The young boys are playing outdoors and the man is smiling nearby,The young boys,The kids are playing outdoors near a man with a smile,The kids,4.699999809265137
+3,The kids are playing outdoors near a man with a smile,The kids,A group of kids is playing in a yard and an old man is standing in the background,A group of kids,3.400000095367432
+4,The young boys are playing outdoors and the man is smiling nearby,The young boys,A group of kids is playing in a yard and an old man is standing in the background,A group of kids,3.700000047683716
+5,Two dogs are fighting,Two dogs,Two dogs are wrestling and hugging,Two dogs,4.0
+6,A brown dog is attacking another animal in front of the man in pants,A brown dog,Two dogs are fighting,Two dogs,3.5
+7,A brown dog is attacking another animal in front of the man in pants,A brown dog,Two dogs are wrestling and hugging,Two dogs,3.200000047683716
+8,Nobody is riding the bicycle on one wheel,the bicycle,A person in a black jacket is doing tricks on a motorbike,A person in a black jacket,2.799999952316284
+9,A person is riding the bicycle on one wheel,A person,A man in a black jacket is doing tricks on a motorbike,A man in a black jacket,3.700000047683716
+10,A person on a black motorbike is doing tricks with a jacket,A person on a black motorbike,A person is riding the bicycle on one wheel,A person,3.400000095367432
+11,A man with a jersey is dunking the ball at a basketball game,A man with a jersey,The ball is being dunked by a man with a jersey at a basketball game,The ball,4.900000095367432
+12,A man with a jersey is dunking the ball at a basketball game,A man with a jersey,A man who is playing dunks the basketball into the net and a crowd is in background,A man,3.5999999046325684
+13,The player is dunking the basketball into the net and a crowd is in background,The player,A man with a jersey is dunking the ball at a basketball game,A man with a jersey,3.799999952316284
+14,Two people are kickboxing and spectators are not watching,Two people,Two people are kickboxing and spectators are watching,Two people,3.400000095367432
+15,Two young women are sparring in a kickboxing fight,Two young women,Two women are sparring in a kickboxing match,Two women,4.900000095367432
+16,Two young women are not sparring in a kickboxing fight,Two young women,Two women are sparring in a kickboxing match,Two women,3.900000095367432
+17,Two people are kickboxing and spectators are watching,Two people,Two young women are not sparring in a kickboxing fight,Two young women,3.414999961853028
+18,Two women are sparring in a kickboxing match,Two women,Two people are kickboxing and spectators are not watching,Two people,3.700000047683716
+19,Three boys are jumping in the leaves,Three boys,Three kids are jumping in the leaves,Three kids,4.400000095367432
+20,Three kids are sitting in the leaves,Three kids,Three kids are jumping in the leaves,Three kids,3.799999952316284
+21,Children in red shirts are playing in the leaves,Children in red shirts,Three kids are sitting in the leaves,Three kids,3.5
+22,Children in red shirts are playing in the leaves,Children in red shirts,Three kids are jumping in the leaves,Three kids,4.0
+23,Two angels are making snow on the lying children,Two angels,Two children are lying in the snow and are making snow angels,Two children,2.900000095367432
+24,Two children are lying in the snow and are drawing angels,Two children,Two people in snowsuits are lying in the snow and making snow angels,Two people in snowsuits,4.099999904632568
+25,Two people in snowsuits are lying in the snow and making snow angels,Two people in snowsuits,Two angels are making snow on the lying children,Two angels,2.5
+26,Two children are lying in the snow and are making snow angels,Two children,Two people in snowsuits are lying in the snow and making snow angels,Two people in snowsuits,4.199999809265137
+27,People wearing costumes are gathering in a forest and are looking in the same direction,People wearing costumes,Masked people are looking in the same direction in a forest,Masked people,4.400000095367432
+28,People wearing costumes are gathering in a forest and are looking in the same direction,People wearing costumes,People wearing costumes are scattering in a forest and are looking in different directions,People wearing costumes,3.200000047683716
+29,People are looking at some costumes gathered in the vicinity of the forest,some costumes gathered in the vicinity of the forest,People wearing costumes are gathering in a forest and are looking in the same direction,People wearing costumes,3.634999990463257
+30,A little girl is looking at a woman in costume,A little girl,People wearing costumes are scattering in a forest and are looking in different directions,People wearing costumes,2.400000095367432
+31,A little girl is looking at a woman in costume,A little girl,People are looking at some costumes gathered in the vicinity of the forest,some costumes gathered in the vicinity of the forest,2.5999999046325684
+32,A young girl is looking at a woman in costume,A young girl,People wearing costumes are gathering in a forest and are looking in the same direction,People wearing costumes,2.200000047683716
+33,People wearing costumes are gathering in a forest and are looking in the same direction,People wearing costumes,The little girl is looking at a man in costume,The little girl,3.0
+34,People wearing costumes are gathering in a forest and are looking in the same direction,People wearing costumes,A little girl in costume looks like a woman,A little girl in costume,2.0
+35,A lone biker is jumping in the air,A lone biker,"A biker is jumping in the air , alone",A biker,5.0
+36,There is no biker jumping in the air,no biker jumping in the air,A lone biker is jumping in the air,A lone biker,4.199999809265137
+37,A man is jumping into an empty pool,A man,A man is jumping into a full pool,A man,3.0
+38,A man is jumping into an empty pool,A man,The man ' s jumper is in the empty pool,The man ' s jumper,3.0999999046325684
+39,A lone biker is jumping in the air,A lone biker,A man is jumping into a full pool,A man,1.7000000476837158
+40,The man ' s jumper is in the empty pool,The man ' s jumper,A lone biker is jumping in the air,A lone biker,1.399999976158142
+41,A lone biker is jumping in the air,A lone biker,A man is jumping into an empty pool,A man,1.5
+42,Four kids are doing backbends in the park,Four kids,Four children are doing backbends in the park,Four children,4.800000190734863
+43,Four children are doing backbends in the gym,Four children,Four children are doing backbends in the park,Four children,3.799999952316284
+44,Four girls are doing backbends and playing in the garden,Four girls,Four girls are doing backbends and playing outdoors,Four girls,4.099999904632568
+45,A man who is playing is running with the ball in his hands,A man who is playing,A player is running with the ball,A player,4.300000190734863
+46,Two groups of people are playing football,Two groups of people,A player is running with the ball,A player,2.0999999046325684
+47,Two teams are competing in a baseball game,Two teams,A player is running with the ball,A player,3.0
+48,A player is running with the ball,A player,Two teams are competing in a football match,Two teams,2.5999999046325684
+49,Five wooden stands are in front of each child ' s hut,Five wooden stands,Five children are standing in front of a wooden hut,Five children,3.200000047683716
+50,Five kids are standing close together and one kid has a gun,Five kids,Five kids are standing close together and none of the kids has a gun,Five kids,3.700000047683716
+51,Five kids are standing close together and none of the kids has a gun,Five kids,Five children are standing in front of a wooden hut,Five children,2.5999999046325684
+52,Five children are standing in a wooden hut,Five children,Five kids are standing close together and one kid has a gun,Five kids,2.700000047683716
+53,Five wooden stands are in front of each child ' s hut,Five wooden stands,Five kids are standing close together and one kid has a gun,Five kids,2.299999952316284
+54,An old man is sitting in a field,An old man,A man is sitting in a field,A man,4.400000095367432
+55,A man is sitting in a field,A man,A man is running in a field,A man,2.5999999046325684
+56,A person is wearing a hat and is sitting on the grass,A person,A person is sitting in a field and is wearing a hat,A person,4.099999904632568
+57,A person is sitting and wearing a grass hat,A person,A person is wearing a hat and is sitting on the grass,A person,3.400000095367432
+58,A person is sitting and wearing a grass hat,A person,A man is sitting in a field,A man,3.299999952316284
+59,A man is sitting in a field,A man,A person is wearing a hat and is sitting on the grass,A person,3.799999952316284
+60,The current is being ridden by a group of friends in a raft,The current,A group of friends are riding the current in a raft,A group of friends,4.900000095367432
+61,A group of friends are riding the current in a raft,A group of friends,A group is not riding the current in a raft,A group,3.700000047683716
+62,The current is being ridden by a group of friends in a raft,The current,This group of people is practicing water safety and wearing preservers,This group of people,3.200000047683716
+63,A group of friends are riding the current in a raft,A group of friends,This group of people is practicing water safety and wearing preservers,This group of people,3.0999999046325684
+64,A deer is jumping over a fence,A deer,A deer isn ' t jumping over the fence,A deer,3.900000095367432
+65,People are walking inside a building that has many murals on it,a building that has many murals on it,People are walking outside a building that has many murals on it,a building that has many murals on it,3.400000095367432
+66,Several people are in front of a colorful building,Several people,Nobody is in front of the colorful building,front of the colorful building,3.5
+67,People are walking outside a building that has many murals on it,a building that has many murals on it,Nobody is in front of the colorful building,front of the colorful building,3.5999999046325684
+68,People are walking outside the building that has several murals on it,the building that has several murals on it,Several people are in front of a colorful building,Several people,3.5999999046325684
+69,A family is watching a little boy who is hitting a baseball,A family,A family is watching a little boy who is missing a baseball,A family,3.900000095367432
+70,A child is hitting a baseball,A child,A family is watching a little boy who is missing a baseball,A family,3.015000104904175
+71,A child is missing a baseball,A child,A family is watching a little boy who is hitting a baseball,A family,2.700000047683716
+72,A purple crowd of people is eating on various red lit restaurant tables,A purple crowd of people,Various people are eating at red tables in a crowded restaurant with purple lights,Various people,3.299999952316284
+73,A large group of Asian people is eating at a restaurant,A large group of Asian people,Various customers are eating in a crowded restaurant with purple lights,Various customers,2.900000095367432
+74,A purple crowd of people is eating on various red lit restaurant tables,A purple crowd of people,A large group of Asian people is eating at a restaurant,A large group of Asian people,3.0999999046325684
+75,Various people are eating at red tables in a crowded restaurant with purple lights,Various people,A small group of people is waiting to eat in a restaurant,A small group of people,3.200000047683716
+76,A motorcycle rider is standing up on the seat of a white motorcycle,A motorcycle rider,No motorcycle rider is standing up on the seat of a motorcycle,No motorcycle rider,3.799999952316284
+77,Nobody is on a motorcycle and is standing on the seat,the seat,Someone is on a black and white motorcycle and is standing on the seat,a black and white motorcycle,3.700000047683716
+78,A motorcyclist is riding a motorbike dangerously along a roadway,A motorcyclist,A motorcyclist is riding a motorbike along a roadway,A motorcyclist,4.599999904632568
+79,There is no motorcyclist riding a motorbike along a roadway,no motorcyclist riding a motorbike along a roadway,A motorcyclist is riding a motorbike along a roadway,A motorcyclist,3.700000047683716
+80,A man with a helmet painted red is riding a blue motorcycle down the road,A man with a helmet painted red,A motorcyclist with a red helmet is riding a blue motorcycle down the road,A motorcyclist with a red helmet,4.800000190734863
+81,A motorcyclist without a helmet is waiting on a blue motorcycle near the road,A motorcyclist without a helmet,A motorcyclist is riding a motorbike along a roadway,A motorcyclist,3.299999952316284
+82,Two dogs are playing by a tree,Two dogs,A dog is catching a stick in the air and another is watching,A dog,3.700000047683716
+83,Two dogs are playing by a tree,Two dogs,There is no dog leaping in the air,no dog leaping in the air,2.700000047683716
+84,Two dogs are playing by a tree,Two dogs,A dog is leaping high in the air and another is watching,A dog,3.0
+85,A girl in white is dancing,A girl in white,The dancer is dancing in front of the sound equipment,The dancer,4.0
+86,A girl in white is dancing,A girl in white,The blond girl is dancing behind the sound equipment,The blond girl,3.299999952316284
+87,A girl is wearing white clothes and is dancing,A girl,The blond girl is dancing in front of the sound equipment,The blond girl,3.5
+88,The blond girl is dancing in front of the sound equipment,The blond girl,There is no girl in white dancing,no girl in white dancing,3.299999952316284
+89,Three Asian kids are dancing and a man is looking,Three Asian kids,Three Asian kids are dancing and there is no man looking,Three Asian kids,3.900000095367432
+90,Three Asian kids are dancing and a man is looking,Three Asian kids,An Asian man is dancing and three kids are looking,three kids,3.700000047683716
+91,The children of a family are playing and waiting,The children of a family,Three Asian kids are dancing and a serious man is looking,Three Asian kids,1.899999976158142
+92,The children of a family are patiently playing and waiting,The children of a family,Three Asian kids are dancing and a man is looking,Three Asian kids,2.299999952316284
+93,There are no children playing and waiting,no children playing and waiting,Three Asian kids are dancing and a man is looking,Three Asian kids,1.600000023841858
+94,A woman is wearing an Egyptian hat on her head,A woman,A woman is wearing an Egyptian headdress,A woman,4.300000190734863
+95,A woman is wearing an Egyptian headdress,A woman,A woman is wearing an Indian headdress,A woman,4.0
+96,The black woman is wearing glasses over the headdress,The black woman,A woman is wearing an Egyptian headdress,A woman,3.5999999046325684
+97,A woman is wearing an Egyptian hat on her head,A woman,The woman is wearing glasses and a black headdress,The woman,2.5
+98,A hiker is on top of the mountain and is dancing,A hiker,There is no hiker dancing on top of the mountain,no hiker dancing on top of the mountain,3.200000047683716
+99,There is no man on a rock high above some trees standing in a strange position,no man on a rock high above some trees standing in a strange position,A man is on a rock high above some trees and is standing in a strange position,A man,4.300000190734863
+100,A hiker is on top of the mountain and is dancing,A hiker,A man is on a rock high above some trees and is standing in an uncomfortable position,A man,2.5
+101,A hiker is on top of the mountain and is dancing,A hiker,There is no man on a rock high above some trees standing in a strange position,no man on a rock high above some trees standing in a strange position,2.5
+102,A man is on a rock high above some trees and is standing in a strange position,A man,A hiker is on top of the mountain and is doing a joyful dance,A hiker,2.900000095367432
+103,There is no hiker dancing on top of the mountain,no hiker dancing on top of the mountain,A man is on a rock high above some trees and is standing in a strange position,A man,2.400000095367432
+104,The brown horse is very near a red barrel at the rodeo,The brown horse,The brown horse is near a red barrel at the rodeo,The brown horse,4.800000190734863
+105,The brown horse is near a red barrel at the rodeo,The brown horse,The brown horse is far from a red barrel at the rodeo,The brown horse,3.5999999046325684
+106,A cowgirl is riding a brown horse and is cornering a barrel,A cowgirl,The brown horse is near a red barrel at the rodeo,The brown horse,3.200000047683716
+107,A cowgirl is riding a horse and corners a barrel,A cowgirl,The brown horse is near a red barrel at the rodeo,The brown horse,3.799999952316284
+108,A boy is standing in the cold water,A boy,A boy is standing in the water,A boy,4.099999904632568
+109,The boy is sitting near the blue ocean,The boy,The boy is wading through the blue ocean,The boy,3.200000047683716
+110,A boy is standing in the water,A boy,The kid is swimming through the blue ocean,The kid,3.0
+111,The boy is wading through the blue ocean,The boy,A boy is standing in the cold water,A boy,3.299999952316284
+112,A man is playing a guitar on stage,A man,There is no man playing a guitar on stage,no man playing a guitar on stage,3.5999999046325684
+113,A man is playing a guitar on stage,A man,A guitarist has blonde and flyaway hair,A guitarist,3.0
+114,A man is playing a guitar on stage,A man,A bald person is playing a guitar,A bald person,3.799999952316284
+115,There is no man playing a guitar on stage,no man playing a guitar on stage,A person has blonde and flyaway hair and is playing a guitar,A person,3.400000095367432
+116,Several children are sitting down and have their knees raised,Several children,Several children are lying down and are raising their knees,Several children,4.0
+117,Two young girls are sitting on the ground,Two young girls,Two girls are sitting on the ground,Two girls,4.400000095367432
+118,Two girls are lying on the ground,Two girls,Several children are sitting down and have their knees raised,Several children,2.799999952316284
+119,A nude lady is walking in front of a crowd in body paint,A nude lady,There is no lady walking in body paint in front of a crowd,no lady walking in body paint in front of a crowd,2.900000095367432
+120,A nude lady is walking in front of a crowd in body paint,A nude lady,A nude crowd in body paint is walking in front of a lady,A nude crowd in body paint,3.0999999046325684
+121,"A young , topless woman is covered in paint","A young , topless woman",A topless girl is covered in paint,A topless girl,4.400000095367432
+122,A nude lady is walking in front of a crowd in body paint,A nude lady,A topless girl is covered in paint,A topless girl,3.799999952316284
+123,A nude crowd in body paint is walking in front of a lady,A nude crowd in body paint,"A young , topless woman is covered in paint","A young , topless woman",3.0
+124,A nude lady is walking in front of a crowd in body paint,A nude lady,"A young , topless woman is covered in paint","A young , topless woman",4.199999809265137
+125,A group of people is near the ocean,A group of people,A crowd of people is near the water,A crowd of people,4.300000190734863
+126,A crowd of people is near the water,A crowd of people,A crowd of people is far from the water,A crowd of people,3.799999952316284
+127,A group of children in uniforms is standing at a gate and one is kissing the mother,A group of children in uniforms,A group of children wearing the same clothes is waiting at a gate and one is kissing the mother,A group of children wearing the same clothes,4.5
+128,A group of mothers in uniforms is standing near the children and one is kissing the gate,A group of mothers in uniforms,A group of children in uniforms is standing at a gate and one is kissing the mother,A group of children in uniforms,3.299999952316284
+129,A man is in a parking lot and is playing tennis against a large wall,A man,A man is in a parking lot and is playing tennis against a friend,A man,3.900000095367432
+130,A man is in a parking lot and is playing tennis against a large wall,A man,There is no man pointing at a car,no man pointing at a car,1.5
+131,A man is in a parking lot and is playing tennis against a friend,A man,A man is pointing at a silver sedan,A man,1.2999999523162842
+132,A group of people is on a beach,A group of people,A group of people is near the sea,A group of people,4.0
+133,A group of people is on a beach,A group of people,A group of people is on a mountain,A group of people,2.5999999046325684
+134,"A man , a woman and two girls are walking on the beach","A man , a woman and two girls",Four people are walking on the beach,Four people,4.5
+135,A group of people is on a beach,A group of people,Four people are walking on the beach,Four people,4.599999904632568
+136,"A man , a woman and two girls are walking on the beach","A man , a woman and two girls",A group of people is on a mountain,A group of people,1.399999976158142
+137,"A man , a woman and two girls are walking on the beach","A man , a woman and two girls",A group of people is on a beach,A group of people,4.300000190734863
+138,A schoolgirl with a black bag is on a crowded train,A schoolgirl with a black bag,A girl with a black bag is on a crowded train,A girl with a black bag,4.699999809265137
+139,There is no girl with a black bag on a crowded train,no girl with a black bag on a crowded train,A girl with a black bag is on a crowded train,A girl with a black bag,3.700000047683716
+140,A girl with a black bag is on a crowded train,A girl with a black bag,A cramped black train is on the bag of a girl,A cramped black train,2.700000047683716
+141,An Asian woman in a crowd is not carrying a black bag,An Asian woman in a crowd,An Asian woman in a crowd is carrying a black bag,An Asian woman in a crowd,3.799999952316284
+142,A girl with a black bag is on a crowded train,A girl with a black bag,An Asian woman in a crowd is not carrying a black bag,An Asian woman in a crowd,2.5
+143,A schoolgirl with a black bag is on a crowded train,A schoolgirl with a black bag,An Asian woman in a crowd is carrying a black bag,An Asian woman in a crowd,2.799999952316284
+144,A dog is chasing another and is holding a stick in its mouth,A dog,A dog is chasing another and is holding a piece of wood in its mouth,A dog,4.599999904632568
+145,Two dogs are running and carrying a toy in their mouths,Two dogs,Two dogs are running and carrying an object in their mouths,Two dogs,4.300000190734863
+146,A dog is chasing another and is holding a piece of wood in its mouth,A dog,Two dogs are running and carrying an object in their mouths,Two dogs,3.900000095367432
+147,Two dogs are running and carrying an object in their mouths,Two dogs,A dog is chasing a stick and holding another dog in its mouth,A dog,3.200000047683716
+148,A dog is chasing another and is holding a stick in its mouth,A dog,Two dogs are running and carrying an object in their mouths,Two dogs,4.0
+149,A dirty soccer ball is rolling into a goal net,A dirty soccer ball,A soccer ball is rolling into a goal net,A soccer ball,4.5
+150,A soccer ball is not rolling into a goal net,A soccer ball,A soccer ball is rolling into a goal net,A soccer ball,3.400000095367432
+151,A person who plays soccer is kicking a ball into the goal,A person who plays soccer,A soccer ball is rolling into a goal net,A soccer ball,4.099999904632568
+152,A soccer ball is rolling into a goal net,A soccer ball,A soccer player is kicking a ball out of the goal,A soccer player,3.200000047683716
+153,A soccer ball is rolling into a goal net,A soccer ball,A soccer player is kicking a ball into the goal,A soccer player,4.300000190734863
+154,A man is sitting on a chair and rubbing his eyes,A man,There is no man sitting on a chair and rubbing his eyes,no man sitting on a chair and rubbing his eyes,3.799999952316284
+155,A man with tattoos is lounging on a couch and holding a pencil,A man with tattoos,A tattooed man is on a sofa and is holding a pencil,A tattooed man,4.400000095367432
+156,A man with tattoos is lounging on a couch and holding a pencil,A man with tattoos,A man with tattoos is lounging on a couch and is looking for a pencil,A man with tattoos,2.900000095367432
+157,A man with tattoos is holding a couch with a pencil,A man with tattoos,A man with tattoos is lounging on a couch and holding a pencil,A man with tattoos,2.5999999046325684
+158,A man is sitting on a chair and rubbing his eyes,A man,A man with tattoos is lounging on a couch and is looking for a pencil,A man with tattoos,2.0999999046325684
+159,A man with tattoos is holding a couch with a pencil,A man with tattoos,A man is sitting on a chair and rubbing his eyes,A man,2.0
+160,A man is resting on a chair and rubbing his eyes,A man,A man with tattoos is lounging on a couch and holding a pencil,A man with tattoos,2.5
+161,A man with tattoos is lounging on a couch and holding a pencil,A man with tattoos,There is no man sitting on a chair and rubbing his eyes,no man sitting on a chair and rubbing his eyes,1.600000023841858
+162,A man with tattoos is lounging on a couch and holding a pencil,A man with tattoos,A man is sitting on a chair and rubbing his eyes,A man,2.400000095367432
+163,A brown and white dog is running through the tall grass,A brown and white dog,A black and tan dog is running through the low and green grass,A black and tan dog,3.799999952316284
+164,A white and tan dog is running through the tall and green grass,A white and tan dog,A brown and white dog is running through the tall grass,A brown and white dog,4.599999904632568
+165,A man with paint covered clothes is sitting outside in a busy area writing something,A man with paint covered clothes,A man is wearing clothes that are covered with paint and is sitting outside in a busy area writing something,A man,4.800000190734863
+166,There is no man wearing clothes that are covered with paint or is sitting outside in a busy area writing something,no man wearing clothes that are covered with paint or is sitting outside in a busy area writing something,A man is wearing clothes that are covered with paint and is sitting outside in a busy area writing something,A man,4.099999904632568
+167,A sitting man is busy writing something in an area covered by paint,A sitting man,A man is wearing clothes that are covered with paint and is sitting outside in a busy area writing something,A man,3.700000047683716
+168,A man is sitting near a bike and is writing a note,A man,There is no man writing a note near a bike,no man writing a note near a bike,4.199999809265137
+169,A man is wearing clothes that are covered with paint and is sitting outside in a busy area writing something,A man,A man is standing near a bike and is writing on a piece paper,A man,2.5999999046325684
+170,There is no man writing a note near a bike,no man writing a note near a bike,A man is wearing clothes that are covered with paint and is sitting outside in a busy area writing something,A man,2.700000047683716
+171,A man is sitting near a bike and is writing a note,A man,A man with paint covered clothes is sitting outside in a busy area writing something,A man with paint covered clothes,3.0999999046325684
+172,A group of scouts are camping in the grass,A group of scouts,A group of scouts are hiking through the grass,A group of scouts,3.5
+173,Some people are walking,Some people,A group of scouts are camping in the grass,A group of scouts,1.5
+174,A group of scouts are hiking through the grass,A group of scouts,Some people are walking,Some people,3.200000047683716
+175,Two men are taking a break from a trip on a snowy road,Two men,Two men are breaking into a car during a trip on a snowy road,Two men,3.0
+176,Two men with bikes are on the side of a snowy road,Two men with bikes,Two men with cars are on the side of a snowy road,Two men with cars,3.5
+177,Two men are holding fishing poles and fishing tackle,Two men,Two men are holding fishing poles,Two men,4.300000190734863
+178,Two men are not holding fishing poles,Two men,Two men are holding fishing poles,Two men,3.200000047683716
+179,Two men are holding fishing poles,Two men,Two men are standing near the water and are holding tools used for fishing,Two men,4.300000190734863
+180,There is no man standing near the water and holding fishing poles,no man standing near the water and holding fishing poles,Two men are holding fishing poles,Two men,3.200000047683716
+181,The helmeted girl is riding a bike,The helmeted girl,The helmeted girl is perching on a bike,The helmeted girl,4.199999809265137
+182,A woman is performing a trick on a ramp with a bicycle,A woman,A woman is jumping with a bicycle,A woman,4.300000190734863
+183,A woman is performing a trick on a ramp with a bicycle,A woman,A woman is performing a trick on a ramp with a car,A woman,2.400000095367432
+184,The helmeted girl is perching on a bike,The helmeted girl,A woman is performing a trick on a ramp with a car,A woman,1.899999976158142
+185,The girl with a helmet is perching on a bike,The girl with a helmet,A woman is performing a trick on a ramp with a bicycle,A woman,2.900000095367432
+186,The helmeted girl is riding a bike,The helmeted girl,A woman is performing a trick on a ramp with a bicycle,A woman,3.700000047683716
+187,A woman is performing a trick on a ramp with a bicycle,A woman,The helmeted girl is perching on a bike,The helmeted girl,3.299999952316284
+188,A blonds girl is surfing,A blonds girl,A blond girl is riding the waves,A blond girl,4.699999809265137
+189,A lady is surfing and riding a wave,A lady,A boy is surfing and riding a wave,A boy,3.5
+190,A woman is surfing,A woman,A blond girl is riding the waves,A blond girl,4.0
+191,A lady is surfing and riding a wave,A lady,A blonds girl is surfing,A blonds girl,3.5999999046325684
+192,A blond girl waves while she is riding,A blond girl,A lady is surfing and riding a wave,A lady,2.299999952316284
+193,Two children and an adult are standing next to a tree limb,Two children and an adult,Two children and an adult are not standing next to a tree limb,Two children and an adult,3.5999999046325684
+194,Two children and an adult are standing next to a tree limb,Two children and an adult,Two children are climbing a tree,Two children,3.0
+195,Two children and an adult are standing next to a tree limb,Two children and an adult,Two children are hanging on a large branch,Two children,2.700000047683716
+196,A man dressed in black is riding a bike,A man dressed in black,A man is performing a trick on a bike,A man,3.5
+197,A man is performing stunts on a green bicycle,A man,A man is performing a trick on a green bicycle,A man,4.699999809265137
+198,There is no man dressed in black and riding a green bike,no man dressed in black and riding a green bike,A man is performing a trick on a green bicycle,A man,3.400000095367432
+199,A boy is holding a squirt gun,A boy,A child is holding a squirt gun,A child,4.5
+200,A laughing child is holding a water gun and getting sprayed with water,A laughing child,A child with a gun that sprays water is laughing and getting hit by other boys,A child with a gun that sprays water,4.0
+201,There is no child holding a water gun or getting sprayed with water,no child holding a water gun or getting sprayed with water,A laughing child is holding a water gun and getting sprayed with water,A laughing child,4.0
+202,A child with a gun that sprays water is laughing and getting hit by other boys,A child with a gun that sprays water,A child is holding a squirt gun,A child,3.900000095367432
+203,Two daschunds are playing with a red ball,Two daschunds,Two dogs are playing with a small red ball,Two dogs,4.199999809265137
+204,Two cats are playing with a red ball,Two cats,Two daschunds are playing with a red ball,Two daschunds,3.299999952316284
+205,Two brown dogs are fighting over a red ball and are playing in the grass,Two brown dogs,Two dogs are playing with a small red ball,Two dogs,3.799999952316284
+206,There is no dog playing with a red ball,no dog playing with a red ball,Two daschunds are playing with a red ball,Two daschunds,3.0
+207,The black and white dog is running and a person stands behind it,The black and white dog,"The dog , which is black and white , is running and a person stands behind it","The dog , which is black and white ,",4.900000095367432
+208,A little dog is sprinting and the person who owns it is trying to catch it,A little dog,A little dog is sprinting and its owner is trying to catch it,A little dog,4.800000190734863
+209,The black and white dog is running and a person stands behind it,The black and white dog,A little dog is sprinting and the person who owns it is trying to catch it,A little dog,3.0
+210,The black and white dog is running and a person stands behind it,The black and white dog,A little dog is slowing down and the owner is quitting chasing it,A little dog,2.900000095367432
+211,The black and white dog isn ' t running and there is no person standing behind,The black and white dog,A little dog is sprinting and its owner is trying to catch it,A little dog,2.700000047683716
+212,A black person is running along a white stand and a dog barks behind him,A black person,A little dog is sprinting and its owner is trying to catch it,A little dog,2.5
+213,A man wearing a dyed black shirt is sitting at the table and laughing,A man wearing a dyed black shirt,A black shirt is being worn by a man who is sitting at the table and laughing,A black shirt,4.699999809265137
+214,A man wearing a dyed black shirt is sitting at the table and laughing,A man wearing a dyed black shirt,"There is no man wearing a shirt dyed black , sitting at the table and laughing","no man wearing a shirt dyed black , sitting at the table and laughing",3.700000047683716
+215,A laughing man is dyeing a shirt black on the table which you can not sit at,A laughing man,A man wearing a dyed black shirt is sitting at the table and laughing,A man wearing a dyed black shirt,3.5999999046325684
+216,A black shirt is being worn by a man who is sitting at the table and laughing,A black shirt,A man is sitting comfortably at a table,A man,3.5
+217,A man is sitting and tables a comfortable discussion,A man,A man wearing a dyed black shirt is sitting at the table and laughing,A man wearing a dyed black shirt,2.400000095367432
+218,A man is sitting comfortably at a table,A man,A man wearing a dyed black shirt is sitting at the table and laughing,A man wearing a dyed black shirt,3.900000095367432
+219,A woman who is wearing a pink boa is riding a bicycle down a bridge built for pedestrians,A woman who is wearing a pink boa,A woman who is wearing a pink scarf is riding a bike down a bridge built for pedestrians,A woman who is wearing a pink scarf,4.300000190734863
+220,A woman who is taking off a pink boa is stopping her bicycle on a bridge built for pedestrians,A woman who is taking off a pink boa,A woman who is wearing a pink boa is riding a bicycle down a bridge built for pedestrians,A woman who is wearing a pink boa,3.700000047683716
+221,A woman who is wearing a pink boa is riding a bicycle down a bridge built for pedestrians,A woman who is wearing a pink boa,"The woman wearing silver pants , pink bellbottoms and a pink scarf isn ' t riding a bike",The woman,2.5999999046325684
+222,A woman who is wearing a pink scarf is riding a bike down a bridge built for pedestrians,A woman who is wearing a pink scarf,"The woman wearing silver pants , pink bellbottoms and a pink scarf is riding a bike","The woman wearing silver pants , pink bellbottoms and a pink scarf",3.700000047683716
+223,A woman who is wearing a pink boa is riding a bicycle down a bridge built for pedestrians,A woman who is wearing a pink boa,"The woman wearing silver pants , pink bellbottoms and a pink scarf is riding a bike","The woman wearing silver pants , pink bellbottoms and a pink scarf",2.5
+224,"A person , who is riding a bike , is wearing gear which is black","A person , who is riding a bike ,",A biker is wearing gear which is black,A biker,4.699999809265137
+225,A biker is naked,A biker,A biker is wearing gear which is black,A biker,3.315000057220459
+226,A black helmet is being worn by a man who is pushing a bicycle,A black helmet,One man is wearing a black helmet and pushing a bicycle,One man,4.800000190734863
+227,A biker is wearing gear which is black,A biker,There is no man wearing a black helmet and pushing a bicycle,no man wearing a black helmet and pushing a bicycle,2.700000047683716
+228,One man is wearing a black helmet and pushing a bicycle,One man,A biker is naked,A biker,2.5999999046325684
+229,The man in a grey t - shirt is sitting on a rock in front of the waterfall,The man in a grey t - shirt,The man in a t - shirt dyed grey is sitting on a rock in front of a waterfall,The man in a t - shirt dyed grey,4.900000095367432
+230,The man in a grey t - shirt is sitting on a rock in front of the waterfall,The man in a grey t - shirt,There is no man in a grey t - shirt sitting on a rock in front of the waterfall,no man in a grey t - shirt sitting on a rock in front of the waterfall,3.5
+231,A woman is standing and isn ' t looking at the waterfall,A woman,A woman is sitting and looking at the waterfall,A woman,3.0999999046325684
+232,A woman is standing and isn ' t looking at the waterfall,A woman,The man in a grey t - shirt is sitting on a rock in front of the waterfall,The man in a grey t - shirt,2.5
+233,The man in a t - shirt dyed grey is sitting on a rock in front of a waterfall,The man in a t - shirt dyed grey,A woman is sitting and looking at the waterfall,A woman,3.0999999046325684
+234,There is no man in a grey t - shirt sitting on a rock in front of the waterfall,no man in a grey t - shirt sitting on a rock in front of the waterfall,A woman is sitting and looking at the waterfall,A woman,1.899999976158142
+235,A woman is sitting and looking at the waterfall,A woman,A rocker is sitting with a t - shirt that has a man over a grey waterfall on the front,A rocker,2.5
+236,"A dog , which is brown , and a black one are running in the grass","A dog , which is brown , and a black one",There is no dog running in the grass,no dog running in the grass,3.400000095367432
+237,A black man is running in brown grass and racing a dog,A black man,"A dog , which is brown , and a black one are running in the grass","A dog , which is brown , and a black one",2.5
+238,A dark black dog and a light brown dog are playing in the yard in the back,A dark black dog and a light brown dog,A dark black dog and a light brown dog are playing in the backyard,A dark black dog and a light brown dog,4.900000095367432
+239,A dark black dog and a light brown dog are playing in the yard in the back,A dark black dog and a light brown dog,"A dog , which is brown , and a black one are running in the grass","A dog , which is brown , and a black one",4.0
+240,A dark black dog and a light brown dog are fighting in the backyard,A dark black dog and a light brown dog,"A dog , which is brown , and a black one are running in the grass","A dog , which is brown , and a black one",3.5999999046325684
+241,There is no dog running in the grass,no dog running in the grass,A dark black dog and a light brown dog are playing in the backyard,A dark black dog and a light brown dog,3.0999999046325684
+242,A dark black dog and a light brown dog are playing in the backyard,A dark black dog and a light brown dog,A black man is running in brown grass and racing a dog,A black man,2.0
+243,A dog that has a brown and white coat is sitting in shallow water,A dog that has a brown and white coat,A dog that has a brown and white coat is trotting through shallow water,A dog that has a brown and white coat,4.099999904632568
+244,A white and brown dog is walking through the water with difficulty,A white and brown dog,A white and brown dog is pacing through the water with difficulty,A white and brown dog,4.5
+245,A group of boys are quiet in front of a large door made of wood,A group of boys,A group of boys are playing with a ball in front of a large door made of wood,A group of boys,3.5
+246,The children aren ' t playing in front of a large door,The children,A group of boys are playing with a ball in front of a large door made of wood,A group of boys,3.400000095367432
+247,A bunch of boys are playing with a ball in front of a large door made of wood,A bunch of boys,The children are playing in front of a large door,The children,3.400000095367432
+248,The children are playing in front of a large door,The children,A group of boys are quiet in front of a large door made of wood,A group of boys,3.400000095367432
+249,"A black , red , white and pink dress is being worn by a woman","A black , red , white and pink dress","A woman is taking off a cloak , which is very large , and revealing extravagant apparel",A woman,2.799999952316284
+250,"A woman is taking off a cloak , which is very large , and revealing an extravagant dress",A woman,"A black , red , white and pink dress is being worn by a woman","A black , red , white and pink dress",3.400000095367432
+251,A teenage girl is storing away beads that are red,A teenage girl,A teenage girl is wearing beads that are red,A teenage girl,3.799999952316284
+252,"A young lady with light brown hair is wearing a red necklace , a sweatshirt and earrings and is smiling",A young lady with light brown hair,"A lady of young age , with light brown hair , is wearing a red necklace , a sweatshirt and earrings and is smiling","A lady of young age , with light brown hair ,",5.0
+253,"A young lady with light brown hair is wearing a red necklace , a sweatshirt and earrings and is smiling",A young lady with light brown hair,"There is no young lady with light brown hair wearing a red necklace , a sweatshirt and earrings and smiling","no young lady with light brown hair wearing a red necklace , a sweatshirt and earrings and smiling",3.700000047683716
+254,"A young lady with light brown hair is wearing a red necklace , a sweatshirt and earrings and is smiling",A young lady with light brown hair,"A red sweatshirt with a smiling lady upon it is suited to be worn with light brown hair , earrings and a necklace",A red sweatshirt with a smiling lady upon it,3.299999952316284
+255,"A lady of young age , with light brown hair , is wearing a red necklace , a sweatshirt and earrings and is smiling","A lady of young age , with light brown hair ,",A teenage girl is wearing beads that are red,A teenage girl,3.0999999046325684
+256,"A young lady with light brown hair is wearing a red necklace , a sweatshirt and earrings and is smiling",A young lady with light brown hair,The teenage girl is wearing beads that are red,The teenage girl,2.400000095367432
+257,The girl likes red and isn ' t wearing beads for teenagers,The girl,"A young lady with light brown hair is wearing a red necklace , a sweatshirt and earrings and is smiling",A young lady with light brown hair,2.299999952316284
+258,A fearful little boy is on a climbing wall,A fearful little boy,A fearful little boy is on the ground,A fearful little boy,3.400000095367432
+259,A boy is climbing up a wall artificially built for climbing and is attached to a rope,A boy,A climbing boy rescues the fearful cat from over the wall,A climbing boy,2.200000047683716
+260,A fearful little boy is on a climbing wall,A fearful little boy,A boy is effortlessly climbing up a wall artificially built for climbing and is attached to a rope,A boy,4.099999904632568
+261,A boy is climbing up a wall artificially built for climbing and is attached to a rope,A boy,A fearful little boy is on a climbing wall,A fearful little boy,3.900000095367432
+262,A dad is launching his daughter into a swimming pool,A dad,A father is launching the daughter in a swimming pool,A father,4.800000190734863
+263,A father is in the swimming pool during his daughters launch,A father,A father is launching the daughter in a swimming pool,A father,3.200000047683716
+264,The man is tossing a kid into the swimming pool that is near the ocean,The man,One man is tossing a kid into the swimming pool that is near the ocean,One man,4.800000190734863
+265,The man is tossing a kid into the swimming pool that is near the ocean,The man,"A kid swimming in the ocean is tossing a coin into the pool , near the man",A kid swimming in the ocean,2.200000047683716
+266,One man is tossing a kid into the swimming pool that is near the ocean,One man,A father is launching the daughter in a swimming pool,A father,3.900000095367432
+267,"A kid swimming in the ocean is tossing a coin into the pool , near the man",A kid swimming in the ocean,A father is launching the daughter in a swimming pool,A father,1.600000023841858
+268,A father is in the swimming pool during his daughters launch,A father,The man is tossing a kid into the swimming pool that is near the ocean,The man,2.515000104904175
+269,A father is launching the daughter in a swimming pool,A father,The man is tossing a kid into the swimming pool that is near the ocean,The man,3.799999952316284
+270,A social climber is tying a man to a cliff with a rope,A social climber,One man is climbing a cliff with a rope,One man,3.0999999046325684
+271,"A person is standing in front of a rock with a rope , which is pink",A person,"A person is climbing a rock with a rope , which is pink",A person,3.900000095367432
+272,"A rock is being climbed by a person with a rope , which is pink",A rock,One man is climbing a cliff with a rope,One man,4.300000190734863
+273,One man is climbing a cliff with a rope,One man,"A person is standing in front of a rock with a rope , which is pink",A person,3.400000095367432
+274,"A person is climbing a rock with a rope , which is pink",A person,One man is climbing the cliff with a rope,One man,4.099999904632568
+275,"A person is climbing a rock with a rope , which is pink",A person,One man is descending a cliff with a rope,One man,2.799999952316284
+276,"A person is climbing a rock with a rope , which is pink",A person,A social climber is tying a man to a cliff with a rope,A social climber,2.684999942779541
+277,A young boy isn ' t climbing a wall made of rock,A young boy,The young boy is climbing the wall made of rock,The young boy,4.099999904632568
+278,A young child is climbing a rock climbing wall which is indoors,A young child,A young kid is climbing a rock climbing wall which is indoors,A young kid,4.699999809265137
+279,A young child is climbing a rock climbing wall which is indoors,A young child,A child is indoors watching a program about some young climbers on a rock wall .,A child,3.200000047683716
+280,A child is indoors watching a program about some young climbers on a rock wall .,A child,The young boy is climbing the wall made of rock,The young boy,3.400000095367432
+281,One young boy is climbing a wall made of rock,One young boy,A young child is climbing a rock climbing wall which is indoors,A young child,4.300000190734863
+282,A young climber is making a rock wall for the boys,A young climber,A young child is climbing a rock climbing wall which is indoors,A young child,2.900000095367432
+283,The cyclist is performing a trick in the air,The cyclist,The cyclist isn ' t performing a trick in the air,The cyclist,3.799999952316284
+284,One man is doing a bicycle trick in midair,One man,The cyclist isn ' t performing a trick in the air,The cyclist,2.900000095367432
+285,One man is doing a bicycle trick in midair,One man,The air is tricking a performing cyclist,The air,3.0
+286,"A dog , which is black , and a white one are staring at each other in the street","A dog , which is black , and a white one","A dog , which is black , and another one , which is white , are staring at each other in the street","A dog , which is black , and another one , which is white ,",4.900000095367432
+287,"A dog , which is black , and a white one are staring at each other in the street","A dog , which is black , and a white one",One white dog is staring at the black street,One white dog,3.0999999046325684
+288,Two dogs of different breeds are looking angrily at each other across a street,Two dogs of different breeds,Two dogs of different breeds are looking at each other across a street,Two dogs of different breeds,4.599999904632568
+289,Two dogs of different breeds are looking at each other across a street,Two dogs of different breeds,There are no dogs of different breeds looking at each other across a street,no dogs of different breeds looking at each other across a street,3.900000095367432
+290,"A dog , which is black , and another one , which is white , are staring at each other in the street","A dog , which is black , and another one , which is white ,",Two dogs of different breeds are looking at each other across a street,Two dogs of different breeds,4.099999904632568
+291,"A dog next to a tree , which is probably a pine , is dropping a bucket","A dog next to a tree , which is probably a pine ,","A dog next to a tree , which is probably a pine , is biting a bucket","A dog next to a tree , which is probably a pine ,",3.400000095367432
+292,"A dog next to a tree , which is probably a pine , is biting a bucket","A dog next to a tree , which is probably a pine ,",A dog in a bucket is biting a tree which is probably a pine,A dog in a bucket,3.200000047683716
+293,A dog which is furry and black is in a backyard and is carrying a basket in its mouth .,A dog which is furry and black,A dog which is furry and black is in a back yard and is carrying a basket in its mouth,A dog which is furry and black,5.0
+294,A dog which is furry and black is in a back yard and is carrying a basket in its mouth,A dog which is furry and black,There is no dog which is furry and black in a back yard carrying a basket in its mouth .,no dog which is furry and black in a back yard carrying a basket in its mouth,3.700000047683716
+295,"A dog next to a tree , which is probably a pine , is biting a bucket","A dog next to a tree , which is probably a pine ,",There is no dog which is furry and black in a back yard carrying a basket in its mouth .,no dog which is furry and black in a back yard carrying a basket in its mouth,3.200000047683716
+296,A dog in the backyard is carrying black fur in a basket in its mouth .,A dog in the backyard,"A dog next to a tree , which is probably a pine , is biting a bucket","A dog next to a tree , which is probably a pine ,",3.400000095367432
+297,A dog which is furry and black is in a back yard and is carrying a basket in its mouth,A dog which is furry and black,"A dog next to a tree , which is probably a pine , is dropping a bucket","A dog next to a tree , which is probably a pine ,",2.799999952316284
+298,Two persons of large size are sitting on a park bench and they have a bottle of soda between them,Two persons of large size,Two large persons are sitting on a park bench and they have a bottle of soda between them,Two large persons,4.699999809265137
+299,Two large persons are sitting on a park bench and they have a bottle of soda between them,Two large persons,Two large persons are standing near a park bench and they have nothing between them,Two large persons,4.099999904632568
+300,Two large park benches have a person sitting and a bottle of soda between them,Two large park benches,Two large persons are sitting on a park bench and they have a bottle of soda between them,Two large persons,3.700000047683716
+301,A man and a woman are sitting comfortably on the bench,A man and a woman,Two persons of large size are sitting on a park bench and they have a bottle of soda between them,Two persons of large size,3.299999952316284
+302,The man is racing for the lead,The man,A man is leading the race,A man,3.700000047683716
+303,A few men in a competition are running outside,A few men in a competition,One man is leading the race,One man,3.0999999046325684
+304,A man is bringing up the rear of the race,A man,A few men in a competition are running outside,A few men in a competition,3.700000047683716
+305,A few men in a competition are running outside,A few men in a competition,A man is leading the race,A man,3.799999952316284
+306,A man with a camera is studying the subject,A man with a camera,There is no man with a camera studying the subject,no man with a camera studying the subject,3.5999999046325684
+307,A man with a camera is studying the subject,A man with a camera,The study subject is a camera man,The study subject,3.5999999046325684
+308,The man with the dyed purple hat is operating a camera that makes videos,The man with the dyed purple hat,The man in the purple hat is operating a camera that makes videos,The man in the purple hat,4.900000095367432
+309,The man in the purple hat isn ' t operating a camera that makes videos,The man in the purple hat,The man in the purple hat is operating a camera that makes videos,The man in the purple hat,3.400000095367432
+310,The man with the dyed purple hat is operating a camera that makes videos,The man with the dyed purple hat,A man with a camera is studying the subject,A man with a camera,3.400000095367432
+311,A man with a camera is studying the subject,A man with a camera,The man in the purple hat isn ' t operating a camera that makes videos,The man in the purple hat,3.200000047683716
+312,The man in the purple hat is operating a camera that makes videos,The man in the purple hat,The subject is being studied by a man with a camera,The subject,3.5999999046325684
+313,The man in the purple hat is operating a camera that makes videos,The man in the purple hat,There is no man with a camera studying the subject,no man with a camera studying the subject,3.200000047683716
+314,The study subject is a camera man,The study subject,The man in the purple hat is operating a camera that makes videos,The man in the purple hat,2.799999952316284
+315,The man in the purple hat is operating a camera that makes videos,The man in the purple hat,A man with a camera is studying the subject,A man with a camera,3.299999952316284
+316,The bride and the groom are leaving after the marriage,The bride and the groom,The bride and the groom are leaving after the wedding,The bride and the groom,4.800000190734863
+317,The bride and the groom are arriving after the wedding,The bride and the groom,The bride and the groom are leaving after the wedding,The bride and the groom,4.300000190734863
+318,A married couple is walking up the aisle,A married couple,A married couple is walking down the aisle,A married couple,4.400000095367432
+319,The priest is walking down the aisle to marry a couple,The priest,The bride and the groom are leaving after the wedding,The bride and the groom,2.799999952316284
+320,The bride and the groom are leaving after the marriage,The bride and the groom,A married couple is walking down the aisle,A married couple,3.5999999046325684
+321,The bride and the groom are arriving after the wedding,The bride and the groom,A married couple is walking down the aisle,A married couple,4.0
+322,A married couple is walking down the aisle,A married couple,The bride is leaving the groom after the wedding,The bride,2.5999999046325684
+323,A married couple is walking down the aisle,A married couple,The bride and the groom are leaving after the wedding,The bride and the groom,3.400000095367432
+324,The presentation is being watched by a classroom of students,The presentation,The presentation is being attended by a classroom of students,The presentation,4.800000190734863
+325,The presentation is being attended by a classroom of students,The presentation,A classroom is full of students,A classroom,3.400000095367432
+326,The presentation is being watched by a classroom of students,The presentation,A classroom is empty,A classroom,3.0
+327,A boy on a hill covered in snow is wearing a red jacket and a black hat and is sliding on his knees,A boy on a hill covered in snow,A boy at the bottom of a hill covered in snow is naked and is sitting on his knees,A boy at the bottom of a hill covered in snow,3.200000047683716
+328,A boy on a hill covered in snow is wearing a red jacket and a black hat and is sliding on his knees,A boy on a hill covered in snow,A boy on a red and black slide is wearing a jacket and a hat and has knees which are covered in snow,A boy on a red and black slide,3.5
+329,The kid is happily sliding in the snow,The kid,The kid is sliding in the snow,The kid,4.5
+330,A snow slide is full of kids,A snow slide,The kid is sliding in the snow,The kid,3.400000095367432
+331,A boy on a hill covered in snow is wearing a red jacket and a black hat and is sliding on his knees,A boy on a hill covered in snow,The kid is still in the snow,The kid,3.400000095367432
+332,The kid is sliding in the snow,The kid,A boy at the bottom of a hill covered in snow is naked and is sitting on his knees,A boy at the bottom of a hill covered in snow,2.700000047683716
+333,A woman and a dog are peacefully sitting on a tree stump,A woman and a dog,A woman and a dog are sitting on a tree stump,A woman and a dog,4.5
+334,"A woman , who is old , is near a dog that has a white coat","A woman , who is old ,","A woman , who is old , is near a white dog","A woman , who is old ,",4.400000095367432
+335,"A woman , who is old , is far from a white dog","A woman , who is old ,",A woman and a dog are sitting on a tree stump,A woman and a dog,2.400000095367432
+336,A man is watering the grass and excitedly playing with a dog,A man,A dog is excitedly playing with water in the grass,A dog,3.5
+337,The dog is biting some droplets of water,The dog,The dog is snapping at some droplets of water,The dog,4.5
+338,The dog is snapping at some droplets of water,The dog,The dog isn ' t snapping at some droplets of water,The dog,4.0
+339,A dog is excitedly playing with water in the grass,A dog,A snap is depicting some water falling in droplets on the dog,A snap,2.900000095367432
+340,The dog is snapping at some droplets of water,The dog,There is no dog excitedly playing with water in the grass,no dog excitedly playing with water in the grass,3.5
+341,A man is watering the grass and excitedly playing with a dog,A man,The dog is snapping at some droplets of water,The dog,2.400000095367432
+342,The dog is snapping at some droplets of water,The dog,A dog is excitedly playing with water in the grass,A dog,4.199999809265137
+343,"Two people are in the snow , wearing clothes that provide camouflage",Two people,"Some people are in the snow , wearing clothes that provide camouflage",Some people,4.400000095367432
+344,Nobody is in the snow wearing clothes that provide camouflage,the snow,"Two people are in the snow , wearing clothes that provide camouflage",Two people,3.299999952316284
+345,"Some people are in the snow , wearing clothes that provide camouflage",Some people,Two people are walking two dogs with golden coats in the snow,Two people,2.700000047683716
+346,"Two people are in the snow , wearing clothes that provide camouflage",Two people,Two men are walking two dogs with golden coats in the snow,Two men,3.200000047683716
+347,"Two people are in the snow , wearing clothes that provide camouflage",Two people,Two people are walking two dogs with golden coats in the snow,Two people,2.700000047683716
+348,There is no girl wearing a t - shirt and keeping her mouth open,no girl,"A girl from Asia , in front of a brick window , looks surprised","A girl from Asia , in front of a brick window ,",2.200000047683716
+349,"A girl from Asia , in front of a window made of bricks , looks surprised","A girl from Asia , in front of a window made of bricks ,",A girl is wearing a t - shirt and has her mouth open .,A girl,2.400000095367432
+350,"A girl from Asia , in front of a brick window , doesn ' t look surprised","A girl from Asia , in front of a brick window ,",A girl is wearing a t - shirt and has her mouth open .,A girl,2.0999999046325684
+351,A person in biking gear is standing steadily in front of some mountains,A person in biking gear,The mountain gear is steadily placed in front of the standing biker,The mountain gear,3.5999999046325684
+352,There is no person in bike gear standing steadily in front of the mountains,no person in bike gear standing steadily in front of the mountains,A group of people is equipped with protective gear,A group of people,2.299999952316284
+353,A group of people is equipped with gear used for protection,A group of people,A person in biking gear is standing steadily in front of some mountains,A person in biking gear,2.0
+354,A group of people is equipped with unprotective gear,A group of people,A person in biking gear is standing steadily in front of some mountains,A person in biking gear,2.0
+355,The little kid is playing football and falling harmlessly into the grass,The little kid,The little kid is playing football and falling into the grass,The little kid,4.599999904632568
+356,There is no little kid playing football and falling into the grass,no little kid playing football and falling into the grass,The little kid is playing football and falling into the grass,The little kid,4.099999904632568
+357,The football is between the feet of a boy who is lying on the grass,The football,The little kid is playing football and falling into the grass,The little kid,3.5
+358,"A man with equipment used for climbing is hanging from a white , vertical rock .",A man with equipment used for climbing,"A man with equipment used for climbing is under a vertical , white rock",A man with equipment used for climbing,3.900000095367432
+359,A woman with a ponytail is climbing down a wall of rock,A woman with a ponytail,A woman with a ponytail is climbing a wall of rock,A woman with a ponytail,4.085000038146973
+360,A woman with a ponytail is climbing a wall of rock,A woman with a ponytail,A woman is tailing a pony near a rock climbing wall,A woman,2.900000095367432
+361,"A man with equipment used for climbing is hanging from a white , vertical rock .",A man with equipment used for climbing,A woman with pigtails is climbing a rock wall,A woman with pigtails,2.0999999046325684
+362,A woman is tailing a pony near a rock climbing wall,A woman,"A man with equipment used for climbing is hanging from a white , vertical rock .",A man with equipment used for climbing,1.7999999523162842
+363,A woman with a ponytail is climbing a wall of rock,A woman with a ponytail,"The climbing equipment to rescue a man is hanging from a white , vertical rock",The climbing equipment to rescue a man,1.7999999523162842
+364,"A man with equipment used for climbing is hanging from a white , vertical rock .",A man with equipment used for climbing,A woman with a ponytail is climbing a wall of rock,A woman with a ponytail,2.700000047683716
+365,A black and a white dog are joyfully running on the grass,A black and a white dog,A black person in white is joyfully running with the dog on the grass,A black person in white,2.400000095367432
+366,One white dog and one black one are sitting side by side on the grass,One white dog and one black one,One white dog and one black one are running side by side on the grass,One white dog and one black one,3.700000047683716
+367,One white dog and one black one are cheerfully running side by side on the grass,One white dog and one black one,A black and a white dog are joyfully running on the grass,A black and a white dog,4.400000095367432
+368,One white dog and one black one are sitting side by side on the grass,One white dog and one black one,A black and a white dog are joyfully running on the grass,A black and a white dog,4.114999771118164
+369,A black person in white is joyfully running with the dog on the grass,A black person in white,One white dog and one black one are running side by side on the grass,One white dog and one black one,2.299999952316284
+370,A lot of people are in an ice skating park,A lot of people,Not a lot of people are in an ice skating park,Not a lot of people,3.900000095367432
+371,Many people are skating in an ice park,Many people,A lot of people are in an ice skating park,A lot of people,3.900000095367432
+372,The ice skating rink placed outdoors is full of people,The ice skating rink placed outdoors,An ice skating rink placed outdoors is full of people,An ice skating rink placed outdoors,4.900000095367432
+373,An ice skating rink placed outdoors is empty,An ice skating rink placed outdoors,An ice skating rink placed outdoors is full of people,An ice skating rink placed outdoors,3.5999999046325684
+374,An ice skating rink placed outdoors is full of people,An ice skating rink placed outdoors,An ice skater is outdoors performing on a rink full of people,An ice skater,4.0
+375,The ice skating rink placed outdoors is full of people,The ice skating rink placed outdoors,A lot of people are in an ice skating park,A lot of people,4.199999809265137
+376,A lot of people are in an ice skating park,A lot of people,An ice skater is outdoors performing on a rink full of people,An ice skater,3.5
+377,An ice skating rink placed outdoors is full of people,An ice skating rink placed outdoors,There aren ' t many people in the ice skating park,the ice skating park,3.5999999046325684
+378,An ice skating rink placed outdoors is full of people,An ice skating rink placed outdoors,A lot of people are in an ice skating park,A lot of people,4.5
+379,"A girl in a uniform , which is blue , is lowering her arm","A girl in a uniform , which is blue ,","A girl in a uniform , which is blue , is raising her arm .","A girl in a uniform , which is blue ,",3.400000095367432
+380,A girl is raising a blue uniform with her arm,A girl,"A girl in a uniform , which is blue , is raising her arm .","A girl in a uniform , which is blue ,",3.299999952316284
+381,The girl in the blue and white uniform is cheering,The girl in the blue and white uniform,Some cheers are being performed by the girl in the blue and white uniform,Some cheers,4.900000095367432
+382,The girl in the blue and white uniform isn ' t cheering,The girl in the blue and white uniform,The girl in the blue and white uniform is cheering,The girl in the blue and white uniform,4.099999904632568
+383,Some cheers are being performed by the girl in the blue and white uniform,Some cheers,"A girl in a uniform , which is blue , is raising her arm .","A girl in a uniform , which is blue ,",4.199999809265137
+384,The girl in the blue and white uniform is cheering,The girl in the blue and white uniform,"A girl in a uniform , which is blue , is lowering her arm","A girl in a uniform , which is blue ,",3.400000095367432
+385,A girl is raising a blue uniform with her arm,A girl,The girl in the blue and white uniform is cheering,The girl in the blue and white uniform,3.200000047683716
+386,"A girl in a uniform , which is blue , is raising her arm .","A girl in a uniform , which is blue ,",The girl in the blue and white uniform is cheering,The girl in the blue and white uniform,3.299999952316284
+387,People are on a beach full of sand by the ocean and are enjoying a sunny day,the ocean,People are on a beach full of sand by the ocean and are enjoying a day full of sun,the ocean,4.800000190734863
+388,People are far from a beach full of sand by the ocean and are suffering from the sunny day,the ocean,People are on a beach full of sand by the ocean and are enjoying a sunny day,the ocean,2.900000095367432
+389,People are far from a beach full of sand by the ocean and are suffering from the sunny day,the ocean,A bunch of people is on the shore,A bunch of people,2.799999952316284
+390,People are on a beach full of sand by the ocean and are enjoying a sunny day,the ocean,A bunch of people is on the shore,A bunch of people,3.799999952316284
+391,The man is doing a wheelie with a motorbike in a field which is mostly barren,The man,The man is doing a wheelie with a motorcycle on ground which is mostly barren,The man,4.400000095367432
+392,The man is doing a wheelie with a motorcycle on ground which is mostly barren,The man,"The man is on ground which is mostly barren , filming a wheelie done with a motorcycle .",The man,3.5
+393,A man in a blue jumpsuit is courageously performing a wheelie on a motorcycle,A man in a blue jumpsuit,The man is getting off a motorcycle onto ground which is mostly barren,The man,3.5
+394,A man in a blue jumpsuit is courageously performing a wheelie on a motorcycle,A man in a blue jumpsuit,The man is doing a wheelie with a motorcycle on ground which is mostly barren,The man,4.099999904632568
+395,A man in a blue jumpsuit is failing to perform a wheelie on a motorcycle,A man in a blue jumpsuit,The man is doing a wheelie with a motorcycle on ground which is mostly barren,The man,3.400000095367432
+396,The man is doing a wheelie with a motorcycle on ground which is mostly barren,The man,A courageous performer is doing a wheelie with a motorcycle over a man in a blue jumpsuit,A courageous performer,3.5999999046325684
+397,Two people are arguing near a crowd,Two people,Two people are kissing near a crowd,Two people,3.0
+398,Two people are passionately kissing near a crowd,Two people,A woman is being kissed by a man,A woman,4.0
+399,Two people are kissing near a crowd,Two people,A lady is being kissed by a man,A lady,4.099999904632568
+400,Two people are kissing near a crowd,Two people,A woman is being kissed by a man,A woman,4.0
+401,The young girl is blowing a bubble that is huge,The young girl,The young girl is blowing a bubble that is very small,The young girl,3.700000047683716
+402,The young girl is blowing a bubble that is huge,The young girl,The girl in a dyed red shirt isn ' t blowing a bubble,The girl in a dyed red shirt,3.299999952316284
+403,"A bubble blew , dyeing the girl ' s shirt red .",A bubble,The young girl is blowing a bubble that is huge,The young girl,3.0
+404,A young child is barefoot and is walking past a puddle full of mud,A young child,A young child is wearing green boots and playing in a puddle full of mud,A young child,3.5
+405,A young child is wearing green boots and playing in a puddle full of mud,A young child,Some green boots in a puddle full of mud are targeted by a playful young child wearing a scarf,Some green boots in a puddle full of mud,3.0
+406,A young child is wearing green boots and playing in a puddle full of mud,A young child,A little boy is jumping into a puddle in the street,A little boy,3.799999952316284
+407,A little boy is jumping into a puddle on the street,A little boy,A young child is wearing boots made of green rubber and playing in a puddle full of mud,A young child,4.199999809265137
+408,A young child is barefoot and is walking past a puddle full of mud,A young child,A little boy is jumping into a puddle on the street,A little boy,2.900000095367432
+409,Some green boots in a puddle full of mud are targeted by a playful young child wearing a scarf,Some green boots in a puddle full of mud,A little boy is jumping into a puddle on the street,A little boy,2.5999999046325684
+410,"Two toddlers are sleeping in a wagon , which is really small",Two toddlers,"Two toddlers are eating corndogs in a wagon , which is really small",Two toddlers,3.400000095367432
+411,Two toddlers are eating on a really small wagon full of corndogs,Two toddlers,"Two toddlers are eating corndogs in a wagon , which is really small",Two toddlers,3.900000095367432
+412,Two young kids are eating corndogs,Two young kids,Two young children are eating corndogs,Two young children,4.900000095367432
+413,"Two toddlers are eating corndogs in a wagon , which is really small",Two toddlers,Two young children are eating corndogs,Two young children,4.5
+414,"Some corndogs are being eaten by two toddlers who are in a wagon , which is really small",Some corndogs,Two young kids are eating corndogs,Two young kids,4.300000190734863
+415,"Two toddlers are sleeping in a wagon , which is really small",Two toddlers,Two young kids are eating corndogs,Two young kids,1.600000023841858
+416,"Two toddlers are eating corndogs in a wagon , which is really small",Two toddlers,Two young kids are eating corndogs,Two young kids,4.300000190734863
+417,A man in a shirt dyed purple is looking at a man in a black shirt who is doing a funny face,A man in a shirt dyed purple,A man in a shirt dyed purple is looking at a man in a black shirt who is doing a face which looks funny,A man in a shirt dyed purple,5.0
+418,"A man in a shirt dyed purple is walking away from a man in a black shirt , who is serious",A man in a shirt dyed purple,A man in a shirt dyed purple is looking at a man in a black shirt who is doing a funny face,A man in a shirt dyed purple,3.400000095367432
+419,A man in a shirt dyed purple is looking at a man in a black shirt who is doing a funny face,A man in a shirt dyed purple,"A man in a purple shirt is dying another shirt black , which has a man looking at a dog doing a funny face painted on it .",A man in a purple shirt,3.0
+420,A man in a pose is being amusedly watched by another man,A man in a pose,A man doing a pose is being watched by another man,A man doing a pose,4.599999904632568
+421,A man in a shirt dyed purple is looking at a man in a black shirt who is doing a funny face,A man in a shirt dyed purple,There is no man in a pose being watched by another man,no man in a pose being watched by another man,3.5999999046325684
+422,A man doing a pose is being watched by another man,A man doing a pose,"A man in a shirt dyed purple is walking away from a man in a black shirt , who is serious",A man in a shirt dyed purple,2.799999952316284
+423,A horse is tossing the cowboy wearing pants of blue and red color,A horse,The cowboy in blue and red pants is being tossed by a horse,The cowboy in blue and red pants,4.900000095367432
+424,A horse is tossing the cowboy wearing pants of blue and red color,A horse,The cowboy is tossing the blue and red pants towards the horse,The cowboy,2.900000095367432
+425,A man is laying a cover over a wild horse that is falling on the track,A man,A man is falling off a horse on a track and is laid in the wild,A man,3.0
+426,A man is abruptly falling off a horse on a track laid in the wild,A man,A horse is tossing the cowboy wearing pants of blue and red color,A horse,3.400000095367432
+427,A man is falling off a horse on a track and is laid in the wild,A man,The cowboy is tossing the blue and red pants towards the horse,The cowboy,2.200000047683716
+428,A man is falling off a horse on a track and is laid in the wild,A man,A horse is tossing the cowboy wearing pants of blue and red color,A horse,2.700000047683716
+429,"The man and the boy are standing at the bottom of the stairs , which are outdoors",The man and the boy,"A man and a boy are standing at the bottom of some stairs , which are outdoors",A man and a boy,5.0
+430,"The man and the boy are standing at the bottom of the stairs , which are outdoors",The man and the boy,The man is standing outdoor and the boy is falling over the bottom of the stairs,The man,3.299999952316284
+431,An adult is in the amphitheater and is talking to a boy,An adult,The man is standing outdoor and the boy is falling over the bottom of the stairs,The man,2.0
+432,There is no adult in the amphitheater talking to a boy,no adult in the amphitheater talking to a boy,"The man and the boy are standing at the bottom of the stairs , which are outdoors",The man and the boy,2.200000047683716
+433,"The man and the boy are standing at the bottom of the stairs , which are outdoors",The man and the boy,An adult is in the amphitheater and is talking to a boy,An adult,1.7999999523162842
+434,A boy in a red shirt is in front of a long blue wall and is suspiciously raising an eyebrow at the camera,A boy in a red shirt,"A boy in a red shirt is behind a long blue wall and is lowering an eyebrow , facing the camera",A boy in a red shirt,4.0
+435,There is no boy standing in front of the blue building in the space reserved for handicapped people,no boy standing in front of the blue building in the space reserved for handicapped people,A boy is standing in front of the blue building in the space reserved for handicapped people,A boy,4.099999904632568
+436,A boy in a red shirt is in front of a long blue wall and is suspiciously raising an eyebrow at the camera,A boy in a red shirt,There is no boy standing in front of the blue building in the space reserved for handicapped people,no boy standing in front of the blue building in the space reserved for handicapped people,2.0
+437,A boy in a red shirt is in front of a long blue wall and is suspiciously raising an eyebrow at the camera,A boy in a red shirt,A boy is standing in front of the blue building in the space reserved for handicapped people,A boy,2.400000095367432
+438,"The Jockeys are riding horses on the field , which is completely green",The Jockeys,"The Jockeys are racing horses on the field , which is completely green",The Jockeys,4.699999809265137
+439,"The Jockeys are racing horses on the field , which is completely green",The Jockeys,"The Jockeys are slowing down their horses on the field , which is completely green",The Jockeys,4.199999809265137
+440,The green field for horse races is completely full of Jockeys,The green field for horse races,"The Jockeys are racing horses on the field , which is completely green",The Jockeys,4.0
+441,Some furious racers on the green grass are yelling at the horses jumping an obstacle,Some furious racers on the green grass,"The Jockeys are racing horses on the field , which is completely green",The Jockeys,2.799999952316284
+442,Some horses are racing furiously over the green grass and jumping an obstacle,Some horses,"The Jockeys are slowing down their horses on the field , which is completely green",The Jockeys,3.0
+443,Some horses are racing furiously over the green grass and jumping an obstacle,Some horses,The green field for horse races is completely full of Jockeys,The green field for horse races,3.900000095367432
+444,A woman is wearing sunglasses of large size and is holding newspapers in both hands,A woman,The woman is wearing sunglasses of large size and is holding newspapers in both hands,The woman,5.0
+445,A woman is wearing sunglasses of large size and is holding newspapers in both hands,A woman,There is no woman wearing sunglasses of large size and holding newspapers in both hands,no woman wearing sunglasses of large size and holding newspapers in both hands,3.799999952316284
+446,An old woman is wearing a shirt with a rose pattern upon it and is clumsily carrying two newspapers,An old woman,A woman is wearing sunglasses of large size and is holding newspapers in both hands,A woman,3.5999999046325684
+447,An old woman is wearing a rose patterned shirt and is clumsily carrying two newspapers,An old woman,The woman is wearing sunglasses of large size and is holding newspapers in both hands,The woman,3.5
+448,An old woman is wearing a rose patterned shirt and is clumsily carrying two newspapers,An old woman,There is no woman wearing sunglasses of large size and holding newspapers in both hands,no woman wearing sunglasses of large size and holding newspapers in both hands,3.0
+449,An old woman is wearing a rose patterned shirt and is clumsily carrying two newspapers,An old woman,A woman is wearing sunglasses of large size and is holding newspapers in both hands,A woman,3.799999952316284
+450,A person who is practicing snowboarding falls from the air,A person,A person who is practicing snowboarding jumps into the air,A person who is practicing snowboarding,3.5
+451,The snowboarder is leaping over white snow,The snowboarder,A leap over white snow is greatly appealing to the snowboarders,A leap over white snow,3.200000047683716
+452,The snowboarder is leaping fearlessly over white snow,The snowboarder,A person who is practicing snowboarding jumps into the air,A person who is practicing snowboarding,3.900000095367432
+453,A practicing jumper is tossing a person ' s snowboard into the air,A practicing jumper,The snowboarder is leaping over white snow,The snowboarder,2.799999952316284
+454,The snowboarder is leaping over white snow,The snowboarder,A person who is practicing snowboarding jumps into the air,A person who is practicing snowboarding,4.099999904632568
+455,"A dog is near a ball colored in red , which is in the air",A dog,A dog is near the red ball in the air,A dog,4.900000095367432
+456,A dog is near the red ball in the air,A dog,A dog is far from the red ball in the air,A dog,3.5999999046325684
+457,A dog is jumping in the air to catch a red ball,A dog,A dog is near the red ball in the air,A dog,4.199999809265137
+458,"A dog , which is small , is playing tirelessly on the green grass","A dog , which is small ,","A dog , which is small , is playing on the green grass","A dog , which is small ,",4.699999809265137
+459,"A dog , which is small , is playing on the green grass","A dog , which is small ,","A dog , which is small , is running out of the green grass","A dog , which is small ,",3.900000095367432
+460,"A dog , which is small , is playing on the green grass","A dog , which is small ,",A small kid is playing with a green toy dog on the grass,A small kid,2.799999952316284
+461,"A dog , which is small , is running out of the green grass","A dog , which is small ,",A dog is near the red ball in the air,A dog,2.5999999046325684
+462,A dog is near the red ball in the air,A dog,A small kid is playing with a green toy dog on the grass,A small kid,1.7999999523162842
+463,"A dog , which is small , is playing on the green grass","A dog , which is small ,","A dog is near a ball colored in red , which is in the air",A dog,2.400000095367432
+464,A dog is far from the red ball in the air,A dog,"A dog , which is small , is playing on the green grass","A dog , which is small ,",2.0
+465,A dog is near the red ball in the air,A dog,"A dog , which is small , is playing on the green grass","A dog , which is small ,",2.700000047683716
+466,A man is riding a motorbike in the event related to motocross,A man,A person is riding a motorbike in the event related to motocross,A person,4.400000095367432
+467,The person is riding a motorbike on a sandy track,The person,A man is riding a motorbike in the event related to motocross,A man,3.5999999046325684
+468,There is no person riding a motorbike in the event related to motocross,no person riding a motorbike in the event related to motocross,The person is riding a motorbike on a sandy track,The person,3.565000057220459
+469,A person is riding a motorbike in the event related to motocross,A person,The person isn ' t riding a motorbike on a sandy track,The person,3.299999952316284
+470,A motorbike rider is jumping over a person on a sandy track,A motorbike rider,A person is riding a motorbike in the event related to motocross,A person,3.299999952316284
+471,The young girl with a pink shirt is peacefully lying on the grass,The young girl with a pink shirt,The young girl with a pink shirt isn ' t peacefully lying on the grass,The young girl with a pink shirt,4.5
+472,A girl is wearing a pink shirt with white writing on it and is lying in the grass,A girl,The young girl with a shirt dyed pink is peacefully lying on the grass,The young girl with a shirt dyed pink,4.099999904632568
+473,The young girl with a pink shirt is peacefully lying on the grass,The young girl with a pink shirt,A girl is naked and is standing on the grass,A girl,3.299999952316284
+474,A dog of large size is running on the grass with a tennis ball in its mouth,A dog of large size,A large dog is running on the grass with a tennis ball in its mouth,A large dog,4.699999809265137
+475,There is no large dog running on the grass with a tennis ball in its mouth,no large dog running on the grass with a tennis ball in its mouth,A large dog is running on the grass with a tennis ball in its mouth,A large dog,3.5
+476,A large dog is running on the grass with a tennis ball in its mouth,A large dog,A large tennis ball is being used to teach a dog to run in the grass and catch it with its mouth,A large tennis ball,3.799999952316284
+477,"A dog , which is large and gray , is carrying a ball in its mouth and running across the grass","A dog , which is large and gray ,","A large , gray ball is hitting a running dog , which is carrying some grass in its mouth","A large , gray ball",3.0999999046325684
+478,A large dog is running on the grass with a tennis ball in its mouth,A large dog,"A dog , which is large and gray , is difficultly carrying a ball in its mouth and running across the grass","A dog , which is large and gray ,",4.199999809265137
+479,"A large , gray ball is hitting a running dog , which is carrying some grass in its mouth","A large , gray ball",A large dog is running on the grass with a tennis ball in its mouth,A large dog,2.450000047683716
+480,"A dog , which is large and gray , is carrying a ball in its mouth and running across the grass","A dog , which is large and gray ,",A dog of large size is running on the grass with a tennis ball in its mouth,A dog of large size,4.199999809265137
+481,"A dog , which is large and gray , is carrying a ball in its mouth and running across the grass","A dog , which is large and gray ,",There is no large dog running on the grass with a tennis ball in its mouth,no large dog running on the grass with a tennis ball in its mouth,3.400000095367432
+482,A large tennis ball is being used to teach a dog to run in the grass and catch it with its mouth,A large tennis ball,"A dog , which is large and gray , is carrying a ball in its mouth and running across the grass","A dog , which is large and gray ,",3.200000047683716
+483,"A dog , which is large and gray , is carrying a ball in its mouth and running across the grass","A dog , which is large and gray ,",A large dog is running on the grass with a tennis ball in its mouth,A large dog,4.400000095367432
+484,A man is opening a package that contains headphones,A man,A man who is wearing headphones is opening a package,A man who is wearing headphones,2.900000095367432
+485,There is no woman riding a horse,no woman riding a horse,A woman is riding a horse,A woman,2.799999952316284
+486,A man who is wearing headphones is opening a package,A man who is wearing headphones,A woman is riding a horse,A woman,1.2000000476837158
+487,A woman is riding a horse,A woman,A man is opening a package that contains headphones,A man,1.100000023841858
+488,A man is singing and playing the guitar,A man,A man is singing a song and playing the guitar,A man,4.900000095367432
+489,A man is singing a song and playing the guitar,A man,A man is opening a package that contains headphones,A man,1.2000000476837158
+490,A man is opening a package that contains headphones,A man,There is no man singing and playing the guitar,no man singing and playing the guitar,1.2000000476837158
+491,A man is singing and playing the guitar,A man,A man who is wearing headphones is opening a package,A man who is wearing headphones,1.899999976158142
+492,There is no dog riding a skateboard,no dog riding a skateboard,A dog is riding a skateboard,A dog,3.799999952316284
+493,A fish is hunting for a turtle in the sea,A fish,A sea turtle is hunting for fish,A sea turtle,3.900000095367432
+494,The turtle is following the red fish,The turtle,The turtle is following the fish,The turtle,4.599999904632568
+495,A sea turtle is hunting for fish,A sea turtle,The turtle isn ' t following the fish,The turtle,3.200000047683716
+496,The turtle is following the fish,The turtle,A sea turtle is hunting for food,A sea turtle,3.900000095367432
+497,A woman is dipping a shrimp in batter,A woman,The car is being driven by a man,The car,1.399999976158142
+498,A woman is dipping a shrimp in batter,A woman,A man is driving a car,A man,1.0
+499,There is no man playing a guitar,no man playing a guitar,A man is playing a guitar,A man,2.799999952316284

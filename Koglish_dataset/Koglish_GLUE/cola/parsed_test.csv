@@ -1,0 +1,501 @@
+,sentence,source_np0,label
+0,One people was dying of thirst .,One people,0
+1,The drunk hugged the lamppost .,The drunk,1
+2,the boy likes herself .,the boy,0
+3,Rub the baby with the cloth asleep .,the baby,0
+4,The chisel carved the marble .,The chisel,1
+5,Ayala sent back the diamond necklace .,the diamond necklace,1
+6,This doll is hard to see it .,This doll,0
+7,The jury believed the defendant lied .,The jury,1
+8,The clown amused the children .,The clown,1
+9,The rabbit vanished into thin air .,The rabbit,1
+10,Gilgamesh is fighting the dragon .,the dragon,1
+11,Gilgamesh should slowly be tickling the mandrake .,the mandrake,1
+12,The books stood on the table .,The books,1
+13,That Sam sometimes didn ' t sleep must have pleased somebody .,t sleep,1
+14,"When dining with evil crocodiles , it is advisable to wear armour .",evil crocodiles,1
+15,"The president could not approve the bill , couldn ' t he ?",The president,1
+16,I never met that man who anybody tried to kill .,that man who anybody tried to kill,0
+17,John is more than five feet short .,more than five feet,0
+18,There is arriving three men at that station .,that station,0
+19,Confiscate any liquor .,any liquor,1
+20,Every boy has any potatoes .,Every boy,0
+21,The patient died .,The patient,1
+22,We arrived about six o ' clock,about six o ' clock,1
+23,"Because she had got the highest marks , Medea was happy",the highest marks,1
+24,This proved a decisive factor .,a decisive factor,1
+25,Tony broke her arm .,her arm,1
+26,The stone knocked the pole into the road .,The stone,0
+27,John mentioned the issue to me .,the issue,1
+28,I don ' t have any potatoes .,any potatoes,1
+29,This very heavy parcel was delivered yesterday .,This very heavy parcel,1
+30,The dentist was persuaded to examine Pat .,The dentist,1
+31,He was arrested by the police .,the police,1
+32,I climbed up the tree .,the tree,1
+33,I didn ' t eat any ice cream or any cake .,any ice cream or any cake,1
+34,Alex was eating the popsicle .,the popsicle,1
+35,John taught new students English Syntax .,new students,1
+36,Mary doesn ' t have as many too many too many as Jane .,as many too many too many as Jane,1
+37,They disappeared their way off the stage .,their way,0
+38,I can well imagine quickly Mary answering the question .,the question,0
+39,The puppy licked the kitten ' s face .,The puppy,1
+40,Carol carved the marble .,the marble,1
+41,The music lent a festive air to the party .,The music,1
+42,John and Mary will play with Henry and with Sue .,John and Mary,1
+43,Under the bed is the best place to hide,the bed,1
+44,"Mary questioned Joe ' s desire to eat cabbage , but only after I had questioned Sally ' s desire to .",Joe ' s desire to eat cabbage,0
+45,The winter schedule differed from the spring schedule .,The winter schedule,1
+46,"George has spent a lot of money , hasn ' t he ?",a lot of money,1
+47,George gave Jessica the book .,the book,1
+48,"Which folks up at corporate headquarters do you think that the sooner you solve this problem , the quicker you ' ll be able to tell t to buzz off ?",corporate headquarters,0
+49,John seems to fix the computer .,the computer,1
+50,Bob proved that this set is recursive .,this set,1
+51,little information was provided .,little information,1
+52,few clues could be found .,few clues,1
+53,That Anne was in conversation with Mr Elliott dismayed Captain .,conversation with Mr Elliott,1
+54,How brave they must believe the claim that you are !,the claim that you are,0
+55,The unidentified victim was apparently struck during the early morning hours .,The unidentified victim,1
+56,The child was never running to the car .,The child,1
+57,Martha carved the baby a toy out of wood .,the baby,1
+58,By is eaten monkey banana that the being,eaten monkey banana that the being,0
+59,Cohen proved the independence of the continuum hypothesis .,the independence of the continuum hypothesis,1
+60,Fifty pounds seem like a lot of weight to lose in one year .,Fifty pounds,1
+61,Bill floated into the cave for hours .,the cave,0
+62,The child is impossible to teach .,The child,1
+63,A girl came in who had worn this coat .,A girl,1
+64,Joan plays and sings folk songs a wonderful old guitar from Spain .,folk songs,0
+65,What Mary did Bill was give a book .,Mary did Bill,0
+66,Abernathy admitted that the poison pen letter had been written by my sister and himself .,the poison pen letter,1
+67,The horse jumped over the stream .,The horse,1
+68,Paula hit the sticks together .,the sticks,1
+69,Which boy ' s did we elect guardian ' s employer president ?,guardian ' s employer president,0
+70,A good friend is remained to me .,A good friend,0
+71,Maxwell isn ' t half the doctor that people around here believe that his father was .,half the doctor,1
+72,the baker from whom I bought these bagels left .,the baker,1
+73,To improve myself is a goal for next year .,a goal for next year,1
+74,I thought of the moon,the moon,1
+75,Seven more soldiers came in after ten ones had left .,Seven more soldiers,0
+76,That Dan smokes in the office really bothers Alina .,That Dan smokes in the office,1
+77,Benjamin gave Lee the cloak and Nathan the chalice .,the cloak and Nathan the chalice,1
+78,I made a proposal we squander the money .,a proposal we squander the money,0
+79,"Bill must quickly eat the peaches , and Harry must slowly .",the peaches,0
+80,This week will be a difficult one for us .,This week,1
+81,Emma and Harriet were attacked yesterday .,Emma and Harriet,1
+82,John ' s quilt has a hole in its upper right - hand corner .,John ' s quilt,1
+83,The inspector analyzed the soundness in the building .,The inspector,0
+84,"While Truman doesn ' t want to visit every city , he does Barcelona .",every city,1
+85,Gilgamesh seek may Ishtar,Gilgamesh seek,0
+86,Margaret cut at the bread .,the bread,1
+87,They hit the ball .,the ball,1
+88,The horse broke Penny in the shin .,The horse,0
+89,much clue is needed .,much clue,0
+90,Felicia threw the ball out the window .,the ball,1
+91,They spoil their kids rotten .,their kids,1
+92,But these tickets are terrible !,these tickets,1
+93,John rolled the ball perfectly down the hill .,the ball,1
+94,"That dog is so ferocious , it even tried to bite himself .",That dog,0
+95,That John sold the ostrich surprised Bill .,the ostrich,1
+96,It seems to be a fountain in the park .,a fountain in the park,0
+97,This is a hat which I ' m going to see to it that my wife buys .,a hat which I ' m going to see to it that my wife buys,1
+98,We celebrated in the streets .,the streets,1
+99,There is strangers in that garden .,that garden,0
+100,Will the tourists go to the park ?,the tourists,1
+101,There is enough bread for all of you .,enough bread for all of you,1
+102,Lucy ' s analysis was the most successful,Lucy ' s analysis,1
+103,On the streets of Chicago melted a lot of snow .,the streets of Chicago,0
+104,The old house collapsed .,The old house,1
+105,I covered the bread with butter .,the bread,1
+106,Each of our rabbit and the neighbor ' s cat likes the other .,Each of our rabbit and the neighbor ' s cat,1
+107,Ray found it frustrating that his policies made little impact on poverty .,his policies,1
+108,Advantage is taken of every opportunity for improvement .,every opportunity for improvement,1
+109,Marlene dressed her body .,her body,0
+110,Jason gave the poisoned clothes to who ?,the poisoned clothes,1
+111,The roses bloomed .,The roses,1
+112,The baby chewed the biscuit .,The baby,1
+113,Those bandits attacked Emma and Harriet yesterday .,Those bandits,1
+114,Alison poked the cloth .,the cloth,1
+115,"I taught them English for an entire year , but they don ' t seem to have learned .",an entire year,1
+116,The boys swim .,The boys,0
+117,Mary wondered which picture of himself Bill saw ?,which picture,1
+118,He ' s a reliable enough man .,a reliable enough man,1
+119,I lent Tony the book all the way .,all the way,0
+120,The little cat devoured a mouse last night .,The little cat,1
+121,Mary should buy some flowers for her mother to arrange .,some flowers,1
+122,Which city and which conference did Bill go to to ?,Which city,0
+123,The more carefully he words the letter the safer he ' ll be .,the letter,1
+124,They lost themselves ' books .,themselves ' books,0
+125,I consider there a man in that garden .,a man in that garden,0
+126,"The contractor will build you a house for $ 100 , 000 .",The contractor,1
+127,I expect soon to see the results .,the results,1
+128,John tried to make Sam let George ask Bill to keep delivering the mail .,the mail,1
+129,That Sandy had lied suggested .,That Sandy,0
+130,Richard ' s gift of the helicopter to the hospital and of the bus to the school .,Richard ' s gift,1
+131,the barge piled high with logs .,the barge,1
+132,My brother is an Einstein at maths .,My brother,1
+133,We persuaded the dentist to examine us .,the dentist,1
+134,I believe there to be no way out .,no way out,1
+135,"They want to hire someone who speaks a Balkan language , but I don ' t know which language .",someone who speaks a Balkan language,0
+136,The man I think chased Fido returned .,The man I think chased Fido,1
+137,They all agreed to include those matters which everyone believed had been excluded from the Treaty .,They all,1
+138,Ann may spending her vacation in Italy .,her vacation,0
+139,"Stories about him seem to show up more on the evening news , the more that John gets upset by them .",Stories about him,1
+140,"Leslie is rather foolish , and Lou a complete idiot .",Lou a complete idiot,1
+141,John can to kick the ball .,the ball,0
+142,The cattle herded .,The cattle,1
+143,Bill dried the clothes .,the clothes,1
+144,The sailor drowned .,The sailor,1
+145,Your books were gone most thoroughly over .,Your books,0
+146,The cat trotted in .,The cat,1
+147,Martha carved the piece of wood into a toy .,the piece of wood,1
+148,The chef eats beans and serves salads with forks .,The chef,1
+149,John talked to any powerful politician .,any powerful politician,0
+150,Dracula thought that he was the Prince of Darkness .,the Prince of Darkness,1
+151,The cages which we donated wire for the convicts to build with are strong .,The cages which we donated wire for the convicts to build with,0
+152,Maxwell isn ' t the doctor that his father was .,the doctor that his father was,1
+153,Which book by his father did he read ?,Which book,1
+154,The therapist ' s analysis of Lucy,The therapist ' s analysis,1
+155,Linda winked at the audience .,the audience,1
+156,John made a fool of himself in front of everyone who was there .,a fool of himself,1
+157,John eats more than he sleeps .,more than he sleeps,1
+158,Americans have paying income tax ever since 1913 .,income tax,0
+159,Philippa cried her eyes dry .,her eyes,1
+160,Would each the men have been working ?,each the men,0
+161,the enemy ' s destroying the city was horrific .,the enemy ' s destroying the city,1
+162,"The happy , happy , happy , happy , happy , happy man sang a song .","The happy , happy , happy , happy , happy , happy man",1
+163,"Arizona elected Goldwater Senator , and Massachusetts , McCormack .","Goldwater Senator , and Massachusetts , McCormack",0
+164,All the dragons had escaped .,All the dragons,1
+165,Paula spanked the naughty child ' s back .,the naughty child ' s back,1
+166,"After ten had left , seven more soldiers came in .",seven more soldiers,1
+167,"Sam doesn ' t play bassoon , nor Medusa oboe .",Medusa oboe,1
+168,What did Bill make the claim that he read in the syntax book ?,the claim that he read in the syntax book,0
+169,The teacher handed the student .,The teacher,0
+170,We all thought he to be unhappy,We all,0
+171,"He had hardly collected the papers on his desk , had he ?",the papers on his desk,1
+172,A solution immediately presented itself .,A solution,1
+173,Who will John ask for information about summer courses ?,information about summer courses,1
+174,The weather rained,The weather,0
+175,The belief that syntactic theory reveals the inner structure of sentences emboldened the already much too cocky professor .,syntactic theory,1
+176,This large parcel is very heavy .,This large parcel,1
+177,Juliet says that Romeo lies to his parents a lot .,his parents,1
+178,In the aquarium swam a striped fish .,the aquarium,1
+179,The earth was believed to be round .,The earth,1
+180,I ' m surprised we had any potatoes .,any potatoes,1
+181,down the hill rolled John .,the hill,1
+182,This key won ' t open .,This key,0
+183,The stream twists through the valley .,The stream,1
+184,Different teams beat the Red Sox and were beaten by the Giants .,Different teams,1
+185,"Edward ' s help , you can rely on .",Edward ' s help,1
+186,The soldiers lodged in the schoolhouse .,The soldiers,1
+187,Which the poem did Homer recite ?,the poem,0
+188,Bill squeezed himself through the hole .,the hole,1
+189,Susanne gave the minivan to George .,the minivan,1
+190,The kids were failed by Max as a father .,The kids,0
+191,I insist in seeing all the students who started out the term in my class through .,all the students who started out the term in my class through,0
+192,Only the travelers who anybody has ever robbed don ' t carry machetes .,Only the travelers,0
+193,This is my favorite .,my favorite,1
+194,It was a brand new car that he bought .,a brand new car that he bought,1
+195,People now drink less beer .,less beer,1
+196,It was over the hill and through the woods that they came running,the hill,1
+197,It was an explosion that you heard .,an explosion that you heard,1
+198,I gave Jack Ed ' s picture of myself .,Jack Ed ' s picture,0
+199,Half of the year be dark and wintry .,Half of the year,1
+200,The writers could so believe the boy .,The writers,1
+201,I spoke to about the war yesterday that guy who ' s always following us .,that guy who ' s always following us,0
+202,Agamemnon stopped Jason from casting the spell,the spell,1
+203,What his father wants him to be is a better pool player .,a better pool player,1
+204,Bill followed the road into the forest .,the road,1
+205,"This is the book of which Bill approves , and this is the one of which he doesn ' t .",the book of which Bill approves,1
+206,That Harry loves dancing is evidenced by his shiny tap shoes .,his shiny tap shoes,1
+207,Give the bottle to the baby awake .,the bottle,0
+208,What is likely to have been bought at the supermarket ?,the supermarket,1
+209,I lent the book all the way to Tony .,the book,0
+210,Crystal breaks at the slightest touch .,Crystal breaks,1
+211,That piece of ice is too big for for him to be able to pick up with a teaspoon to be likely .,That piece of ice,0
+212,"Tonight , what Bob cooked yesterday still tastes good , so tonight it will be eaten up .",what Bob cooked yesterday,1
+213,He attributed the fire to a short circuit .,the fire,1
+214,Most of the milk your baby consumes during breastfeeding is produced during nursing .,Most of the milk your baby consumes during breastfeeding,1
+215,The bell rang .,The bell,1
+216,He figured the answer out .,the answer out,1
+217,John heard that they criticized each other .,each other,0
+218,The box gradually contained the ball .,The box,0
+219,Her efficient looking up of the answer pleased the boss .,Her efficient looking up of the answer,1
+220,Linda taped the picture to the wall .,the picture,1
+221,Every man lifted the table .,Every man,1
+222,The money that you gave me disappeared last night .,The money that you gave me,1
+223,Absolutely an owl hunts mice .,Absolutely an owl,0
+224,The King of Rock and Roll ' s records led to dancing .,The King of Rock and Roll ' s records,1
+225,Would not the men enjoy that ?,the men,0
+226,That joke never fails to amuse .,That joke,1
+227,I lent the book partway to Tony .,the book,0
+228,"Mary will read Fred ' s story , and Joe will read Holly ' s .",Fred ' s story,1
+229,There is a monster in Loch Ness .,Loch Ness,1
+230,The mushrooms were sliced by the cook .,The mushrooms,1
+231,Calvin has dated every girl who Jeff has dated .,every girl who Jeff has dated,1
+232,The cake was eaten .,The cake,1
+233,Every man has ever beaten the centaur .,Every man,0
+234,John ' s arriving dead surprised me .,John ' s arriving dead,1
+235,No candidate can predict how many people will vote for him .,No candidate,1
+236,Heidi likes her violin .,her violin,1
+237,The with milk coffee is hot .,The with milk coffee,0
+238,The squirrel ran right up the tree .,The squirrel,1
+239,The cottage which Mrs Dashwood accepted was rather small .,The cottage which Mrs Dashwood accepted,1
+240,"The more pictures of him appear in the news , the more likely John is to get arrested .",The more pictures,1
+241,Every student attended more than three seminars .,Every student,1
+242,Where do you guys live at ?,you guys,1
+243,Louis said that parts of speech intrigued her .,parts of speech,1
+244,Penny rowed across the lake .,the lake,1
+245,That that the world is round is obvious upset Hermes .,the world,0
+246,Every student who attended the party had a good time .,Every student who attended the party,1
+247,He took John to the school by the park .,the school,1
+248,John died to heart disease .,heart disease,0
+249,The baby is heavy .,The baby,1
+250,$ 10 was cost by this book .,$ 10,0
+251,That the police would arrest several rioters was a certainty .,the police,1
+252,"Very heavy , this parcel !",this parcel,1
+253,Who asked which statue which tourist had taken a photo of ?,which statue,1
+254,Robert is eager to do his homework .,his homework,1
+255,Maxwell isn ' t half the doctor that his sister is a psychologist and his father was .,half the doctor,0
+256,Mary wonders for Bill to come .,Mary wonders,0
+257,Fred threw the ball under the porch .,the ball,1
+258,The cup was broken by Louise .,The cup,1
+259,Was the child found ?,the child,1
+260,little equipment is available .,little equipment,1
+261,John rolled the ball down the hill perfectly .,the ball,1
+262,He remained a good friend to me .,a good friend,1
+263,The bullets whistled past the house .,The bullets,1
+264,Who said he would give the cloak to Lee ?,the cloak,1
+265,These stories about himself describe John better than any official biography .,These stories about himself,0
+266,"A lot of this material can be presented in a fairly informal and accessible fashion , and often I do .",A lot of this material,1
+267,John wiped the window with a towel .,the window,1
+268,Tom placed it under the table .,the table,1
+269,I saw the brilliant one .,the brilliant one,1
+270,Is putting the book in the box .,the book,0
+271,Tamara poured the bowl with water .,the bowl,0
+272,John knew every language that we encountered on our trip .,every language that we encountered on our trip,1
+273,The professor talked us into a stupor .,The professor,1
+274,"Bill can well imagine the more he eats , the fatter getting .","the more he eats , the fatter getting",0
+275,A little boy darted into the room .,A little boy,1
+276,I put the milk in the fridge .,the milk,1
+277,Any philosopher is sometimes wrong .,Any philosopher,1
+278,Mira condemned the accident on Terry .,the accident,0
+279,Frank hopes to persuade Harry to make the cook wash the dishes .,the cook,1
+280,I believe it to be obvious that the problem is not easy .,the problem,1
+281,The price of meat fell .,The price of meat,1
+282,The child never became crazy .,The child,1
+283,John can go to the market to India .,the market,0
+284,Hilda is such a scholar as you were speaking of just now .,such a scholar as you were speaking of just now,1
+285,Which club did you hit the winning putt with ?,the winning putt,1
+286,Fanny pulled the blanket over herself .,the blanket,1
+287,We got our car radio stolen twice on holiday .,our car radio,1
+288,We hope that such a vaccine could be available in ten years .,such a vaccine,1
+289,I know several people who she kissed .,several people who she kissed,1
+290,"The harder it has rained , how much faster a flow that appears in the river ?",a flow that appears in the river,0
+291,What is to come is in this document .,this document,1
+292,the person stood on my foot is heavy .,the person stood on my foot,0
+293,A solution to the problem presented itself yesterday .,A solution to the problem,1
+294,John wanted to leave the room happy and leave the room he did happy .,the room he did happy,0
+295,Mary or Sue could tell you that .,Mary or Sue,1
+296,The muffins might have been being eaten .,The muffins,1
+297,Mary jumped the horse perfectly over the last fence .,the horse,1
+298,The boy whose guardian ' s employee we elected president betrayed us .,The boy whose guardian ' s employee we elected president,1
+299,little evidence was provided .,little evidence,1
+300,Several people seem sick .,Several people,1
+301,"John gave the books to Mary at Christmas , and the records to Sue for her birthday .",the records to Sue,1
+302,She asked a man who was near the window whether it looked like rain .,a man who was near the window,1
+303,They found the book on the atom .,the book,1
+304,"As John eats more , keep your mouth shut tighter , OK ?",your mouth,1
+305,There were several doctors available .,several doctors available,1
+306,Leigh threw Lane the ball .,the ball,1
+307,They represented seriously to the dean Mary as a genuine linguist .,the dean Mary,0
+308,We made enough pudding to last for days .,enough pudding,1
+309,The witch vanished into the forest .,The witch,1
+310,Margaret cut the bread .,the bread,1
+311,the book with a red cover from Blackwell of poems by Robert Burns takes a very long time to read .,the book with a red cover from Blackwell of poems by Robert Burns,0
+312,This knife doesn ' t cut .,This knife,1
+313,The dragons had all eaten the pigs .,The dragons,1
+314,The judge offered a prize to the winner .,The judge,1
+315,"Tom , Dick , and Harry ate , drank , and sang .","Tom , Dick , and Harry",1
+316,I live at the place where Route 150 crosses the Hudson River and my dad lives at it too .,my dad,0
+317,It is a golden hair .,a golden hair,1
+318,The visitor rang the bell .,The visitor,1
+319,A book was handed .,A book,0
+320,I differed this flyer from that flyer .,this flyer,0
+321,the day when I met her was sunny .,the day when I met her,1
+322,I have every hope that you will defeat him .,every hope that you will defeat him,1
+323,"Pat has become crazy , and Chris an incredible bore .",Chris an incredible bore,1
+324,The swing blasted the golf ball across the green .,The swing,1
+325,What I love is toast and sun dried tomatoes,toast and sun dried tomatoes,1
+326,Someone stole my car .,my car,1
+327,All native speakers have a grammatical competence which can generate an infinite set of grammatical sentences from a finite set of resources .,All native speakers,1
+328,We rummaged in the drawer for important documents .,the drawer,1
+329,That the world is round is obvious .,the world,1
+330,I regard Andrew as the best writer .,the best writer,1
+331,You may pick any flower except the rose .,any flower,1
+332,Shakespeare wrote his plays a long time ago .,his plays,1
+333,The guide has been taken John to the library .,The guide,0
+334,Fruit fell against the house against the ground .,the house,0
+335,The clown wobbled down the hall .,The clown,1
+336,The coat of the panther is dark black .,The coat of the panther,1
+337,Nora sent the book to Peter .,the book,1
+338,There were seven people .,seven people,1
+339,Bill coughed out the window .,the window,1
+340,Carol cut at the bread .,the bread,1
+341,Their teaching material is what we are using .,Their teaching material,1
+342,I dislike his tickling myself .,his tickling myself,0
+343,The big student of physics with long hair in the library .,The big student,1
+344,Cynthia gobbled the pizza down .,the pizza,1
+345,Where did you disappear before you hid the gold ?,the gold,0
+346,A gun which I had cleaned went off .,A gun which I had cleaned,1
+347,only the student left .,only the student,1
+348,The writer is that gets you so involved .,The writer,0
+349,The President thanked any soldier who had fought in the Gulf .,The President,1
+350,An evil thought struck Dave .,An evil thought,1
+351,Which book did each author recommend ?,each author,1
+352,We consider the men all fools .,the men,1
+353,Calvin will could eat the beef waffles .,the beef waffles,0
+354,The middle class will gain from the new tax laws .,The middle class,1
+355,The sheep cries,The sheep,1
+356,John can kick the ball .,the ball,1
+357,They represented Mary seriously as a genuine linguist .,a genuine linguist,1
+358,Medea tried Medea to poison her children .,her children,0
+359,The clown was amusing to the children .,The clown,1
+360,Which professor did they meet someone who knows ?,someone who knows,0
+361,John deposited some money in the checking account on Friday and Mary did the same thing on Monday .,some money,1
+362,"Tonight , what Bob cooked yesterday still tastes good .",what Bob cooked yesterday,1
+363,Alison poked the cloth with a needle .,the cloth,1
+364,The bag is bulging .,The bag,1
+365,Fred offered the ball over Molly .,the ball,0
+366,Carrie touched the fence with a stick .,the fence,1
+367,Any woman contributed to the fund .,Any woman,0
+368,Julie felt a twinge in her arm,her arm,1
+369,The noise gave Terry a headache .,The noise,1
+370,Would the horse budge if you pushed ?,the horse,1
+371,He got hit in the face with the tip of a surfboard .,the face,1
+372,The magazines were sent by Mary to herself .,The magazines,1
+373,Dulles suspected everyone who Angleton did .,everyone who Angleton did,1
+374,"He seems to become more corrupt , if any senator talks to more lobbyists .",any senator,0
+375,"Suddenly , there appeared two ships on the horizon .",two ships on the horizon,1
+376,That new handle detaches easily .,That new handle,1
+377,I have some papers to announce that I ' ve got to grade .,some papers to announce that I ' ve got to grade,0
+378,A large flag fluttered over the fort .,A large flag,1
+379,That we invaded Iraq really bites .,That we invaded Iraq,1
+380,"Sue moved , and Mary also transferred , her business to a different location .",her business,1
+381,Bill alleged that Roger had eaten the cake .,the cake,1
+382,Bill ' s reading Shakespeare and Maureen ' s singing Schubert satisfy me,Bill ' s reading Shakespeare and Maureen ' s singing Schubert,1
+383,I dislike the company in which we placed our trust .,the company in which we placed our trust,1
+384,The students called me a teacher .,The students,1
+385,"They play unusual music , and I listen to unusual music .",unusual music,1
+386,Each child should have a daily glass of milk .,Each child,1
+387,That a review came out yesterday of this article is catastrophic .,yesterday of this article,1
+388,the book with a red cover of poems from Blackwell by Robert Burns takes a very long time to read .,the book with a red cover of poems from Blackwell by Robert Burns,0
+389,Martha climbed the mountain .,the mountain,1
+390,One plan of which I got wind was calculated to keep us in suspense .,One plan of which I got wind,0
+391,The student protected him .,The student,1
+392,No student who scored 80 or more in the exam was ever failed .,No student who scored 80 or more in the exam,1
+393,I have Tom ' s feeling that the company will squander the money .,Tom ' s feeling that the company will squander the money,0
+394,We believed him to be the headmaster,the headmaster,1
+395,It never occurred to Harvey that I might want to leave because he is insensitive to other people ' s desires .,other people ' s desires,1
+396,I wonder what to be a clown on the cover of .,the cover of,0
+397,I lifted the books onto the table .,the books,1
+398,Plato listened to DP Demosthenes ' oration about Philip .,DP Demosthenes ' oration about Philip,1
+399,He ' s a more reliable man .,a more reliable man,1
+400,Too much salt damages vehicles .,Too much salt,1
+401,John is likely to appear that he will win the game .,the game,0
+402,It wasn ' t as awful a picture as it first seemed .,as awful a picture as it first seemed,1
+403,Few approve of our remedy .,our remedy,1
+404,The king kept put his gold under the bathtub .,The king,0
+405,There was an attack yesterday .,an attack,1
+406,Either Dana or Lee is going to lead the parade .,Either Dana or Lee,1
+407,That the Cardinal won the game gave Sandy a thrill .,the Cardinal,1
+408,I admired him for his courage .,his courage,1
+409,Sodium is a little too peppy for me to want to try mixing it and water in a teacup .,it and water,1
+410,John resembles his mother .,his mother,1
+411,"John wants to read Fred ' s story , and I also want to .",Fred ' s story,1
+412,Jack sprayed paint on the wall .,the wall,1
+413,There is a blemish on the end of Jerry ' s sister ' s nose .,a blemish on the end of Jerry ' s sister ' s nose,1
+414,I know you like the back of my hand .,the back of my hand,1
+415,"The book , including all the chapters in the first section , is very interesting .","The book , including all the chapters in the first section ,",1
+416,John loaded the truck with bricks .,the truck,1
+417,Nathan showed Benjamin himself in the mirror .,Benjamin himself,1
+418,She asked was Alison coming to the party .,the party,1
+419,"If the ants were called elephants and elephants ants , I ' d be able to squash an elephant .",the ants,1
+420,I found delicious some fruit which I picked up on my way home .,delicious some fruit which I picked up on my way home,1
+421,Any pilot except Sue could be flying this plane .,Any pilot except Sue,1
+422,Monkeys are eager leaving the compound .,the compound,0
+423,The policeman kissed the puppy .,The policeman,1
+424,The answer knows easily .,The answer,0
+425,Where and when did Bill put the book ?,the book,0
+426,Fido is a smarter dog than Spot .,a smarter dog than Spot,1
+427,"I ' m not shocked by the idea that the more you eat , the less you want .","the idea that the more you eat , the less you want",1
+428,My eyes are itching .,My eyes,1
+429,Henry cleared dishes from the table .,the table,1
+430,Humans love to eat owners of pigs .,owners of pigs,1
+431,The committee has all now resigned .,The committee,0
+432,Ayala went to the ball and was chatted to by Jonathan Stubbs .,the ball,1
+433,The ice melted .,The ice,1
+434,We abandoned from the area .,the area,0
+435,Gilgamesh has eaten the honey,the honey,1
+436,"Sally might be , and I know a girl who definitely is pregnant .",a girl who definitely is pregnant,0
+437,Mary was given by John the book .,John the book,0
+438,Heidi investigated whether John ate the cauliflower .,the cauliflower,1
+439,Paula swatted Deirdre on the back .,the back,1
+440,She ran the car on propane from Reno to Vegas .,the car,1
+441,On his finger sparkled a magnificent diamond .,his finger,1
+442,Phyllis dyed the dress .,the dress,1
+443,"In the book , he talks about his ups and downs at school .",the book,1
+444,Carol cut the bread .,the bread,1
+445,Were you surprised that he stole the watch ?,the watch,1
+446,Bill reading Shakespeare and Maureen singing Schubert satisfy me,Bill reading Shakespeare and Maureen singing Schubert,0
+447,Which girl did he give my binoculars ?,my binoculars,0
+448,the girls likes yourselves .,the girls,0
+449,My niece could write me letters more faithfully .,My niece,1
+450,A seat available was in the last row .,A seat available,0
+451,"Mary arranged for , in St . Louis , John to rent a house cheap .",St . Louis,0
+452,This is the kind of person who I doubt that under normal circumstances would have anything to do with such a scheme .,the kind of person who I doubt that under normal circumstances would have anything to do with such a scheme,1
+453,John made Kim a great doll .,a great doll,1
+454,the logs piled the barge high .,the logs,0
+455,"Yesterday , the child really kicked a monkey in the street .",the child,1
+456,This girl in the red coat will and dress must put a picture of Bill on your desk .,This girl in the red coat will and dress,0
+457,The one who broke the window was Mr . Kim .,The one who broke the window,1
+458,The tree gradually dropped its fruit to the ground .,The tree,1
+459,Bill ate more peaches than Harry did grapes .,more peaches than Harry did grapes,1
+460,He is that kind of actor,that kind of actor,1
+461,The man who ordered a hot dog got one .,The man who ordered a hot dog,1
+462,Are you always thinking dirty thoughts ?,dirty thoughts,1
+463,Martha carved a piece of wood for the baby .,a piece of wood,1
+464,This project is manageable .,This project,1
+465,Dana longs for a sunny day .,a sunny day,1
+466,Any student must work hard .,Any student,1
+467,The man who was arrested by Officer Bob went mad .,The man who was arrested by Officer Bob,1
+468,The proposal did be endorsed by Clinton .,The proposal,0
+469,The mixture funnels .,The mixture,0
+470,The child is impossible to teach him .,The child,0
+471,This girl in the red coat will put a picture of Bill  on your desk there before tomorrow .,This girl in the red coat,0
+472,"Drowning cats , which is against the law , are hard to rescue .","Drowning cats , which is against the law ,",0
+473,What did you meet someone who understands ?,someone who understands,0
+474,What Mr Collins is doing is praising Lady de Bourg .,Mr Collins,1
+475,It was John that was waiting at the restaurant .,the restaurant,1
+476,I said that Mary signed my yearbook .,my yearbook,1
+477,Fiona must not eat the sauteed candy canes .,the sauteed candy canes,1
+478,"Who is Ann going to send a picture to her teacher of , as soon as she gets home ?",her teacher,0
+479,"Who had Poseidon run away , before the executioner murdered ?",the executioner,0
+480,Sir Walter Elliott imagined the scene .,Sir Walter Elliott,1
+481,It was believed by the students that they would have an exam .,the students,1
+482,"How much harder has it rained , the faster a flow you see in the river ?",the faster a flow you see in the river,1
+483,Emma slighted Miss Bates .,Miss Bates,1
+484,The dastardly surgeon stole the physician ' s lunch .,The dastardly surgeon,1
+485,"Hopefully , we ' ll make it through the winter without snow .",the winter,1
+486,Mary jumped the horse over the last fence perfectly .,the horse,1
+487,Can you find the light bulb store ?,the light bulb store,1
+488,"Once Janet left , Fred became all the crazier .",all the crazier,1
+489,We convinced him that the operation is safe .,the operation,1
+490,That kind of behavior annoys me .,That kind of behavior,1
+491,David broke the window with a hammer .,the window,1
+492,Carla mopped the floor under the furniture .,the floor,1
+493,Thunder frightens the dog .,the dog,1
+494,I gave Jack a picture of myself .,a picture of myself,1
+495,The his jobs are in jeopardy .,The his jobs,0
+496,This knife cut the bread .,This knife,1
+497,A man just came in and a woman went out who were similar in all kinds of ways .,A man,1
+498,Tamara poured water out of the pitcher .,the pitcher,1
+499,I saw the one of physics .,the one of physics,0

@@ -1,0 +1,501 @@
+,sentence1,source1_np0,sentence2,source2_np0,label
+0,A woman cuts a pineapple .,A woman,A woman is slicing a pineapple into pieces .,A woman,4.0
+1,A kid is playing guitar .,A kid,A man is playing a guitar .,A man,2.200000047683716
+2,A skier wearing blue snow pants is flying through the air near a jump .,A skier wearing blue snow pants,A skier stands on his hands in the snow in front of a movie camera .,A skier,1.399999976158142
+3,the center will be operational in august 2008 .,the center,the center will formally open in 2009 .,the center,2.200000047683716
+4,"A search for three missing teenagers uncovered at least two bodies buried beneath freshly poured concrete in the basement of a house , authorities said Wednesday .",A search for three missing teenagers,Authorities performed an autopsy Thursday on one of three bodies recovered from beneath a layer of freshly poured concrete in the basement of a northwest Indiana home .,an autopsy,2.400000095367432
+5,"Chinese president meets Greek PM , calling for stronger partnership",Chinese president,Chinese president meets Indian vice president,Chinese president,1.7999999523162842
+6,Woman in a black dress walking on the street .,Woman in a black dress,A woman watches a dog jump down the stairs .,A woman,0.800000011920929
+7,Tech Sector Heats Up : Google and IBM Post Strong Earnings,Google and IBM Post Strong Earnings,"Google shares soar past $ 1 , 000 on strong earnings",Google shares,2.5999999046325684
+8,"Yes , I can tell you from personal experience that they certainly did whistle .",personal experience,It is true that bombs in World War II would make a whistling sound as they fell .,bombs in World War II,2.799999952316284
+9,An old fashioned wooden sailing ship in the ocean .,An old fashioned wooden sailing ship,A wooden yacht on the ocean .,A wooden yacht,3.200000047683716
+10,N Korea test - fires 30 short - range missiles,N Korea test,N . Korea fires short - range missiles,N . Korea,3.400000095367432
+11,"Rocks , Tear Gas Fly as Thai Protests Heat Up",Thai Protests,"Rocks , tear gas fly as Thai protests heat up","Rocks , tear gas fly",5.0
+12,Greek police arrest German on suspicion of spying,Greek police,Israel press bemoans price of talks resumption,Israel press,0.0
+13,A turtle walks over the ground .,A turtle,A large turtle crawls in the grass .,A large turtle,3.75
+14,Five men in tuxedos are walking down steps .,Five men in tuxedos,Five men in tuxedos walk down a set of steps,Five men in tuxedos,5.0
+15,"The tech - heavy Nasdaq Composite Index . IXIC was off 0 . 11 percent , or 1 . 78 points , at 1 , 594 . 13 .",The tech - heavy Nasdaq Composite Index . IXIC,"The broader Standard & Poor ' s 500 Index . SPX was down 0 . 04 points , or 0 percent , at 971 . 52 .",The broader Standard & Poor ' s 500 Index . SPX,0.6000000238418579
+16,And that ' s why you ' re yelling at me and refusing to answer my questions ?,my questions,Still refusing to answer my questions ?,my questions,3.400000095367432
+17,New Japan govt hints at joining Pacific trade pact : Report,New Japan govt,"Japan , US hold talks linked to regional trade pact","Japan , US",2.799999952316284
+18,A blue and orange airplane flying with its landing gear down .,A blue and orange airplane,A red and blue plane flying with its landing gears down .,A red and blue plane,2.5999999046325684
+19,A man is dancing .,A man,A man is riding a horse .,A man,0.800000011920929
+20,A dog peaks out the back of a truck .,A dog,A dog is peeking out of the back of a van .,A dog,3.5999999046325684
+21,Blast on Indian train kills one,Blast on Indian train,State : No funds for yeshiva that incites violence,No funds for yeshiva that incites violence,0.0
+22,Man standing in front of yellow corvette .,front of yellow corvette,A man is standing next to a yellow sports car .,A man,3.200000047683716
+23,"Doha gas blast kills 12 , injures dozens",Doha gas blast,"Syria missile kills 26 , including 8 kids",Syria missile,0.6000000238418579
+24,the extradition conditions stipulate that the tunisian can only be prosecuted for the single charge of falsifying documents that italian authorities can provide sufficient evidence to prosecute .,the extradition conditions,spokesman for the swiss justice ministry folco galli stated that the extradition conditions stipulate that mejri can only be prosecuted on a single charge of falsifying documents for which italian authorities could provide sufficient evidence to prosecute .,spokesman for the swiss justice ministry folco galli,2.5999999046325684
+25,Two girls in blue and teal dresses and large hats are standing next to a large tree trunk .,Two girls in blue and teal dresses and large hats,"A woman , a little boy , and a tiny baby are standing in front of a cow statue .","A woman , a little boy , and a tiny baby",1.2000000476837158
+26,"The point you quote should say "" I never said rehabilitation could never work . """,The point you quote,"For the trillionth time , I ' ve never said rehabilitation doesn ' t work .",the trillionth time,3.400000095367432
+27,"Licensing revenue slid 21 percent , however , to $ 107 . 6 million .",Licensing revenue,"License sales , a key measure of demand , fell 21 percent to $ 107 . 6 million .","License sales , a key measure of demand ,",4.0
+28,"There is one airline , Spirit Airlines , which is trying to copy Ryanair with super cheap tickets and aggressively bad service .","one airline , Spirit Airlines , which is trying to copy Ryanair with super cheap tickets and aggressively bad service",There are a few airlines which operate flights at lower fares .,a few airlines which operate flights at lower fares,1.7999999523162842
+29,A man with a messenger bag in front of a gray tile wall .,A man,Man in red jacket standing in front of lighthouse .,Man in red jacket,0.800000011920929
+30,china is a member of the ballistic missile club .,a member of the ballistic missile club,russia is a member of the quartet on the middle east .,a member of the quartet on the middle east,0.0
+31,Clashes as Greeks protest against more cutbacks,more cutbacks,Clashes erupt as Greek vote nears,Greek vote,2.400000095367432
+32,the problem isn ' t who has money .,the problem,the problem is who doesn ' t have money .,the problem,2.4666666984558105
+33,"Shares of San Diego - based Jack In The Box closed at $ 21 . 49 , up 78 cents , or 3 . 8 percent , on the New York Stock Exchange .",Shares of San Diego - based Jack In The Box,"Shares of Tampa - based Outback Steakhouse Inc . closed at $ 44 . 50 , up $ 1 . 78 , or 4 . 2 percent , on the New York Stock Exchange .",Shares of Tampa - based Outback Steakhouse Inc .,1.600000023841858
+34,"Doctors say one or both boys may die , and that some brain damage is possible if they survive .",one or both boys,"Doctors said that one or both of the boys may die and that if they survive , some brain damage is possible .",one or both of the boys,5.0
+35,The report shows that drugs sold in Canadian pharmacies are manufactured in facilities approved by Health Canada - the FDA ' s counterpart in Canada .,The report,"The report shows that drugs sold in Canadian pharmacies are manufactured in facilities approved by Health Canada , which serves a similar role as the FDA for the Canadian government .",The report,5.0
+36,"The Ireland Palestine Solidarity Campaign , of which Mr O Muireagáin was a member , welcomed his release .","The Ireland Palestine Solidarity Campaign , of which Mr O Muireagáin was a member ,","The Ireland Palestine Solidarity Campaign , of which he was a member , said he was researching a schools exchange project .","The Ireland Palestine Solidarity Campaign , of which he was a member ,",2.400000095367432
+37,"Nick Markakis , a left - hander from Young Harris Junior College in Georgia , went to the Orioles with the seventh pick .","Nick Markakis , a left - hander from Young Harris Junior College in Georgia ,","Next , Baltimore took Nick Markakis , a left - handed pitcher and outfielder from Young Harris Junior College in Georgia .","Nick Markakis , a left - handed pitcher and outfielder from Young Harris Junior College in Georgia",3.799999952316284
+38,Toulouse siege : Police surround flat of ' Islamic warrior ' suspected of being serial killer,Toulouse siege,Toulouse shooting : France was on the highest level of security of security alert,Toulouse shooting,1.7999999523162842
+39,Syria says suicide bomber kills 10 in Damascus,suicide bomber,Damascus ' suicide bombing ' kills 10,Damascus ' suicide bombing ',4.0
+40,Death toll in Nairobi attack rises to 59,Death toll in Nairobi attack,Death toll from Egypt violence rises to 638,Death toll from Egypt violence,1.600000023841858
+41,"Greece reaches agreement with troika , bailout tranche expected within days","troika , bailout tranche",Debt inspectors reach agreement with Greece,Debt inspectors,3.0
+42,"US , UK in pact to release emergency oil stocks",emergency oil stocks,"US , UK Set to Agree Emergency Oil Stocks Release","US , UK",4.599999904632568
+43,five people standing on a sidewalk,five people,Five people on a sidewalk .,Five people,4.800000190734863
+44,We never got out of it in the first place !,the first place,Where does the money come from in the first place ?,the money,0.800000011920929
+45,A small white dog running across a lawn .,A small white dog,A small white dog running,A small white dog,3.200000047683716
+46,"About 22 % of twentysomethings are obese , which is roughly 30 pounds over a healthy weight .",About 22 % of twentysomethings,About 31 percent of Americans are now obese — roughly 30 or more pounds over a healthy weight .,About 31 percent of Americans,2.5999999046325684
+47,The Ministry of Defence is facing a 20 m compensation claim from hundreds of Kenyan women who claim they were raped by British soldiers .,The Ministry of Defence,Hundreds of Kenyan women claiming they were attacked and raped by British soldiers were granted government legal aid Wednesday to pursue their case against the Ministry of Defense .,Hundreds of Kenyan women claiming they were attacked and raped by British soldiers,3.0
+48,"She countersued for $ 125 million , saying Gruner & Jahr broke its contract with her by cutting her out of key editorial decisions .",$ 125 million,"She countersued for $ 125 million , saying G + J broke its contract with her by cutting her out of key editorial decisions and manipulated the magazine ' s financial figures .",$ 125 million,3.5
+49,A woman is washing her hands .,A woman,A woman is straightening her hair .,A woman,0.800000011920929
+50,Mayor Joe T . Parker said late Thursday that the three workers were two men and a woman who were inside the building when the first blast occurred .,Mayor Joe T . Parker,"The missing workers , two men and a woman , were inside the building when the first blast occurred , Mayor Joe T . Parker said .",Mayor Joe T . Parker,4.400000095367432
+51,A man is writing in a book .,A man,A man is writing on a paper .,A man,2.875
+52,Easy Rider star Karen Black dies aged 74,Easy Rider star Karen Black,Easy Rider Actress Karen Black Dies Of Cancer,Easy Rider Actress Karen Black,4.199999809265137
+53,There is a small desk and chair in front of the laundry room .,a small desk and chair in front of the laundry room,A room with tan walls and a washer and dryer .,A room,1.399999976158142
+54,"In 2001 , President Bush named Kathy Gregg to the Student Loan Marketing Association board of directors .",President Bush,"In 2001 , President Bush named her to the Student Loan Marketing Association , the largest U . S . lender for students .",President Bush,3.2309999465942383
+55,the countries oppose the weaponization of space and an arms race in space .,the countries,china stressed that opposition of weaponization and an arms race in outer space .,opposition of weaponization and an arms race in outer space,3.200000047683716
+56,Turtles love eating goldfish and lots of things that fit into their mouths .,goldfish and lots of things that fit into their mouths,"First , the turtles are eating the fish because fish are food , not friends .",the turtles,2.799999952316284
+57,Ankeet Chavan granted conditional bail for marriage,Ankeet Chavan,Ankeet Chavan granted bail to get married,Ankeet Chavan,5.0
+58,""" Frank Quattrone is innocent , "" Keker said in a statement .",Frank Quattrone,Quattrone lawyer John W . Keker said his client is innocent .,Quattrone lawyer John W . Keker,3.75
+59,Kuwait : Activists storm Syrian embassy ; two injured,Syrian embassy,Activists storm Syria embassy in Kuwait,Syria embassy,3.400000095367432
+60,Glasgow Helicopter Crash Search Ends,Glasgow Helicopter Crash Search,Glasgow Helicopter Crash : At Least Six Dead,At Least Six Dead,2.799999952316284
+61,A child is walking down the street as a jeep pulls up .,A child,A woman is walking along a road and a man in a motorcar pulls up beside her .,A woman,1.399999976158142
+62,Sniper waiting for result of appeal,result of appeal,New glories for China in striving for renewal,New glories,0.0
+63,"The identical rovers will act as robotic geologists , searching for evidence of past water .",The identical rovers,"The rovers act as robotic geologists , moving on six wheels .",The rovers,3.200000047683716
+64,The leading actress nod went to energetic newcomer Marissa Jaret Winokur as Edna ' s daughter Tracy .,The leading actress nod,"Marissa Jaret Winokur , as Tracy , won for best actress in a musical .","Marissa Jaret Winokur , as Tracy ,",4.0
+65,A man is spreading shreded cheese on a pizza .,A man,A man is spreading shredded cheese on an uncooked pizza .,A man,3.799999952316284
+66,A boy whacks a man with a sword .,A boy,A boy spanks a man with a plastic sword .,A boy,3.3329999446868896
+67,two puppies playing around in the grass,two puppies,Two dogs are wrestling in the grass .,Two dogs,4.0
+68,A man is playing a flute .,A man,A man is playing a guitar .,A man,2.0
+69,"If you want to buy $ billion in XYZ Inc . common stock , who cares ?",$ billion in XYZ Inc . common stock,"If you want to buy a house or a SUV , again , who cares ?",a house or a SUV,1.399999976158142
+70,"hong kong universities collaborate with universities , businesses and government sectors of mainland china to coordinate training programs and research centers to promote high - tech research , commercialization , and technology transfer .",hong kong universities,"hong kong universities have collaborated with tertiary education , business and government sectors of mainland china to direct training programs and research centers to promote research commercialization and technology transfer .",hong kong universities,5.0
+71,A woman is cooking eggs .,A woman,A woman is cooking something .,A woman,3.0
+72,Critical Gates memoir rocks Obama administration,Critical Gates memoir,Gates blast rocks Obama administration,Obama administration,4.0
+73,Child sliding in the snow .,the snow,Man sleeping on the street .,the street,0.0
+74,A close up of the front end of a purple and white motor cycle .,A close up,Close up of the rear of a red sports car .,the rear of a red sports car,1.2000000476837158
+75,Rock bands ' plane makes emergency landing in Ill .,Rock bands ' plane,Rock Bands ' Plane Makes Emergency Landing in Ill .,Rock Bands ' Plane,5.0
+76,"By Sunday night , the fires had blackened 277 , 000 acres , hundreds of miles apart .",the fires,"Major fires had burned 264 , 000 acres by early last night .",Major fires,2.75
+77,But Senate criticism of the House plan Tuesday came on several fronts .,Senate criticism of the House plan Tuesday,And several Senate Republicans are cranky about the House map .,several Senate Republicans,2.75
+78,A person wearing a bike helmet talks on a cell phone .,A person wearing a bike helmet,A person wearing a helmet rides a bike near a white structure .,A person wearing a helmet,3.0
+79,A skier speeds through the snow .,A skier,A brown dog carrying a Frisbee runs through the snow .,A brown dog carrying a Frisbee,0.2000000029802322
+80,an indian government official stated that india does not attach much credence to reports by amnesty international .,an indian government official,one indian government official who studied the blueprints stated the science was old and dated but still functional .,one indian government official who studied the blueprints,1.399999976158142
+81,There is a older man near a window .,a older man,A boy is near some stairs .,A boy,0.4000000059604645
+82,A bull standing in the field .,A bull standing,A brown horse stands in a lush green field .,A brown horse,1.399999976158142
+83,Bangladesh building collapse death toll hits 362,Bangladesh building collapse death toll,Bangladesh building - collapse death toll climbs to 580,Bangladesh building,3.5999999046325684
+84,"Maldives president quits after police mutiny , protests",Maldives president,Maldives president quits after weeks of protest,Maldives president,3.400000095367432
+85,6 . 6 quake rocks Indonesia ' s Papua : USGS,6 . 6 quake,6 . 6 quake rocks Indonesia ' s Papua : US Geological Survey,6 . 6 quake,4.800000190734863
+86,Group of people sitting at table with drinks .,Group of people,four people sitting at a table .,four people,3.0
+87,A woman is cutting a cucumber .,A woman,A man is playing a guitar .,A man,0.0
+88,Four French soldiers killed in Afghan suicide blast,Four French soldiers,Four foreign soldiers killed in Afghan east,Four foreign soldiers,3.400000095367432
+89,two young girls hug each other in the grass .,two young girls,two young girls holding each other on the grassy ground,two young girls,4.599999904632568
+90,A girl is eating a cupcake .,A girl,A woman is eating a cupcake .,A woman,2.5999999046325684
+91,An animal run in circles .,An animal,A squirrel runs in circles .,A squirrel,3.799999952316284
+92,South Korean President Sorry For Ferry Response,South Korean President,S . Korean president ' sorry ' for ferry disaster,S . Korean president,4.599999904632568
+93,100 killed in new Darfur tribal clashes,new Darfur tribal clashes,' 9 Dead ' in New Darfur Tribal Clash,New Darfur Tribal Clash,2.799999952316284
+94,The man is trying to feed the snake with a mouse .,The man,A man is working on his laptop .,A man,0.800000011920929
+95,A young girl dressed in a Minnie mouse outfit and an older woman walking down the sidewalk .,A young girl dressed in a Minnie mouse outfit,a man wearing a white suit holding a newspaper walking through the streets .,a man wearing a white suit,1.0
+96,A man is throwing a penny into a fountain .,A man,A little boy is throwing a man in water .,A little boy,0.6000000238418579
+97,Perry has called lawmakers into two special sessions to address congressional redistricting .,two special sessions to address congressional redistricting,Perry has since called two special legislative sessions to try force the redistricting plan through .,two special legislative sessions,3.75
+98,A person is cutting a potato .,A person,A person is slicing a shallot .,A person,1.0
+99,US releases initial report on fracking impacts on water,initial report on fracking impacts on water,Men in China detained after taking girls to hotel,Men in China,0.0
+100,"Tom Kasmer , a 14 - year - old from Belmont , N . C . , got a word that sounded like "" zistee "" during yesterday ' s competition .","Tom Kasmer , a 14 - year - old from Belmont , N . C . ,","The 14 - year - old national spelling finalist who attends school in Belmont , N . C . , got a word that sounded like "" zistee "" during competition Wednesday .","The 14 - year - old national spelling finalist who attends school in Belmont , N . C . ,",3.75
+101,A couple posing for a picture on a couch .,A couple,Young couple sitting on couch .,Young couple,4.0
+102,Gunman Among 7 Dead After Florida Apartment Shooting,Florida Apartment Shooting,Gunman among 7 dead after Fla . apartment shootout,Fla . apartment shootout,5.0
+103,Two women holding checkered flags near an orange car .,Two women,Two ladies in skimpy clothes pose next to an old fashioned car .,Two ladies in skimpy clothes,2.799999952316284
+104,Barrick in talks with China firm over African assets,talks with China firm over African assets,Obama aide holds talks in China after Syria veto,Obama aide,1.2000000476837158
+105,Santorum ' s 3 - year - old daughter hospitalized,Santorum ' s 3 - year - old daughter,' Kony 2012 ' director hospitalized,Kony 2012 ',0.6000000238418579
+106,The carriage is drawn by a horse .,The carriage,A man riding on a bicycle by side of building .,A man,0.4000000059604645
+107,Swiss tourist gang - raped in India,Swiss tourist gang,Swiss tourist gang - raped in India,Swiss tourist gang,5.0
+108,a train rides on his tracks .,a train rides,"The train comes down the track , between two rows of trees .",The train,3.0
+109,"Excluding one - time items , the company enjoyed a profit of 6 cents a share .",the company,"Excluding one - time items , it expects profit of 11 cents to 15 cents a share .",one - time items,2.3329999446868896
+110,president vladimir putin signed a decree suspending russia ' s participation in the conventional forces in europe treaty .,president vladimir putin,russian president vladimir putin signed a decree suspending russia ' s participation in the conventional forces in europe treaty due to circumstances that affect the security of the russian federation and require immediate measure .,russian president vladimir putin,3.0
+111,"Yes , you can add coffee grounds with their filters to your compost pile .",coffee grounds with their filters,Absolutely ok ; we have incorporated coffee grounds into our plant food and many of those grounds included the paper filter .,many of those grounds,4.0
+112,China ' s CPI growth slows to 1 . 8 pct in July,China ' s CPI growth,China ' s industrial output growth slows to 9 . 2 pct in July,China ' s industrial output growth,2.5999999046325684
+113,North Korea to put US citizen on trial,North Korea,N Korea hit with new US sanctions,N Korea,2.0
+114,A woman cuts up some vegetables .,A woman,A woman is placing skewered food onto a cooker .,A woman,1.0
+115,Ramblin ' Rose by Nat King Cole We are all vessels filled with many wonders .,Ramblin ' Rose by Nat King Cole,Eye of the Tiger We are all vessels filled with many wonders .,Eye of the Tiger We,2.400000095367432
+116,Mann ' s work was all about math .,Mann ' s work,Mann ' s work and the HS was all about Tree rings .,Mann ' s work and the HS,1.600000023841858
+117,Airlines cancel ' flytilla ' activists ' tickets to TA,flytilla ' activists ',UK Airline Cancels ' Flytilla ' Tickets on Israel Objections,UK Airline,3.200000047683716
+118,Juror : Sandusky appeared to accept his fate,his fate,Jerry Sandusky convicted of child sexual abuse,Jerry Sandusky,1.600000023841858
+119,Pakistan ' s Musharraf Under Arrest in Bhutto Assassination,Pakistan ' s Musharraf,Pakistan ' s Musharraf arrives at court for first time,Pakistan ' s Musharraf,2.400000095367432
+120,A woman is putting on makeup .,A woman,A band is singing .,A band,0.0
+121,A tiger is walking around his cage .,A tiger,A tiger walks around aimlessly .,A tiger,3.0
+122,ahmad is fighting extradition to the united states and lodged a formal complaint alleging that british police concocted intelligence reports to implicate ahmad in terror activities and desecrated the koran .,a formal complaint alleging that british police concocted intelligence reports to implicate ahmad in terror activities and desecrated the koran,ahmad lodged a formal complaint with the independent police complaints commission alleging that british police concocted intelligence reports to implicate ahmad in terror activities and desecrated ahmad ' s copy of the islamic holy book the koran by putting the koran on the floor during a search of ahmad ' s home .,a formal complaint,3.400000095367432
+123,Moore had no immediate comment Tuesday .,no immediate comment,Moore did not have an immediate response Tuesday .,an immediate response,4.777999877929688
+124,The brown and black dog sprints across the snow .,the snow,A black dog is running quickly along the ground .,A black dog,2.799999952316284
+125,Someone drew on Washington ' s face on the dollar .,Washington ' s face,A person draws on a dollar bill .,A person,3.400000095367432
+126,A man with long hair is looking through a camera .,A man with long hair,A woman stands against a wall near a video camera .,A woman,1.0
+127,""" It was a little bit embarrassing the way we played in the first two games , "" Thomas said .",the way we played in the first two games,""" We ' re in the Stanley Cup finals , and it was a little bit embarrassing the way we played in the first two games .",the way we played in the first two games,3.200000047683716
+128,The rhino grazed on the grass .,The rhino,A rhino is grazing in a field .,A rhino,4.0
+129,Do you understand why it ' s absurd to limit the question to US residents ?,the question,Do you understand why non - US residents are also relevant to the statistics ?,non - US residents,3.200000047683716
+130,The man talked to a girl over the internet camera .,The man,A teenager talks to a girl over a webcam .,A teenager,2.799999952316284
+131,"In Islamist - led Egypt , Coptic Church names new pope",Coptic Church,Egyptian Christians choose new pope,Egyptian Christians,3.200000047683716
+132,A man holds on to a handle in the water .,A man,A man is holding onto handles in the air .,A man,3.200000047683716
+133,"WHO spokeswoman Maria Cheng agreed , saying : "" It looks very much like an isolated event . """,WHO spokeswoman Maria Cheng,""" It looks very much like an isolated event , "" World Health Organization spokeswoman Maria Cheng said .",World Health Organization spokeswoman Maria Cheng,4.599999904632568
+134,Two men are dancing .,Two men,Two women are shopping .,Two women,0.4000000059604645
+135,The euro < EUR = > was up 0 . 67 percent against the dollar at $ 1 . 1784 after rising to a three - month high earlier in the session above $ 1 . 18 .,The euro < EUR = >,"In early U . S . trading , the euro < EUR = > was down 0 . 6 percent to $ 1 . 1741 , after rising to a four - month high of $ 1 . 1860 .",the euro < EUR = >,2.200000047683716
+136,A woman is dicing a potato .,A woman,A woman cuts tofu into tiny pieces .,A woman,1.7999999523162842
+137,Senior CPC official meets top DPRK leader ' s special envoy,Senior CPC official,North Korean leader sends ' special envoy ' to China,North Korean leader,3.0
+138,A man is playing flute .,A man,A man is dancing .,A man,0.2000000029802322
+139,The man talked on the telephone .,The man,Girls are walking on the stage .,the stage,0.0
+140,"The upcoming second - quarter earnings season will be particularly important in offering investors guidance , they say .",The upcoming second - quarter earnings season,They say second - quarter earnings reports will be key in giving investors that guidance .,second - quarter earnings reports,5.0
+141,The animal is eating .,The animal,A woman is dancing .,A woman,0.0
+142,U . S . resumes search for missing British sailors after public,U . S .,US Coast Guard suspends search for missing British sailors,US Coast Guard,2.400000095367432
+143,12 killed in Gaza in Israeli airstrikes,Israeli airstrikes,"Ictu , Ibec in move on airline strike",move on airline strike,0.4000000059604645
+144,A woman is cutting an onion .,A woman,A woman is rowing a boat .,A woman,0.800000011920929
+145,A woman is feeding a man .,A woman,A woman is mixing meat .,A woman,1.0
+146,Queen visits London soldier attack scene,London soldier attack scene,Queen Elizabeth II visits barracks of UK soldier slain last week,Queen Elizabeth II,4.199999809265137
+147,A man is playing the piano .,A man,A woman is playing a guitar .,A woman,1.2000000476837158
+148,"Romney leads rivals , not Obama , in fundraising","rivals , not Obama , in fundraising",Romney : I left all management of Bain in 1999,all management of Bain,0.800000011920929
+149,Chinese shares close higher on Tuesday,Chinese shares,Chinese shares close lower on Wednesday,Chinese shares,1.7999999523162842
+150,DICKSHOT Matt Holliday owns .,DICKSHOT Matt Holliday,"Matt Holliday owns , y ' all .",Matt Holliday,3.799999952316284
+151,Two green and white trains sitting on the tracks .,Two green and white trains,Two green and white trains on tracks .,Two green and white trains,4.400000095367432
+152,They ' re looking at each other !,each other,Why are they looking at each other like that ? ! ? !,each other,2.799999952316284
+153,A woman wearing a navy dress is cutting a cake on a white table .,A woman wearing a navy dress,A person wearing a helmet sits on a bicycle on a sunny day .,A person wearing a helmet,0.4000000059604645
+154,Twin bombings in Pakistan kill at least 40,Twin bombings in Pakistan,"Now , militants battle Pakistani police",Pakistani police,1.2000000476837158
+155,"defense chiefs from estonia , latvia , lithuania , germany , italy , spain and slovakia will sign the agreement to provide staff and funding for the center .","defense chiefs from estonia , latvia , lithuania , germany , italy , spain and slovakia","defense chiefs from estonia , latvia , lithuania , germany , italy , spain and slovakia signed the agreement .","defense chiefs from estonia , latvia , lithuania , germany , italy , spain and slovakia",2.799999952316284
+156,Hard - line Jewish leader shot in Jerusalem,line Jewish leader,Israeli leader urges calm in Jerusalem,Israeli leader,1.0
+157,But she didn ' t say whether she ' ll certify the two - year $ 117 . 4 billion budget for 2004 - 05 .,the two - year $ 117 . 4 billion budget for 2004 - 05,She said she didn ' t know yet whether she would certify the budget .,the budget,3.1670000553131104
+158,Winter Storm Ion : State - By - State . . .,Winter Storm Ion,Winter Storm Janus : State - by - State . . .,Winter Storm Janus,3.0
+159,two big brown dogs running through the snow .,two big brown dogs,A brown dog running through the grass .,A brown dog,2.0
+160,the iranian government has dismissed the allegations in the intelligence presented to the international atomic energy agency board as baseless and the intelligence used to support the allegations as fake .,the iranian government,the international atomic energy agency insists that the iranian government ' s simple denials of the intelligence presented to the international atomic energy agency board are not good enough to allay western countries suspicions .,the international atomic energy agency,2.200000047683716
+161,Yemen suicide attack kills 7 soldiers : officials,Yemen suicide attack,Afghan suicide car bomb kills at least seven : officials,Afghan suicide car bomb,1.600000023841858
+162,A skateboarder on a city street .,A skateboarder,"A skateboarder in the air at a big , outdoor ramp .",A skateboarder,2.5999999046325684
+163,Suspected Boko Haram suicide bombers in Nigeria kill 24,Suspected Boko Haram suicide bombers in Nigeria,Suspected Boko Haram attacks kill dozens in Nigeria,Suspected Boko Haram attacks,4.0
+164,A small bird perched on an icy branch .,A small bird,A yellow bird perched on a branch .,A yellow bird,3.200000047683716
+165,Exclusive - UPDATE 2 - Egypt pro - Mursi alliance signals flexibility in talks,Exclusive - UPDATE 2 - Egypt pro - Mursi alliance,EXCLUSIVE - UPDATE 1 - Egypt pro - Mursi alliance signals flexibility in talks,EXCLUSIVE - UPDATE 1 - Egypt pro - Mursi alliance,4.599999904632568
+166,The seagull is floating on the water .,The seagull,Large cruise ship floating on the water .,Large cruise ship,1.2000000476837158
+167,Drug lord captured by marines in Mexico,Drug lord,Suspected drug lord known as ‘ El Taliban ’ held in Mexico,Suspected drug lord,2.5999999046325684
+168,A brown and black dog is jumping to catch a red ball .,A brown and black dog,A brown and black dog jumps for a red ball .,A brown and black dog,5.0
+169,A man riding a white horse .,A man,A woman with a white horse .,A woman,2.200000047683716
+170,Profiles of Egypt ' s main presidential candidates,Egypt ' s main presidential candidates,Second day of Egyptian presidential election,Second day,1.2000000476837158
+171,Iran rejects claim on chlorine bombs,chlorine bombs,Iran rejects MKO claim on nuclear site,MKO claim on nuclear site,2.400000095367432
+172,"Yolanda death toll climbs to 3 , 621",Yolanda death toll,Kenya Red Cross says death toll rises to 68,Kenya Red Cross,0.4000000059604645
+173,north korean officials are suspected of building nuclear weapons .,north korean officials,north korea is currently in the process of dismantling its nuclear weapons program .,north korea,2.0
+174,"He was voluntarily castrated in 2001 , an operation he contends removed his ability to become sexually aroused .",an operation he contends removed his ability to become sexually aroused,"DeVries , who was voluntarily castrated in August 2001 , has said the surgery took away his ability to become sexually aroused .","DeVries , who was voluntarily castrated in August 2001 ,",4.5
+175,Thousands evacuated in Moscow metro fire,Moscow metro fire,Thousands evacuated after fire breaks out in Moscow Metro,Moscow Metro,4.800000190734863
+176,"Philippines typhoon death toll at 4 , 460 : UN",Philippines typhoon death toll,"Philippines typhoon death toll rises above 5 , 000",Philippines typhoon death toll,3.400000095367432
+177,A man is playing a guitar .,A man,A man is playing a flute .,A man,1.5829999446868896
+178,A man plays the guitar .,A man,The man sang and played his guitar .,The man,3.0
+179,"The technology - laced Nasdaq Composite Index < . IXIC > added 8 . 27 points , or 0 . 51 percent , to 1 , 633 . 53 .",The technology - laced Nasdaq Composite Index < . IXIC >,"The broader Standard & Poor ' s 500 Index . SPX crept up 4 . 3 points , or 0 . 44 percent , to 980 . 52 .",The broader Standard & Poor ' s 500 Index . SPX,1.2000000476837158
+180,A woman is brushing her feet .,A woman,A woman is chopping an onion .,A woman,0.4000000059604645
+181,A man is slicing a potatoe .,A man,A man is peeling a banana .,A man,1.0
+182,A man removes a couple of toaster scrambles from a plastic packet .,A man,A man removes food from a bag .,A man,1.75
+183,"Dogs , he said , are second only to humans in the thoroughness of medical understanding and research .",the thoroughness of medical understanding and research,He said that dogs are second only to humans in terms of being the subject of medical research .,terms of being the subject of medical research,4.599999904632568
+184,N . Korea Deports Elderly American,N . Korea,North Korea deports detained US war veteran,North Korea,2.0
+185,All the same methods of analysis that are used with spoken languages apply successfully to signed languages .,All the same methods of analysis that are used with spoken languages,One idea that ' s been going around at least since the 80 s is that you can distinguish between Holds and Moves .,One idea that ' s been going around at least since the 80 s,0.2000000029802322
+186,"Knight agreed to a two - year , $ 2 . 38 million contract that included a $ 300 , 000 signing bonus .","a two - year , $ 2 . 38 million contract that included a $ 300 , 000 signing bonus","ESPN reported that Knight ' s two - year deal is worth $ 2 . 38 million , including a $ 300 , 000 signing bonus .",Knight ' s two - year deal,4.75
+187,Some believe the ' right ' is most important .,the ' right ',Some believe not slaughtering the unborn is most important .,the unborn,1.2000000476837158
+188,A person is folding a piece of paper .,A person,Someone is folding a piece of paper .,a piece of paper,4.666999816894531
+189,A soccer player is kicking the soccer ball into the goal from a long way down the field .,A soccer player,A soccer player kicks the ball into the goal .,A soccer player,3.25
+190,9 / 11 defendants ignore judge at Guantanamo hearing,9 / 11 defendants,Sept . 11 defendants enrage families at hearing,Sept . 11 defendants,1.0
+191,A young girl riding a brown horse .,A young girl,A woman in riding a brown horse .,A woman,3.799999952316284
+192,"Peterson told police he fished alone in San Francisco Bay on Christmas Eve , returning to an empty house .",San Francisco Bay,Peterson told police he left his wife at about 9 : 30 a . m . on Dec . 24 to fish alone in San Francisco Bay .,his wife,3.0
+193,Captain of sunken South Korean ferry arrested,Captain of sunken South Korean ferry,Captain of capsized S Korean Ferry Arrested,capsized S Korean Ferry,4.0
+194,A man is running on the road .,A man,A panda dog is running on the road .,A panda dog,1.6670000553131104
+195,A person in a red cap standing next to a brick support beam .,A person in a red cap,A brown horse is standing on grass and scrub .,A brown horse,0.0
+196,A man is playing a guitar .,A man,A boy is playing a piano .,A boy,1.2000000476837158
+197,"The broad Standard & Poor ' s 500 Index . SPX gained 19 . 72 points , or 1 . 98 percent , to 1 , 015 . 69 .",The broad Standard & Poor ' s 500 Index . SPX,"The Dow Jones industrial average . DJI jumped 2 . 09 percent , while the Standard & Poor ' s 500 Index . SPX leapt 2 . 23 percent .",The Dow Jones industrial average . DJI,3.0
+198,kashmir is divided between india and pakistan .,india and pakistan,kashmir is claimed by both india and pakistan .,both india and pakistan,4.400000095367432
+199,Hot - Air Balloon Catches Fire in Virginia,Air Balloon,Hot Air Balloon ' Catches Fire And Crashes ',Hot Air Balloon ',2.799999952316284
+200,Four more people arrested over Australia ' s largest illegal tobacco importation syndicate,Four more people,Police target illegal tobacco syndicate,illegal tobacco syndicate,2.799999952316284
+201,US confirms al - Qaeda leader has been captured,al - Qaeda leader,US captures al - Qaeda leader but fails in Somalia attack,al - Qaeda leader,2.799999952316284
+202,"In 2002 , Linksys overtook Cisco Systems as the leading wireless equipment vendor , accounting for 14 . 1 percent of revenue .",Cisco Systems,Rolfe said Linksys overtook Cisco Systems last year as the leading supplier of WLAN equipment .,Cisco Systems,3.5
+203,The cat is sitting between two bicycles in front of a door .,The cat,Than horse standing in a field in front of a fence .,front of a fence,0.0
+204,A buddha statue holding a candle is sitting on a table .,A buddha statue holding a candle,A man fishing on a small boat while on a lake .,A man,0.0
+205,Mr . Grassley and Mr . Baucus rejected any disparity in drug benefits .,Mr . Grassley and Mr . Baucus,Grassley and Baucus said they had rejected that approach in their plan .,Grassley and Baucus,3.0
+206,"The meeting was scheduled to end Wednesday night , with attendees approving resolutions that express the denomination ' s view on issues but that are not binding on churches .",The meeting,"On Wednesday , attendees will vote on resolutions that express the Southern Baptist view on issues , but are not binding on individual churches .","resolutions that express the Southern Baptist view on issues , but are not binding on individual churches",3.2730000019073486
+207,Two women are sheering a white sheep inside of a wooden building .,Two women,Two women shearing a white sheep in a wooden stall .,Two women,4.0
+208,Hong Kong set for democracy march,Hong Kong,Hong Kong set for huge democracy rally,Hong Kong,4.800000190734863
+209,Egypt : IPI Urges Release of Al Jazeera Journalist Arrested in Berlin,Release of Al Jazeera Journalist Arrested in Berlin,Egypt sentences Al Jazeera journalists to jail,Al Jazeera journalists,1.0
+210,A man is petting a tied up dog .,A man,A man is showing his dog to the camera .,A man,1.0
+211,The lady cut the tail and body of a shrimp .,The lady,A woman is cleaning a shrimp .,A woman,4.5
+212,A man is meditating .,A man,The man is riding the horse .,The man,0.75
+213,A man is slicing a pepper .,A man,A person cuts a big green pepper apart .,A person,3.799999952316284
+214,A man is playing a keyboard .,A man,A man plays a keyboard .,A man,5.0
+215,Your brain is already beginning to wind down as you see the end in sight .,Your brain,I ' m writing here a few tips that can help you with motivation .,a few tips that can help you with motivation,0.4000000059604645
+216,Egypt forces set to block access to Morsi protest camps,Egypt forces,Egyptian forces move to clear pro - Morsi protest camps,Egyptian forces,2.400000095367432
+217,Second teenager charged with murder,Second teenager,Brother of EastEnders actress Gemma McCluskie is charged with her murder,Brother of EastEnders actress Gemma McCluskie,1.399999976158142
+218,"Egyptologists cast doubt Tuesday on an expedition ' s claim that it may have found the mummy of Queen Nefertiti , one of the best - known ancient Egyptians .","an expedition ' s claim that it may have found the mummy of Queen Nefertiti , one of the best - known ancient Egyptians","Egyptologists think they may have identified the long - sought mummy of Queen Nefertiti , one of the ancient world ' s legendary beauties .","the long - sought mummy of Queen Nefertiti , one of the ancient world ' s legendary beauties",2.5999999046325684
+219,First post office savings bank ATM opens in Chennai,First post office savings bank ATM,India ' s first post office savings bank ATM inaugurated in Chennai,India ' s first post office savings bank ATM,4.0
+220,A man is passionately playing a guitar in front of an audience .,A man,A woman is peeling a potato .,A woman,0.0
+221,I don ' t like flavored beers .,flavored beers,I don ' t like many flavored drinks .,many flavored drinks,3.0
+222,There is a black dog jumping into a swimming pool .,a black dog,A black dog is leaping into a swimming pool .,A black dog,5.0
+223,""" Now , the other guy , he ' s ashamed of his party , "" Street said to crowd laughter .",the other guy,""" The other guy , he ' s ashamed of his party , and I don ' t blame him .",The other guy,3.5
+224,Six killed in drone strike in N Waziristan,drone strike in N Waziristan,12 killed in bus accident in Pakistan,bus accident,1.7999999523162842
+225,Some children are raising their hands and clapping .,Some children,Three children are playing soccer in the sand .,Three children,0.2000000029802322
+226,north korea denies involvement in any nuclear program in syria .,north korea,north korea denies involvement in any syrian nuclear project .,north korea,4.400000095367432
+227,Indonesian president to visit UK,Indonesian president,Indonesian president to visit Australia,Indonesian president,1.399999976158142
+228,A man is playing a harp .,A man,A woman is playing a guitar .,A woman,1.600000023841858
+229,Italian pilgrims die in bus plunge,Italian pilgrims,Passengers dead in Italy bus plunge,Italy bus plunge,3.799999952316284
+230,The udders of a dairy cow that is standing in a pasture near a large building .,The udders,The black and brown cow is standing on the green grass .,The black and brown cow,2.0
+231,A woman leading a white horse .,A woman,A man in a tux on a white horse .,A man,2.0
+232,A woman is mincing some garlic .,A woman,A person is cleaning a disk .,A person,0.0
+233,A man in a gray suit locking up a bicycle,A man in a gray suit,A man and a woman standing on a city street .,A man and a woman,0.4000000059604645
+234,Some women are also concerned that so many women are turning to cosmetic surgery in a quest for bodily perfection .,Some women,Some women also express concern about a society in which more people than ever are turning to cosmetic surgery in a quest for bodily perfection .,Some women,4.75
+235,A woman is dancing in the rain .,A woman,A woman is dancing in railway station .,A woman,2.0
+236,German envoy optimistic about Iran - G5 + 1 talks,German envoy optimistic about Iran,Iran ' cautiously optimistic ' about future nuclear talks,future nuclear talks,1.399999976158142
+237,Old blue and white train on tracks .,Old blue and white train,A blue train in a mountainous area .,A blue train,2.5999999046325684
+238,A woman is applying eye liner to her eyelid using an eye pencil .,A woman,A woman is applying cosmetics to her eyelid .,A woman,3.799999952316284
+239,The plane was estimated to be within 100 pounds of its maximum takeoff weight .,The plane,"US Airways Flight 5481 , which crashed Jan . 8 , was judged to be within 100 pounds of its maximum takeoff weight .","US Airways Flight 5481 , which crashed Jan . 8 ,",3.25
+240,Supermarket chains facing a possible grocery clerk strike this week accused union leaders Monday of breaking off contract talks prematurely over the weekend .,Supermarket chains facing a possible grocery clerk strike this week,Supermarket chains are accusing union leaders of breaking off contract talks prematurely over the weekend as grocery clerks gear up for a possible strike .,Supermarket chains,4.75
+241,"He urged patience from Americans eager for the service , which is intended to block about 80 percent of telemarketing calls .","patience from Americans eager for the service , which is intended to block about 80 percent of telemarketing calls",The free service was originally intended to block about 80 percent of telemarketer calls .,The free service,3.0
+242,A white plane on the runway .,A white plane,A white airplane is on a runway .,A white airplane,4.800000190734863
+243,A mallard and a tame white duck on the grass near water .,A mallard and a tame white duck,A small child in a pink dress sits on a table .,A small child in a pink dress,0.0
+244,Eurozone jobless hits fresh record high,Eurozone jobless,EU jobless hits fresh record,EU jobless,4.400000095367432
+245,"A three - judge panel of the 11 th U . S . Circuit Court of Appeals ruled late Friday that the small size , limited use and secular purpose make the image legitimate .",A three - judge panel of the 11 th U . S . Circuit Court of Appeals,A three - judge panel of the 8 th U . S . Circuit Court of Appeals in St . Louis overturned a ruling issued last year that supported the ordinance .,A three - judge panel of the 8 th U . S . Circuit Court of Appeals in St . Louis,2.799999952316284
+246,A woman is slicing an onion .,A woman,A women slicing lemons .,A women,1.399999976158142
+247,He also recruited others to participate in the scheme by convincing them to receive fraudulently obtained merchandise he had ordered for himself .,the scheme,He also recruited other people to take delivery of fraudulently obtained merchandise he had ordered .,other people,4.0
+248,A woman in an red tracksuit squeezing lemons in a press .,A woman in an red tracksuit,A young woman in a pink hoodie takes a picture .,A young woman in a pink hoodie,0.4000000059604645
+249,A baby is laughing .,A baby,A baby is laughing and giggling .,A baby,4.0
+250,The monkeys could track their progress by watching a schematic representation of the arm and its motions on a video screen .,The monkeys,"The arm was kept in a separate room , but the monkeys could track their progress by watching a representation of the arm and its motions on a video screen .",The arm,4.0
+251,"Mr . Pingeon is director of litigation for Massachusetts Correctional Legal Services , a prisoners ' rights group .",Mr . Pingeon,"Pingeon said an attorney for his organization , Massachusetts Correctional Legal Services , interviewed Assan Tuesday .","an attorney for his organization , Massachusetts Correctional Legal Services ,",1.6670000553131104
+252,Israeli forces detain Palestinian MP in Hebron,Israeli forces,Israeli forces detain 2 Palestinians in overnight arrest raids,Israeli forces,3.0
+253,"Properly executed weight training will increase , not decrease , your flexibility and mobility .",Properly executed weight training,I ' ve seen guys that are still very flexable while lifting weights .,guys that are still very flexable while lifting weights,2.200000047683716
+254,He projected Vanderpool will be available within the next five years .,the next five years,"Products featuring Vanderpool will be released within five years , he said .",Products featuring Vanderpool,4.400000095367432
+255,""" The gloves are off , "" said UNIFI official Rob O ' Neill .",UNIFI official Rob O ' Neill,"Unifi official Rob O ' Neill said : "" The gloves are off .",Unifi official Rob O ' Neill,5.0
+256,A man is riding a motorcycle .,A man,A man is riding a horse .,A man,1.399999976158142
+257,A man and a dog are playing tug of war .,A man and a dog,A man dances on a colorful wall .,A man,0.4000000059604645
+258,A person is slicing an onion .,A person,A solenodon is walking along the ground .,A solenodon,0.0
+259,Dark colored dog standing in grassy field .,Dark colored dog,A grey dog standing in a grassy field .,A grey dog,3.200000047683716
+260,A man is slicing a potato .,A man,A woman is peeling a potato .,A woman,2.3329999446868896
+261,A man is standing next to a yellow sports car .,A man,A man stands next to a yellow Corvette .,A man,4.0
+262,A man is traveling in a boat .,A man,A woman is cutting up a carrot with a knife .,A woman,0.0
+263,Egyptian court bans Muslim Brotherhood,Egyptian court,Egypt court bans Muslim Brotherhood ' activities ',Egypt court,3.799999952316284
+264,A man is stirring ingredients in a bowl .,A man,A man is beating two eggs in a bowl with a fork .,A man,2.75
+265,Two green birds fly towards a wooden telephone pole .,Two green birds,Two green birds flying above the telephone wires .,Two green birds,3.200000047683716
+266,"Arthur Benson , attorney for the case ' s plaintiff schoolchildren , said he will appeal .","Arthur Benson , attorney for the case ' s plaintiff schoolchildren ,",An attorney for plaintiff schoolchildren said he plans to appeal .,An attorney for plaintiff schoolchildren,3.6670000553131104
+267,Ashya ' s Parents Arrive For Extradition Hearing,Ashya ' s Parents,Ashya King ' s parents freed from jail in Spain,Ashya King ' s parents,1.0
+268,"Hagel laments "" political "" changes to US defence budget",""" political "" changes to US defence budget",Hagel defends proposed cuts in defense spending,proposed cuts in defense spending,2.400000095367432
+269,the nuclear nonproliferation treaty is 37 years old .,the nuclear nonproliferation treaty,the nuclear nonproliferation treaty is reviewed every 5 years .,the nuclear nonproliferation treaty,1.7999999523162842
+270,Suicide bomber kills 9 at Pakistan political rally,Suicide bomber,Suicide bomber kills guard at US embassy in Turkey,Suicide bomber,1.600000023841858
+271,ONA explicitly stated that it did not receive intelligence material indicating that Jemaah Islamiyah terrorist network was planning to mount an operation in Bali .,intelligence material indicating that Jemaah Islamiyah terrorist network was planning to mount an operation in Bali,""" But at no stage did ONA receive intelligence material indicating that Jemaah Islamiyah was planning to mount an operation in Bali . """,no stage,4.25
+272,A woman is adding some mushrooms and liquid to a pot .,A woman,A young man is playing the guitar .,A young man,0.0
+273,Mumbai is 2 nd costliest Indian city to live in,2 nd costliest Indian city to live in,Tech capital Bangalore costliest Indian city to live in : Survey,Tech capital Bangalore costliest Indian city to live in,1.0
+274,A man rides off on a motorcycle .,A man,A man is riding on a motorcycle .,A man,4.400000095367432
+275,A woman rides an elephant in front of an adoring crowd .,A woman,A woman rides an elephant .,A woman,3.0
+276,""" My judgment is 95 percent of that information should be declassified , become uncensored , so the American people would know . """,My judgment,"My judgment is 95 percent of that information could be declassified , become uncensored so the American people would know , "" Mr . Shelby said on NBC ' s "" Meet the Press . """,Mr . Shelby,3.400000095367432
+277,A man in a red jacket holds his bike for the picture .,A man in a red jacket,A woman in a red jacket is video taping a natural landscape .,A woman in a red jacket,0.4000000059604645
+278,There is no freedom of religion .,no freedom of religion,There is no freedom of speech .,no freedom of speech,1.2000000476837158
+279,"In the weeks leading up to the execution , several Florida officials received anonymous threatening letters .",several Florida officials,"Several Florida officials connected to the case have received threatening letters , accompanied by rifle bullets .",Several Florida officials connected to the case,3.5
+280,Two boys are talking on the phone .,Two boys,A woman is talking on a telephone .,A woman,1.7999999523162842
+281,US warns Syria on chemical weapons,chemical weapons,U . S . concerns grow about Syria ' s chemical weapons,U . S . concerns,3.200000047683716
+282,Mixed reactions to NZ same - sex marriage,Mixed reactions,New Zealand legalizes same - sex marriage,New Zealand,2.200000047683716
+283,A man is cutting bread .,A man,A man is doing tricks with a soccer ball .,A man,1.0
+284,Stocks soar on Wall St lead,Wall St lead,Stocks slump on Wall Street,Wall Street,1.600000023841858
+285,A man is slam dunking a ball .,A man,A woman is slicing some onions .,A woman,0.0
+286,People are standing on an escalator moving up .,an escalator,People ride up an escalator .,an escalator,4.599999904632568
+287,"In two weeks , he ' ll probably send out Peace Rules in the Preakness .",two weeks,Frankel said Peace Rules will run in the Preakness Stakes on May 17 .,Peace Rules,3.5999999046325684
+288,F1 protests in Bahrain,F1 protests,A day of rage in Bahrain,A day,2.25
+289,The black and white dog is running on the grass .,The black and white dog,A black and white dog swims in blue water .,A black and white dog,1.399999976158142
+290,A man is adding oil to a pot .,A man,A dog is catching a fish in a river .,A dog,0.2000000029802322
+291,Peace Rules defeated Funny Cide in the Louisiana Derby .,Peace Rules,But neither he nor Peace Rules could keep Funny Cide from drawing away .,neither he nor Peace Rules,2.25
+292,A man is shaking a container over a kitchen sink .,A man,A man is emptying a plastic container .,A man,2.200000047683716
+293,The cook is kneading the flour .,The cook,A woman is kneading tortilla dough .,A woman,2.5999999046325684
+294,Updated - Two explosions near finish line of Boston Marathon,Two explosions near finish line of Boston Marathon,Report of two explosions at finish line of Boston Marathon,two explosions at finish line of Boston Marathon,5.0
+295,"It is hard to speak for a team , know what their strategy is going into a draft .",their strategy,Drafting has changed dramatically with the new collective bargaining agreement .,the new collective bargaining agreement,2.5999999046325684
+296,"Google CEO says Android important , not critical",Google CEO,"Larry Page says Android important , not critical",Larry Page,4.0
+297,Deal reached on new Italian government,new Italian government,Italy to swear in new coalition government,new coalition government,3.400000095367432
+298,The point is to get the air out that the infant sucks into the stomach while feeding .,The point,"I ' ve found with my baby that it ' s more accurate to go by his behavior than by "" rules "" .",my baby,1.2000000476837158
+299,Afghan parliament approves U . S . - Afghan security pact,Afghan parliament,Afghan parliament approves U . S . partnership,Afghan parliament,3.799999952316284
+300,Only 29 families of frogs are known and most were identified and described in the mid - 1800 s and the last in 1926 .,Only 29 families of frogs,"Only 29 families of frogs are known , most of which were named by the mid - 1800 s .",Only 29 families of frogs,3.799999952316284
+301,A sheep standing on a table at auction .,A sheep,Woolly sheep at auction house .,Woolly sheep,4.199999809265137
+302,Egyptian president moves into Mubarak ' s old office,Egyptian president,Egypt ' s President - Elect Morsi Starts to Form Government,Egypt ' s President,2.3333332538604736
+303,A school bus is driving uphill on a rural road .,A school bus,A race care driving along a dirt road .,A race care,1.0
+304,Voting canceled in three provinces in tense Thai election,three provinces,Cambodian opposition rejects Hun Sen election win,Cambodian opposition,0.0
+305,Yes a team can use the same player for both bowling and batting in a super over .,the same player,There ' s no rule that decides which players can be picked for bowling / batting in the Super Over .,no rule that decides which players can be picked for bowling / batting in the Super Over,4.199999809265137
+306,"Zipf ’ s law , as I understand it , is not really about languages , but about statistics and probability .",Zipf ’ s law,"As with all natural laws , Zipf ' s law is an approximation .",Zipf ' s law,2.799999952316284
+307,Two die in Syria violence after UN monitors land,Syria violence,Two year doping ban for Contador,Two year doping ban,0.0
+308,Typhoon death toll rises to 3633,Typhoon death toll,Egyptian death toll rises to 638,Egyptian death toll,0.6000000238418579
+309,A man is opening a door .,A man,A man is playing a guitar .,A man,0.800000011920929
+310,50 th anniversary of JFK ' s death remembered,50 th anniversary of JFK ' s death,"On 50 th anniversary of JFK death , Dallas holds its first memorial",50 th anniversary of JFK death,4.0
+311,The man is aiming a gun .,The man,A boy is playing on a toy phone .,A boy,0.0
+312,It is perfectly okay to ask for the figure knowing well that the other person may not give .,the figure knowing well that the other person may not give,"You can always ask , then it is the choice of the author to accept or not .",the choice of the author to accept or not,3.5999999046325684
+313,Court in Bahrain rejects medics ' last rally appeal,Court in Bahrain,Bahrain rejects activists ' appeal,activists ' appeal,3.799999952316284
+314,The bill says that a woman who undergoes such an abortion couldn ' t be prosecuted .,The bill,A woman who underwent such an abortion could not be prosecuted under the bill .,A woman who underwent such an abortion,5.0
+315,A dog splashing in the water .,A dog,A dog splashes in the murky water .,A dog,4.0
+316,A young boy jumps into a pool with outstretched arms .,A young boy,A dog jumps into a backyard pool .,A dog,1.2000000476837158
+317,The women are sitiing down .,The women,Two women are sitting close to each other and talking .,Two women,2.5999999046325684
+318,U . S . corporate bond yield spreads tightened in spotty trading on Friday as Wall Street labored to get back on its feet after the largest power outage ever in North America .,spotty trading,"U . S . stocks rose slightly on feather - light volume on Friday , as Wall Street regrouped after the biggest - ever power outage in North America .",U . S . stocks,3.5999999046325684
+319,A man and a woman are riding bikes on a street .,A man and a woman,A man and woman are riding bicycles across a junction in the city .,A man and woman,3.5999999046325684
+320,A little boy is playing a keyboard .,A little boy,A boy is playing key board .,A boy,4.400000095367432
+321,Suspected US drone kills 3 militants in Pakistan,Suspected US drone,U . S . drone kills 4 militants in Pakistan,U . S . drone,3.400000095367432
+322,A man is playing with frogs,A man,A cat is playing with a camera .,A cat,0.75
+323,"The witness , a 27 - year - old Kosovan parking attendant with criminal convictions for dishonesty , was paid 10 , 000 by the News of the World .","The witness , a 27 - year - old Kosovan parking attendant with criminal convictions for dishonesty ,","The witness was a 27 - year - old Kosovan parking attendant , who was paid by the News of the World , the court heard .",the court,3.625
+324,All we know is this : Distant objects are receding from us at a rate proportional to their distance from us .,All we know,The expansion of space means that objects in cosmological distances are receding away from each other .,The expansion of space,3.400000095367432
+325,"Byrd , speaking from the Senate floor , said he questioned "" the motives of a deskbound president who assumes the garb of a warrior for purposes of a speech . """,the Senate floor,""" But I do question the motives of a desk - bound president who assumes the garb of a warrior for the purposes of a speech . """,the motives of a desk - bound president who assumes the garb of a warrior for the purposes of a speech,3.400000095367432
+326,a dog napping under a small table .,a small table,A dog sleeping under a table .,A dog,4.599999904632568
+327,Russians rally support for Orthodox church over Pussy Riot controversy,Orthodox church,Russian Orthodox Church rallies faithful after criticism,Russian Orthodox Church,3.5999999046325684
+328,"The national denomination of the Episcopal Church , with 2 . 3 million members , is the U . S . branch of the 77 million - member Anglican Communion .","The national denomination of the Episcopal Church , with 2 . 3 million members ,","The Episcopal Church , with 2 . 3 million members , is the American branch of the worldwide Anglican Communion , which has 77 million adherents .","The Episcopal Church , with 2 . 3 million members ,",5.0
+329,A dog runs through the grass .,A dog,Two dogs run through the brush .,Two dogs,2.799999952316284
+330,Egypt to hold presidential elections before parliamentary polls,presidential elections,Egypt ' s interim president swears in new Cabinet,Egypt ' s interim president,1.399999976158142
+331,A lady is running her dog through an agility course .,A lady,Trainer runs her dog through training course with green pipe,her dog,4.199999809265137
+332,A monkey pushes another monkey .,A monkey,The monkey pushed the other monkey .,The monkey,4.800000190734863
+333,A lady and her daughter look through a microscope .,A lady and her daughter,A girl and a lady both looking through a microscope .,A girl and a lady,4.599999904632568
+334,A boy is jumping into the water with a ball in his hand .,A boy,A little boy swimming underwater with a toy in his hand .,A little boy,2.200000047683716
+335,A woman is carrying a boy .,A woman,A woman is carrying her baby .,A woman,2.3329999446868896
+336,A boy is at school taking a test .,A boy,The boy is taking a test at school .,The boy,5.0
+337,"FBI agents arrested a former partner of Big Four accounting firm Ernst & Young ERNY . UL on criminal charges of obstructing federal investigations , U . S . officials said on Thursday .",FBI agents,A former partner of accountancy firm Ernst & Young was yesterday arrested by FBI agents in the US on charges of obstructing federal investigations .,A former partner of accountancy firm Ernst & Young,4.599999904632568
+338,"And now it ' s anything he wants to say , "" Alesha Badgley , Stone County Nursing and Rehabilitation Center social director , said this week .","Alesha Badgley , Stone County Nursing and Rehabilitation Center social director ,","And now it ' s anything he wants to say , "" confirmed Stone County Nursing and Rehabilitation Center social director Alesha Badgley .",Stone County Nursing and Rehabilitation Center social director Alesha Badgley,5.0
+339,"In shock move , Obama puts Syria strike on hold",shock move,Obama puts Syria strike on hold,Syria strike,4.599999904632568
+340,Democracy is a threat to liberty .,a threat to liberty,Democracy has nothing to do with liberty .,nothing to do with liberty,1.7999999523162842
+341,A woman is frying fish .,A woman,A woman is cooking fish .,A woman,4.0
+342,A girl with a black purse sitting on a wooden bench .,A girl,A young woman with a black purse sits on a wooden bench .,A young woman with a black purse,4.599999904632568
+343,The American Stock Exchange biotech index . BTK surged 5 percent .,The American Stock Exchange biotech index . BTK,The Philadelphia Stock Exchange ' s semiconductor index . SOXX jumped 6 . 10 percent .,The Philadelphia Stock Exchange ' s semiconductor index . SOXX,1.399999976158142
+344,If the number of fours hit by two teams are also equal then both teams will get 1 point each .,both teams,This is the rule if the runs scored by two teams in Super Over is equal . . .,the rule,0.6000000238418579
+345,Tokyo stocks open down 0 . 24 %,Tokyo stocks,Tokyo stocks open up 0 . 52 %,Tokyo stocks,2.799999952316284
+346,White diamond breaks record in Hong Kong auction,Hong Kong auction,White diamond fetches record $ 34 m at HK auction,White diamond,4.0
+347,""" Enron company executives engaged in widespread and pervasive fraud , "" prosecutor Samuel Buell told the Associated Press .",prosecutor Samuel Buell,""" Enron company executives engaged in widespread and pervasive fraud to manipulate the company ' s earnings results , "" Buell said .",Enron company executives,3.75
+348,US Senate confirms Janet Yellen as US Federal Reserve chief,US Senate,Senate confirms Janet Yellen as next Federal Reserve Chair,Janet Yellen,5.0
+349,arms smugglers and drug cartels must be eliminated from southeast asia .,arms smugglers and drug cartels,arms smugglers and drug cartels abet terrorists .,arms smugglers,2.799999952316284
+350,This northern autumn US trainers will work with soldiers from four North African countries on patrolling and gathering intelligence .,This northern autumn US trainers,"Later this year , the command will send trainers with soldiers from four North African nations on patrolling and intelligence gathering missions .",Later this year,3.799999952316284
+351,A man is cutting a snake to cook .,A man,A woman is cutting meat .,A woman,2.0
+352,"Yee is a 1990 graduate of the U . S . Military Academy at West Point , New York .","a 1990 graduate of the U . S . Military Academy at West Point , New York",Yee grew up in the United States and graduated from the U . S . Military Academy at West Point .,the United States,4.0
+353,A man is playing a flute .,A man,A man is playing guitar .,A man,2.1670000553131104
+354,The launch coincides with the JavaOne developers ' conference in San Francisco this week .,The launch,The news also comes in conjunction with Suns annual JavaOne developers conference in San Francisco .,The news,3.25
+355,18 trapped in Russian coal mine blast,Russian coal mine blast,Ten killed in Russia coal mine blast,Russia coal mine blast,2.799999952316284
+356,A man playing the guitar .,A man,A woman is painting her lips .,A woman,0.0
+357,Syrian envoy to Cyprus defects to Qatar,Syrian envoy to Cyprus,Syria deploys more troops despite peace deal,more troops,0.800000011920929
+358,Indian stocks open lower,Indian stocks,Indian stocks close lower,Indian stocks,1.7999999523162842
+359,A woman is playing the flute .,A woman,A girl is playing a flute .,A girl,3.799999952316284
+360,Pictures of the day : 7 August 2013,Pictures of the day,Pictures of the day : 11 April 2013,Pictures of the day,2.799999952316284
+361,A man stands in front of a train .,A man,"A man is standing in front of a raised statue , .",A man,2.0
+362,iran is the most prolific applier of the death penalty in the world after china .,the most prolific applier of the death penalty in the world after china,the islamic republic is the most prolific applier of the death penalty in the world after china .,the islamic republic,3.799999952316284
+363,A man cuts a potato .,A man,A man is slicing a potato .,A man,3.75
+364,The woman is dicing onions .,The woman,A woman is dancing in railway station .,A woman,0.4000000059604645
+365,A black dog with a blue collar is running in the snow .,A black dog with a blue collar,A black dog with a red collar plays in the snow .,A black dog with a red collar,3.200000047683716
+366,Syria car bomb kills at least 12 in rebel - held town,Syria car bomb,Sinai car bomb kills at least 10 Egyptian soldiers,Sinai car bomb,1.7999999523162842
+367,"Some 14 , 000 customers were without power in the area , Oklahoma Gas and Electric said .",Oklahoma Gas and Electric,"About 38 , 000 OGE Energy Corp . customers are without power , the company said on its Web site .",the company,2.75
+368,"Freeman ' s civil hearing may be , on the surface , about a driver ' s license .",Freeman ' s civil hearing,Freeman said not having a driver license has been a burden .,not having a driver license,1.75
+369,The brown and white dog is walking in shallow waters .,The brown and white dog,A white and brown dog appears to be walking on the water .,A white and brown dog,4.599999904632568
+370,"Dotson , 21 , was arrested and charged on July 21 after reportedly telling authorities he shot Dennehy after Dennehy tried to shoot him .","Dotson , 21 ,","Dotson was arrested July 21 after telling FBI agents he shot Dennehy when Dennehy tried to shoot him , according to the arrest warrant affidavit .",FBI agents,4.25
+371,Karzai to visit Pakistan for Taliban peace talks,Taliban peace talks,Afghan president extends visit to Pakistan for Taliban talks,Afghan president,3.5999999046325684
+372,The government does not determine if you are married or not .,The government,The government does nt have to declare you married before you can be married .,The government,3.5999999046325684
+373,occupied Palestinian territory : Israeli Forces Continue to Shed Palestinian Blood in oPt,Israeli Forces,occupied Palestinian territory : Israel warns on security as Gaza truce talks resume,occupied Palestinian territory,1.0
+374,A women sitting in a chair at Christmas holding make up .,A women,A train sitting on the tracks in a train yard .,A train,0.0
+375,This idea has been around since the beginning of myth and storytelling .,This idea,The science behind superheroes might shed some light on this topic .,The science behind superheroes,0.2000000029802322
+376,Militants stage Pakistan jailbreak,Pakistan jailbreak,Taliban prison break : 250 militants escape after attack on Pakistan jail,Taliban prison break,3.0
+377,I don ' t understand how freedom of speech will be prohibited .,freedom of speech,Your freedom of speech will be no more prohibited than it is today .,Your freedom of speech,3.799999952316284
+378,Army jets kill 38 militants in NW Pakistan air raids,Army jets,U . S . drone kills 4 militants in Pakistan,U . S . drone,3.200000047683716
+379,The dining room table gets some afternoon sun .,The dining room table,Dining room with wooden dining table set with playmates .,Dining room,2.200000047683716
+380,ISAF soldier killed in Afghan ' insider attack ',ISAF soldier,British soldier shot dead in Afghan ‘ insider attack ’,British soldier,4.0
+381,"Margaret Thatcher , former U . K . PM , dead at 87",Margaret Thatcher,Margaret Thatcher dies at 87,Margaret Thatcher,3.799999952316284
+382,A dog digging in the sand .,A dog,A brown dog digs in the sand .,A brown dog,4.199999809265137
+383,president dmitry medvedev ' s statement was posted on the kremlin website and carried in full by state news agencies .,president dmitry medvedev ' s statement,the statement was posted on the kremlin web site and carried by state news agencies .,the statement,3.200000047683716
+384,US can not ' Conclusively Determine ' Chemical Weapons Use in Syria,Chemical Weapons Use in Syria,U . S . Sees No Conclusive Evidence of Chemical Arms Use by Syria,No Conclusive Evidence of Chemical Arms Use by Syria,4.800000190734863
+385,A man is rapidly chopping some mushrooms using a knife .,A man,A person is quickly chopping mushrooms with a knife .,A person,3.75
+386,A black and white photo of a woman showing a horse .,A black and white photo,a black and white photo of cows in their stalls .,a black and white photo,1.399999976158142
+387,""" It ' s a huge black eye , "" said publisher Arthur Ochs Sulzberger Jr . , whose family has controlled the paper since 1896 .","publisher Arthur Ochs Sulzberger Jr . , whose family has controlled the paper since 1896",""" It ' s a huge black eye , "" Arthur Sulzberger , the newspaper ' s publisher , said of the scandal .","Arthur Sulzberger , the newspaper ' s publisher ,",3.5999999046325684
+388,"Suicide bomber kills eight , wounds 13 in Afghan capital - police",Suicide bomber,Suicide bomb kills 4 in Syrian capital ' s Old City,Suicide bomb,0.800000011920929
+389,% How much money does PP take in for abortion services ?,abortion services,How much is spent on abortions services ?,abortions services,2.5999999046325684
+390,Kenyan forces caused mall collapse,Kenyan forces,Official says Kenyan forces caused mall collapse,Kenyan forces,5.0
+391,Protesters topple Lenin statue in Kiev,Lenin statue,Ukraine protesters topple Lenin statue in Kiev,Ukraine protesters,4.400000095367432
+392,It indeed appears the Andromeda galaxy ( M31 ) and The Milky Way ( MW ) are en route to a collision .,the Andromeda galaxy ( M31 ) and The Milky Way ( MW ),"In a few billion years , the Milky Way and Andromeda will collide .",the Milky Way and Andromeda,4.400000095367432
+393,"Websites battle nasty comments , anonymity","nasty comments , anonymity",Websites fight nasty comments by taking away anonymity,nasty comments,3.799999952316284
+394,"Coupling , an American version of a hit British comedy , will get the valuable Thursday 9 : 30 p . m . time slot .","Coupling , an American version of a hit British comedy ,","Coupling , an American version of a hit British comedy , will couple with Friends on Thursdays .","Coupling , an American version of a hit British comedy ,",3.0
+395,And Nugent was a complete fool to say what he said .,a complete fool,Natalie was a complete fool to have insulted their fan base .,a complete fool to have insulted their fan base,0.6000000238418579
+396,N Korea to halt work at joint industrial zone,N Korea,North Korea blocks access to joint industrial zone,North Korea,4.0
+397,"Oracle shares fell 27 cents , or 2 percent , to $ 13 . 09 .",Oracle shares,"Oracle shares also rose on the news , up 15 cents to $ 13 . 51 on the Nasdaq .",Oracle shares,1.600000023841858
+398,Two people paddling a red canoe are reflected in the still water .,Two people paddling a red canoe,Two people in a red canoe on a clear lake .,Two people,3.200000047683716
+399,Presumably the decision of drivers to slow down in response to work zone signage is influenced by many factors .,the decision of drivers to slow down in response to work zone signage,"This short talk deals with issues of "" cheating slightly "" : Dan Ariely : Our buggy moral code .",Dan Ariely : Our buggy moral code,0.0
+400,I have never read anything that said teethers were bad - - where did you read that ?,anything that said teethers were bad,We used a clean cloth or baby sock wrapped around an ice cube with our kids and grandkids .,a clean cloth or baby sock wrapped around an ice cube with our kids and grandkids,1.399999976158142
+401,Left side of a silver train engine .,Left side,A close - up of a black train engine .,A close - up,2.200000047683716
+402,WikiLeaks begins publishing two million Syria emails,two million Syria emails,WikiLeaks Releasing Trove of Syria Documents,WikiLeaks Releasing Trove,3.400000095367432
+403,Three children stand on or near a fence .,Three children,The three children are standing on and by a fence .,The three children,4.599999904632568
+404,"Dunlap won both the swimsuit competition and the talent portion of the competition , singing "" If I Could . """,both the swimsuit competition and the talent portion of the competition,"She won the talent portion singing "" If I Could "" and also won in evening wear .",the talent portion,2.799999952316284
+405,The two dogs are running through the grass .,The two dogs,Three dogs run in the snow .,Three dogs,2.200000047683716
+406,"Security experts are warning that a new mass - mailing worm is spreading widely across the Internet , sometimes posing as e - mail from the Microsoft founder .",Security experts,"A new worm has been spreading rapidly across the Internet , sometimes pretending to be an e - mail from Microsoft Chairman Bill Gates , antivirus vendors said Monday .",antivirus vendors,4.800000190734863
+407,Three more US soldiers killed in Afghanistan,Three more US soldiers,NATO Soldier Killed in Afghanistan,NATO Soldier,1.7999999523162842
+408,A close - up view of the headlights of a blue old - fashioned car .,A close - up view,Close up of the headlights on a blue car .,the headlights,4.0
+409,Islamists kill 21 in suicide attacks in Niger,suicide attacks in Niger,Car bombs kill 20 in Turkish town near Syrian border,Car bombs,1.0
+410,""" Our strong preference is to achieve a financial restructuring out of court , and we remain hopeful we can do so , "" chief executive Marce Fuller said .",chief executive Marce Fuller,""" Our strong preference is to achieve a financial restructuring out of court , "" Mirant CEO Marce Fuller said in a prepared statement early Friday .",Mirant CEO Marce Fuller,4.0
+411,North Korea blocks access to joint industrial zone,North Korea,North Korea Blocks Access to Key Industrial Zone,North Korea,4.199999809265137
+412,A woman is cutting potato .,A woman,A woman is riding a horse .,A woman,0.75
+413,It ' s pretty difficult to imagine a person with Social Anxiety Disorder being an extrovert .,a person with Social Anxiety Disorder being an extrovert,"On the surface , it does seem like social anxiety disorder and extroversion shouldn ' t both exist in the same person .",the surface,4.199999809265137
+414,Two Kenyan ministers among 6 killed in plane crash,Two Kenyan ministers,Poland honors president killed in 2010 plane crash,2010 plane crash,0.800000011920929
+415,Putin claims victory in Russia ' s presidential election,victory in Russia ' s presidential election,Will Putin ' s Election Victory in Russia Be Greeted with Protests ?,Putin ' s Election Victory,1.7999999523162842
+416,The black dog is walking through the tall grass .,The black dog,The black dog is running through the grass .,The black dog,3.799999952316284
+417,The dog pulled the dogs tail and then his leg .,The dog,A monkey pulled a dogs tail .,A monkey,1.75
+418,A boy is checking a calender .,A boy,A boy is looking at a calendar .,A boy,3.799999952316284
+419,House blaze kills 7 in northern Pakistan,House blaze,US drone strike kills 8 in NW Pakistan,US drone strike,1.399999976158142
+420,"By late afternoon , the Dow Jones industrial average was up 12 . 81 , or 0 . 1 percent , at 9 , 331 . 77 , having gained 201 points Monday to its highest level since July 2002 .",the Dow Jones industrial average,"In morning trading , the Dow Jones industrial average was down 8 . 76 , or 0 . 1 percent , at 9 , 310 . 20 , having gained 201 points Monday .",the Dow Jones industrial average,1.25
+421,naeem m . smuggled 10 kilograms ( 22 pounds ) of heroin .,10 kilograms ( 22 pounds ) of heroin,the defendants smuggled more than 11 kilograms ( 24 pounds ) of heroin .,the defendants,2.400000095367432
+422,Here is my advice based on my personal experience pumping breastmilk for twin boys for a full year .,my advice based on my personal experience pumping breastmilk for twin boys for a full year,"I understand that the first 3 days are the most important , so much so it is vital you do it then .",the first 3 days,0.4000000059604645
+423,"Most of the literature I can find about infant sleeping has to do primarily with waking habits , not eating habits .",Most of the literature I can find about infant sleeping,"In my experience , babies tend to wake up by themselves when they get hungry .",my experience,2.5999999046325684
+424,the part of the purpose of the united states plan is to increase pressure on north korea .,the part of the purpose of the united states plan,the united states and the allies of the united states believe iran is pursuing nuclear arms .,the united states and the allies of the united states,0.800000011920929
+425,Moon rocks indicate earth ' s orb born of collision,Moon rocks,Indian minister killed in head - on collision,Indian minister,0.0
+426,France ' s Strauss - Kahn charged with involvement in prostitution vice ring,France ' s Strauss - Kahn,Strauss - Kahn charged in prostitution vice ring,prostitution vice ring,4.0
+427,Syrian forces shoot civilians on bus,Syrian forces,"Syrian forces , rebels clash near Turkey",Syrian forces,0.800000011920929
+428,"The broader Standard & Poor ' s 500 Index < . SPX > gave up 11 . 91 points , or 1 . 19 percent , at 986 . 60 .",The broader Standard & Poor ' s 500 Index < . SPX >,"The technology - laced Nasdaq Composite Index . IXIC declined 16 . 68 points , or 1 . 01 percent , at 1 , 636 . 94 .",The technology - laced Nasdaq Composite Index . IXIC,0.800000011920929
+429,"The user needs to evaluate for his / herself the cost / benefit of an "" obvious "" efficiency tool , such as macros .",The user,Instead of trying to force specific answers or method ' s on them .,specific answers or method ' s,0.800000011920929
+430,"During the same quarter last year , EDS declared a profit of $ 354 million , or 72 cents per share .",the same quarter last year,"EDS reported a first - quarter loss of $ 126 million , or 26 cents per share .","a first - quarter loss of $ 126 million , or 26 cents per share",1.5
+431,A woman is relaxing in a bath tub .,A woman,A woman is stabbing a potato with a fork .,A woman,0.4000000059604645
+432,Syrian army retakes Crusader castle from rebels,Syrian army,Syrian army retakes historic Crusader castle,Syrian army,4.599999904632568
+433,The Boston Archdiocese has faced waves of scandal that have not only angered victims ' advocates but parishioners and some priests .,The Boston Archdiocese,"The waves of scandal angered not only victims ' advocates but parishioners and some priests , to the point that Law could no longer run the archdiocese .",The waves of scandal,3.0
+434,The woman is dicing onions .,The woman,A woman is cutting an onion .,A woman,4.400000095367432
+435,"As I remember , in Geneva at least , there are open air markets on a weekly basis .",open air markets,This page list all the big Christmas markets in Switzerland .,This page,2.0
+436,A group of sheep in a field .,A group,A group of horses grazing in a field .,A group of horses,1.600000023841858
+437,the matter is delicate .,the matter,the iaea report is restricted .,the iaea report,0.0
+438,A woman is handling a frog .,A woman,A man is holding a frog .,A man,3.75
+439,Foreign companies eye new ' opening - up ',Foreign companies,More carriers likely in China,More carriers,0.6000000238418579
+440,A woman is eating something .,A woman,A woman is eating meat .,A woman,3.0
+441,Iran says UN nuclear talks will continue,UN nuclear talks,Iran says nuclear talks with UN ' constructive ',nuclear talks,2.799999952316284
+442,Pakistanis vote in landmark election,landmark election,Pakistan holds landmark election as 29 killed in attacks,landmark election,3.400000095367432
+443,A person is slicing some onions .,A person,A hamster is singing .,A hamster,0.0
+444,"The shooting victim was taken to Kings County Hospital Center , where he later died , the police said .",the police,"The victim , who was not identified , was taken to Kings County Hospital where he was pronounced dead .","The victim , who was not identified ,",4.333000183105469
+445,"Morrill ' s wife , Ellie , sobbed and hugged Bondeson ' s sister - in - law during the service .","Morrill ' s wife , Ellie ,","At the service Morrill ' s widow , Ellie , sobbed and hugged Bondeson ' s sister - in - law as people consoled her .",Morrill ' s widow,3.400000095367432
+446,Jerry Sandusky found guilty in child sex abuse trial,Jerry Sandusky,Sandusky found guilty in child sex abuse trial,child sex abuse trial,3.799999952316284
+447,Black train on train tracks .,Black train,A train on the train tracks .,A train,4.099999904632568
+448,Shares of Allergan fell 14 cents to close at $ 78 . 12 on the New York Stock Exchange ( news - web sites ) .,Shares of Allergan,Shares of Allergan were up 14 cents at $ 78 . 40 in late trading on the New York Stock Exchange .,Shares of Allergan,3.25
+449,"Freight train derails , catches fire in Columbus , Ohio",Freight train,"Freight train derailment , explosion prompts evacuation",Freight train derailment,2.799999952316284
+450,A man is walking on a rope .,A man,A man is riding a mo - pad .,A man,0.4000000059604645
+451,A black dog is running through the snow .,A black dog,A black pit bull dog is running through the dirt .,A black pit bull dog,2.200000047683716
+452,"Nationally , the federal Centers for Disease Control and Prevention recorded 4 , 156 cases of West Nile , including 284 deaths .",the federal Centers for Disease Control and Prevention,"There were 293 human cases of West Nile in Indiana in 2002 , including 11 deaths statewide .",293 human cases,1.6670000553131104
+453,A small black dog is in the grass .,A small black dog,A black dog is running in the grass .,A black dog,3.5999999046325684
+454,But do you actually believe there was an iceberg in those waters ?,an iceberg in those waters,I don ' t believe there was any iceberg at all anywhere near the Titanic .,any iceberg,2.799999952316284
+455,A plane being readied for take - off .,A plane,A small turboprop plane being loaded on the tarmac .,A small turboprop plane,3.400000095367432
+456,It ' s the first such drill since the September 11 terrorist attacks on New York and Washington .,the first such drill since the September 11 terrorist attacks on New York and Washington,It is the nation ' s first large - scale counterterrorism exercise since the Sept . 11 terrorist attacks .,the nation ' s first large - scale counterterrorism exercise since the Sept . 11 terrorist attacks,4.0
+457,Someone is cracking an egg open .,an egg,A man is breaking an egg .,A man,3.0
+458,"The woman was hospitalized June 15 , Kansas health officials said .",Kansas health officials,Missouri health officials said he had not been hospitalized and is recovering .,Missouri health officials,1.0
+459,it did not say if the men had been hanged in prison .,the men,dozens of such criminals have been hanged in public .,dozens of such criminals,1.7999999523162842
+460,A man standing on a boat is pulling another boat close by with a bamboo stick .,A man standing on a boat,a man in a black hat standing in front of a brick wall and a sign,a black hat,0.0
+461,2 pro - Palestinian activists arrested at B - G Airport,2 pro - Palestinian activists,Dozens of ' flytilla ' activists protest at Paris airport,Dozens of ' flytilla ' activists,2.200000047683716
+462,a dog is running across the sand with a stick in it ' s mouth .,the sand,A dog is running through a creek with a stick in its mouth .,A dog,3.5999999046325684
+463,The end of the Hong Kong protests ?,The end,UK ' concern ' over Hong Kong protests,UK ' concern,2.0
+464,The academic year does start around September in the USA and I think most European countries .,The academic year,"I would not accelerate things , to avoid getting worse grades that you want .",worse grades that you want,0.2000000029802322
+465,My son didn ' t become potty trained until about his 4 th birthday .,My son,Here are some things that worked with my son who started toilet training around 2 . 5 years .,some things that worked with my son who started toilet training around 2 . 5 years,1.600000023841858
+466,"Analysts had been expecting a net loss of 54 cents a share , according to Thomson First Call .",a net loss of 54 cents a share,"Analysts had forecast second quarter sales of $ 614 million , according to the Thomson First Call Web site .",second quarter sales of $ 614 million,1.5
+467,A woman is adding oil on fishes .,A woman,A woman is riding a horse .,A woman,0.800000011920929
+468,Use of force in defense of person . - A,Use of force,Use of force by aggressor .,Use of force,1.2000000476837158
+469,Israeli military focuses on northern border,Israeli military,"Egypt ' s military takes control over Muslim Brotherhood , supporters",Egypt ' s military,1.600000023841858
+470,A man plays a piano .,A man,A woman is playing the violin .,A woman,1.0
+471,Defense lawyers had said a change of venue was needed because massive pretrial publicity had tainted the jury pool against their client .,Defense lawyers,Defense lawyers had requested a change of venue for two reasons : They argued that massive pretrial publicity had tainted the jury pool against their client .,Defense lawyers,4.75
+472,Police attacked in Belfast flag protests,Belfast flag protests,Politicians in flag violence talks,flag violence talks,0.6000000238418579
+473,A man is punching through boards .,A man,A dog is running through water .,A dog,0.4000000059604645
+474,6 . 1 - magnitude quake strikes Indonesia,6 . 1 - magnitude quake,"6 . 1 - magnitude quake hits Papua , Indonesia - - USGS",6 . 1 - magnitude quake,4.199999809265137
+475,"In a "" first - past - the - post "" system , it is difficult to sustain more than two parties .","a "" first - past - the - post "" system","While the ' first - past - the - post system favours two parties , it certainly doesn ' t guarantee the marginalization of third parties .",the ' first - past - the - post system,3.0
+476,A boy is riding a horse .,A boy,A monkey is riding a bus .,A monkey,0.4000000059604645
+477,Three sheep on a dirt road viewed from a passenger vehicle .,Three sheep,Three sheep in middle of gravel road .,Three sheep,3.400000095367432
+478,Someone is scratching an animals belly .,an animals belly,A woman is stroking a lemur .,A woman,2.0
+479,A tan puppy being petted .,A tan puppy,A tan puppy being held and petted .,A tan puppy,4.400000095367432
+480,"The Dow Jones Industrial Average was up 0 . 3 per cent at 9 , 886 . 75 , while the Nasdaq Composite index was 0 . 4 per cent higher at 1 , 986 . 97 .",The Dow Jones Industrial Average,"On Wall Street , the Dow Jones Industrial Average rose 0 . 5 per cent at 9 , 905 . 8 and the Nasdaq Composite added 0 . 7 per cent at 1 , 995 . 1 .",the Dow Jones Industrial Average,1.7999999523162842
+481,"Still , revenues from the extra premiums would not be huge .",revenues from the extra premiums,How would the extra premiums be collected ?,the extra premiums,1.3329999446868896
+482,"Jim Williams , director of the US - VISIT project , said that by the middle of November , many arriving passengers in Atlanta will be fingerprinted and photographed .","Jim Williams , director of the US - VISIT project ,","Jim Williams , director of the US - VISIT project , said that by the middle of November , inspectors will be fingerprinting and photographing many foreign passengers arriving in Atlanta .","Jim Williams , director of the US - VISIT project ,",4.199999809265137
+483,A man walking down the stairs .,A man,A man walks down a staircase .,A man,5.0
+484,The gate is blue .,The gate,The gate is yellow .,The gate,1.600000023841858
+485,"SARS went on to claim the lives of 44 people in the Toronto area , including two nurses and a doctor .","the lives of 44 people in the Toronto area , including two nurses and a doctor","The virus killed 44 people in the Toronto area , including one doctor and two nurses .",The virus,3.200000047683716
+486,Quake of 6 . 2 magnitude strikes off Indonesia ' s Sumatra - USGS,Quake of 6 . 2 magnitude,Earthquake of 6 . 9 magnitude strikes off Indonesia island,Earthquake of 6 . 9 magnitude,3.0
+487,The weakness exists in the way that VBA looks at the properties of documents passed to it when the document is opened by a host application .,The weakness,The vulnerability exists in the way Microsoft ' s Visual Basic for Applications checks document properties passed to it when a document is opened .,The vulnerability,3.799999952316284
+488,A boy wearing a red shirt runs across the grass with a furry dog .,A boy wearing a red shirt,A sports fan is wearing face paint in the stands .,A sports fan,0.0
+489,Selenski descended down the wall and used the mattress to climb over razor wire .,the mattress,"Selenski used the mattress to scale a 10 - foot razor wire , Fischi said .",the mattress,3.0
+490,Two kids are playing a game of Foosball .,Two kids,The kids are playing a game with each other .,The kids,3.400000095367432
+491,the problem isn ' t who has money .,the problem,the problem is who doesn ' t have money .,the problem,2.4666666984558105
+492,' Desperate Housewives ' Actress Kathryn Joosten Dies,' Desperate Housewives ',' Housewives ' actress Kathryn Joosten dies at 72,' Housewives ' actress Kathryn Joosten,3.799999952316284
+493,' Iran will attack Tel Aviv if Israel strikes ',Tel Aviv,Senior cleric : Iran will attack Tel Aviv if Israel strikes,Senior cleric,4.400000095367432
+494,Two white horses staring over a fence .,Two white horses,Two horses standing in a pen .,Two horses,3.0
+495,"Given that the amount of shedding is normal , I don ' t think there ' s anything you can do to lessen it .",the amount of shedding,To reduce the amount of fur a cat malts over your furniture and clothes you could try a deshedder brush .,a deshedder brush,2.0
+496,A girl in a black desktop holds up an open box of Corn Flakes and a carton of milk .,A girl in a black desktop,A girl wearing black shorts and boots is standing next to a blue motorcycle .,A girl wearing black shorts and boots,0.0
+497,Red double decker bus taking on passengers .,Red double decker bus,Red double decker bus with hood up .,Red double decker bus,2.200000047683716
+498,Gusmao consolidates power in East Timor elections,East Timor elections,Gusmao powers on in East Timor,East Timor,3.5999999046325684
+499,Libya threatens army action against oil protesters,army action,Bomb threat forces evacuation at Princeton,Bomb threat forces evacuation,0.800000011920929

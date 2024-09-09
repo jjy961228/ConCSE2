@@ -1,0 +1,501 @@
+,sentence1,source1_np0,sentence2,source2_np0,label
+0,"i remained under the banyan tree , exhausted by my daily ritual of dragooning the men every two hours .",the banyan tree,"i remained under the banyan tree , exhausted by my daily ritual of herding the cats every two hours .",the banyan tree,3.0
+1,"in the us , it will depend on the school .",the us,it really depends on the school and the program .,the school and the program,3.0
+2,there ' s also what the string is made of .,the string,there is also a youtube - version of the film .,a youtube - version of the film,0.0
+3,"you just have to base your answer on what you do know , which is what you want .",your answer,"you may want it , but the process given to you is what you have to work within .",the process given to you,0.0
+4,you should just ask your boss what he wants you to do .,your boss,"you should listen to your boss , because you ' re not paid to tell the boss what to do .",your boss,2.0
+5,i have few suggestions for you :,few suggestions for you,i have two suggestions for you :,two suggestions for you,4.0
+6,you want to start in the room that is the largest to make sure you have the straightest start .,the room that is the largest to make sure you have the straightest start,"you will have to start with the clinic . , and maybe move on to the insurance company .",the clinic,1.0
+7,"if you don ' t want to derail the meeting , but the key is to speak up .",the key,the key thing you need to do in this meeting is listen .,the key thing you need to do in this meeting,1.0
+8,unfortunately the answer to your question is we simply do not know .,the answer to your question,"my answer to your question is "" probably not "" .",my answer to your question,1.0
+9,the answer to both questions is : yes .,the answer to both questions,the answer to both of your questions is yes .,the answer to both of your questions,5.0
+10,to give this an answer :,an answer,i ' ll answer this question :,this question,4.0
+11,unfortunately the answer to your question is we simply do not know .,the answer to your question,"sorry , i don ' t know the answer to your question .",the answer to your question,4.0
+12,the rule - when in doubt throw it out !,the rule,"i always go by the rule "" when in doubt , throw it out !",the rule,4.0
+13,this is not a good idea .,a good idea,this sound like a very bad idea .,this sound,4.0
+14,"yes , it ' s probably a good idea to renew your passport .",a good idea,it ' s a good idea .,a good idea,3.0
+15,it probably depends on the cut of meat .,the cut of meat,it depends on the meat and how it ' s cut .,the meat,4.0
+16,it ' s not a good idea .,a good idea,it ' s a good question .,a good question,0.0
+17,there are two things to consider :,two things to consider,there are two possible causes for this :,two possible causes for this,4.0
+18,"the coffee simply picks up the aluminum from the pot , as the coffee is acidic .",the coffee,one idea is cleaning the coffee residue from the coffee pot .,one idea,1.0
+19,there are two ways to start with : plunging and dripping .,two ways to start with : plunging and dripping,there are two traditional ways to bend wood :,two traditional ways to bend wood,0.0
+20,you might have to try a variety before you find one that clicks with him .,one that clicks with him,my advice would be to try a variety of coffees that you can afford and find one you like .,my advice,2.0
+21,it ' s not a good idea .,a good idea,it is not a good idea .,a good idea,5.0
+22,"you just have to base your answer on what you do know , which is what you want .",your answer,"they can , but the way to do it depends on what you have available .",the way to do it,1.0
+23,take a look at these :,a look at these,take a look at this :,a look at this,5.0
+24,this is not a good idea .,a good idea,but it is not a good idea .,a good idea,5.0
+25,"the answers so far are already good , but i ' d like to add a map for switzerland :",the answers,"you have a lot of answers already , but i ' d like to add curries as another solutions .",a lot of answers,0.0
+26,i was in a similar situation .,a similar situation,i had a similar situation .,a similar situation,5.0
+27,i ' ve had this same problem .,this same problem,i had this same problem .,this same problem,5.0
+28,there is no maximum .,no maximum,there is no quarantine period .,no quarantine period,0.0
+29,i am not sure this is the right site for the question .,the right site for the question,i am not sure this question would have made much sense to the romans themselves .,this question,2.0
+30,"you just have to base your answer on what you do know , which is what you want .",your answer,it is his job to see that you have what you need to do your job .,his job,0.0
+31,this is a problem that the professor has to deal with .,a problem that the professor has to deal with,this is a big problem .,a big problem,1.0
+32,it very much depends on the grant in question .,the grant in question,i think it depends very much on the area .,the area,2.0
+33,i have the same thing .,the same thing,i have had the same problem .,the same problem,4.0
+34,"my answer to your question is "" probably not "" .",my answer to your question,i think that the short answer to your question is : no .,the short answer to your question,4.0
+35,i don ' t think it makes any tremendous difference .,any tremendous difference,i don ' t think it makes much difference .,much difference,4.0
+36,there ' s not a lot you can do about that .,a lot you can do about that,there ' s not that much that you can do with a sourdough starter .,that much that you can do with a sourdough starter,2.0
+37,you answered your own question .,your own question,you have answered your own question .,your own question,5.0
+38,"you just have to base your answer on what you do know , which is what you want .",your answer,th answer to you problem is that you do nt actually know what you ' re getting in .,th answer to you problem,2.0
+39,this is not a good idea .,a good idea,this is probably not a good idea but i will suggest it anyhow .,a good idea,2.0
+40,the best thing you can do is to know your stuff .,the best thing you can do,"my recommendation is not to say anything , and do the best you can .",my recommendation,0.0
+41,i have the same thing .,the same thing,i have the same situation and have traveled extensively .,the same situation,2.0
+42,it ' s not a good idea .,a good idea,i do not think it ' s a good idea .,a good idea,4.0
+43,you are on the right path .,the right path,you are right on the mark .,the mark,4.0
+44,"this doesn ' t answer your question , but :",your question,this is a part answer to your question,a part answer to your question,1.0
+45,does this page answer your question ?,this page,does this answer your questions ?,your questions,4.0
+46,i ' ve had this same problem .,this same problem,i ' ve had this problem while working in a pubs .,this problem,2.0
+47,"yes , you have to file a tax return in canada .",a tax return,you are not required to file a tax return in canada if you have no taxable income .,a tax return,1.0
+48,the best thing you can do is to know your stuff .,the best thing you can do,the best thing to do is to overcome the fussiness .,the best thing to do,0.0
+49,it depends on the dish and how amenable it is at the stage you make the mistake .,the dish,it depends on the sauce and the result you want .,the sauce and the result you want,2.0
+50,you probably don ' t have any chance at the moment .,any chance,"saying "" thanks , i don ' t have any questions at the moment . """,any questions,0.0
+51,i think you ' re looking for mikey ( 1992 ) .,mikey ( 1992 ),i think you ' re looking for the movie,the movie,3.0
+52,it makes absolutely no difference .,absolutely no difference,"no , it makes no difference .",no difference,5.0
+53,i think it ' s fine to ask this question .,this question,i think it is okay to ask the question .,the question,5.0
+54,there ' s not a lot you can do about that .,a lot you can do about that,i ' m afraid there ' s not really a lot you can do .,a lot you can do,5.0
+55,it depends entirely on your company and your contract .,your company and your contract,i guess it depends on the nature of your contract .,the nature of your contract,4.0
+56,you answered your own question .,your own question,you ' ve answered your own question already .,your own question,5.0
+57,there are a few things you can do :,a few things you can do,there are a few minimally - effective things you can do at the personal level .,a few minimally - effective things you can do at the personal level,3.0
+58,this is the tip i find most useful :,the tip i find most useful,something like this is useful :,something like this,3.0
+59,"sure , i ' ve done this very trip .",this very trip,i ' ve done this many dozens of times .,many dozens of times,3.0
+60,i ' ve located an article that might be of some help : http : / / www . dsattorney . com / qa - pseudonyms - in - contracts /,an article,i found some link that might be of help to you :,some link that might be of help to you,3.0
+61,unfortunately the answer to your question is we simply do not know .,the answer to your question,the answer to your question is not really .,the answer to your question,1.0
+62,it ' s also a matter of taste .,a matter of taste,it ' s definitely just a matter of preference .,a matter of preference,5.0
+63,it ' s not a good idea .,a good idea,it ' s a good idea to do both .,a good idea,1.0
+64,this answer is based on my experience teaching undergraduate math in the us .,this answer,this answer is based on experience i did not researched for references .,this answer,2.0
+65,there are a few things i think you should do .,a few things i think you should do,there are quite a few things you would need to do ;,quite a few things you would need to do,4.0
+66,you will want to clean the area first .,the area,you will also want to remove the seeds .,the seeds,0.0
+67,there are a couple of options that you could consider :,a couple of options that you could consider,there are a lot of ways that could go poorly for you .,a lot of ways that could go poorly for you,1.0
+68,vietnamese citizens need a visa to visit the usa .,vietnamese citizens,nepalese citizens require a visa to visit the uk .,nepalese citizens,1.0
+69,there ' s not a lot you can do about that .,a lot you can do about that,i really do not think there is much you can do about that .,much you can do about that,5.0
+70,"you just have to base your answer on what you do know , which is what you want .",your answer,"remember this is your degree we are talking about , its up to you what you want to do .",your degree we are talking about,0.0
+71,i was in a similar situation .,a similar situation,i am in a similar situation .,a similar situation,4.0
+72,what is your lid made of ?,your lid,what is your paper for ?,your paper,0.0
+73,you don ' t need any visa .,any visa,you don ' t need sauce at all .,you don ' t,0.0
+74,"that is your problem , not your supervisor ' s .",your problem,work with your supervisor and your team to solve the problem .,your supervisor and your team,2.0
+75,there are two things to consider :,two things to consider,a couple things to consider :,a couple things,5.0
+76,it depends entirely on your company and your contract .,your company and your contract,it depends on your company .,your company,3.0
+77,"well , i wouldn ' t put it on my cv .",my cv,i wouldn ' t put this job on my resume .,this job,4.0
+78,this is a great one . . .,a great one,this is a difficult one .,a difficult one,1.0
+79,the answer to both questions is : yes .,the answer to both questions,to directly answer the two questions in your title .,the two questions in your title,0.0
+80,"yes , there is a reason to not do what you propose .",a reason to not do what you propose,"valid reasons to feel the way you do , but not a reason to resign .",valid reasons,2.0
+81,i think it is depends on the program .,the program,it depends on how the term is used i think .,the term,2.0
+82,i think there isn ' t a general answer .,a general answer,i don ' t think there is an answer for this .,an answer for this,4.0
+83,there are a few things you can do :,a few things you can do,there are a couple things you can try .,a couple things you can try,5.0
+84,"the key is you have to find something that works for you , and your goals .",the key,"you may want it , but the process given to you is what you have to work within .",the process given to you,1.0
+85,i think you ' ve pretty much done your review .,your review,you ' ve pretty much answered your own question .,your own question,2.0
+86,there are a few things i think you should do .,a few things i think you should do,there are a few things i don ' t understand :,a few things i don ' t understand,0.0
+87,you burn more calories digesting protein than you do carbohydrates and fat .,more calories digesting protein than you do carbohydrates and fat,"the more you sweat , the faster you will burn calories and fat .",calories and fat,2.0
+88,you answered your own question .,your own question,you pretty much answered your own question .,your own question,5.0
+89,i have the same thing .,the same thing,i had the same problem as you .,the same problem as you,3.0
+90,"yes , there is a chemical difference .",a chemical difference,"yes , there is a reason for it .",a reason for it,0.0
+91,you are on the right path .,the right path,you ' re on the right path .,the right path,5.0
+92,"problem is , the system doesn ' t account for people who could care less about money , or title .",the system,the joker doesn ' t care about money .,the joker,1.0
+93,"in the first case , i think you don ' t need it .",the first case,so i don ' t think you need to put it on the cover .,the cover,1.0
+94,it is impossible to answer this question without a form check .,this question,"it is difficult , if not impossible , to give a complete answer to this question .",a complete answer to this question,2.0
+95,you need to add this to your resume because it is the only position you have had .,the only position you have had,this gives you the opportunity to make your case that you really do have expertise in xxx .,the opportunity to make your case that you really do have expertise in xxx,2.0
+96,"yes , it is possible to publish a paper on model analysis .",a paper on model analysis,"yes , it is hard to publish in a peer reviewed journal .",a peer reviewed journal,1.0
+97,i think it is great that you had a test conducted .,a test conducted,i think that ' s a great plan .,a great plan,2.0
+98,"yes , there is a rule against this .",a rule against this,there ' s no rule against it .,no rule against it,1.0
+99,"if your long stay visa for switzerland is valid , then you will not need a transit visa .",your long stay visa for switzerland,"you do not need a transit visa , but to enter zurich you will need a visa .",a transit visa,2.0
+100,a few more point to think about :,a few more point,a few things to think about :,a few things,5.0
+101,i ' m afraid we are out of luck in this one .,this one,i think this is one of those things where you are just out of luck .,one of those things where you are just out of luck,5.0
+102,i have the same thing .,the same thing,i have the same problem .,the same problem,4.0
+103,i have the same thing .,the same thing,i have the exact same problem .,the exact same problem,4.0
+104,you are on the right path .,the right path,you ' re right on about the sample definition .,the sample definition,0.0
+105,the best thing you can do is to know your stuff .,the best thing you can do,the best thing you can do is find something else interesting to do while you wait on hold .,the best thing you can do,2.0
+106,it ' s also a matter of taste .,a matter of taste,it ' s mostly a matter of taste .,a matter of taste,5.0
+107,i was in a similar situation .,a similar situation,personally when i was in a similar situation i sent the couple a card and a gift .,the couple,2.0
+108,i had the same problem as you .,the same problem as you,i have just had the same problem .,the same problem,5.0
+109,sometime if you really want it you might need to pay an agency to get the place for you .,an agency,you could probably get a tour agency to do it for you but it would cost you .,a tour agency,2.0
+110,also it is useful to keep the consistency in your story .,the consistency in your story,it is important to keep the story in the scope of your limit .,the story,2.0
+111,i think it ' s just a habit .,just a habit,i think it ' s a bad idea .,a bad idea,1.0
+112,it ' s not a good idea .,a good idea,"no , it ' s not a good thing .",a good thing,4.0
+113,i ' m thinking it ' s a bad idea .,a bad idea,i think it ' s a bad idea .,a bad idea,5.0
+114,unfortunately the answer to your question is we simply do not know .,the answer to your question,"if the conversation is not about work , you know what the answer is to your own question .",the conversation,2.0
+115,i would personally beware of the motley fool .,the motley fool,i would recommend looking at the motley fool .,the motley fool,2.0
+116,i think there isn ' t a general answer .,a general answer,i don ' t think there is a single definition .,a single definition,4.0
+117,i had the same problem as you .,the same problem as you,i have exactly the same problem .,exactly the same problem,5.0
+118,"my answer to your question is "" probably not "" .",my answer to your question,the answer to your question is not really .,the answer to your question,4.0
+119,i had the same problem as you .,the same problem as you,i had the same issue .,the same issue,4.0
+120,there are two things to consider :,two things to consider,i think there are two important things to consider :,two important things to consider,5.0
+121,there are a few things you can do :,a few things you can do,there are a few things you need to consider :,a few things you need to consider,4.0
+122,the answer to this and all such similar questions is in two stages :,the answer to this and all such similar questions,the answer to both questions is : yes .,the answer to both questions,1.0
+123,it is impossible to answer this question without a form check .,this question,this is a part answer to your question,a part answer to your question,0.0
+124,there are a few things you can do :,a few things you can do,there are a few things i think you should do .,a few things i think you should do,3.0
+125,there are a few possible reasons .,a few possible reasons,there are a few reasons that paint wrinkles .,a few reasons that paint wrinkles,3.0
+126,there are three options :,three options,there are only three options :,only three options,5.0
+127,so think it in this way .,this way,think of it this way .,this way,5.0
+128,microwave would be your best bet .,your best bet,your best bet is research .,your best bet,0.0
+129,"in the us , it will depend on the school .",the us,this will depend on the university .,the university,4.0
+130,it ' s not a good idea .,a good idea,"it ' s not just a good idea , it ' s an excellent idea .",just a good idea,1.0
+131,there are a few things i think you should do .,a few things i think you should do,there are a few minimally - effective things you can do at the personal level .,a few minimally - effective things you can do at the personal level,4.0
+132,i ' ve had this same problem .,this same problem,i had this same situation .,this same situation,3.0
+133,i realized there is already an accepted answer but i figure i would add my 2 cents .,an accepted answer,i know this is an old question but i feel i should add my 2 cents .,an old question,5.0
+134,"yes , there is a reason to not do what you propose .",a reason to not do what you propose,"yes , there is a chemical difference .",a chemical difference,0.0
+135,"yes , there is at least one to my knowledge .",at least one to my knowledge,"to my knowledge , there ' s no time requirement .",my knowledge,1.0
+136,there is no test that can tell you if it is sealed or not .,no test that can tell you if it is sealed or not,there is no code telling you that you can not do this .,no code telling you that you can not do this,0.0
+137,you shouldn ' t feel any obligation at all .,any obligation,you don ' t need sauce at all .,you don ' t,0.0
+138,i ' ve had this same problem .,this same problem,i had this problem before .,this problem,4.0
+139,"my answer to your question is "" probably not "" .",my answer to your question,this is a part answer to your question,a part answer to your question,1.0
+140,the key thing to realize here is that it ' s not your job to make people do their work .,the key thing to realize here,it really isn ' t your problem how they are going to find a qualified person to do the job .,your problem,1.0
+141,"not a direct answer to the question , but something to consider .",not a direct answer,"not a real answer to your question , but maybe it helps .",not a real answer to your question,4.0
+142,there are two possible causes for this :,two possible causes for this,there are two options for you -,two options for you,1.0
+143,i agree with the other comments .,the other comments,i agree with the previous comments .,the previous comments,5.0
+144,the answer to both questions is : yes .,the answer to both questions,"if the answer to any of these questions is yes , a phd may be worthwhile for you .",the answer to any of these questions,3.0
+145,this is a terrible idea .,a terrible idea,this is a bad idea .,a bad idea,5.0
+146,"driver backs into stroller with child , drives off",driver backs,"driver backs into mom , stroller with child then drives off",driver backs,4.0
+147,spain princess testifies in historic fraud probe,spain princess,spain princess testifies in historic fraud probe,spain princess,5.0
+148,senate confirms obama nominee to key appeals court,obama nominee,senate approves obama nominee to key appeals court,obama nominee,5.0
+149,u . n . rights chief presses egypt on mursi detention,mursi detention,un rights chief presses egypt on morsi detention,un rights chief,5.0
+150,us senate confirms janet yellen as us federal reserve chief,us senate,senate confirms janet yellen as next federal reserve chair,janet yellen,5.0
+151,syrian rebel groups battle each other in north,syrian rebel groups,syrian rebel groups battle each other in north,syrian rebel groups,5.0
+152,mayawati demands president ' s rule in kashmir,president ' s rule,mayawati demands presidents rule in jammu and kashmir,jammu and kashmir,3.0
+153,uganda ' s president signs anti - gay bill,uganda ' s president signs,uganda ' s president signs harsh anti - gay law,uganda ' s,4.0
+154,"rocks , tear gas fly as thai protests heat up",tear gas,"rocks , tear gas fly as thai protests heat up",tear gas,5.0
+155,boston bombing suspect buried in virginia,boston bombing suspect,boston bomb suspect buried in virginia cemetery,boston bomb suspect,5.0
+156,six dead in philippine restaurant blast,six dead,6 killed in philippines restaurant blast,philippines restaurant blast,5.0
+157,china army newspaper hits out at us ' s prism programme,china army newspaper,china army newspaper slams us ' s prism program,china army newspaper,5.0
+158,silvio berlusconi expelled from italy ' s parliament,silvio berlusconi,silvio berlusconi expelled from parliament,silvio berlusconi,4.0
+159,two killed in bahrain car explosion,bahrain car explosion,two killed in bahrain car blast,bahrain car blast,5.0
+160,hosni mubarak retrial adjourned until 8 june,hosni mubarak retrial,mubarak retrial adjourned to june,mubarak retrial,4.0
+161,us drone strike kills eight in waziristan,us drone strike,us drone strike kills 11 in pakistan,us drone strike,2.0
+162,egypt protesters defy cabinet threat to end sit - ins,cabinet threat to end sit - ins,egypt protesters defy cabinet threat,cabinet threat,4.0
+163,couple marry in the uk ' s first scientology wedding,the uk ' s first scientology wedding,couple get married in britain ' s first scientology wedding,britain ' s first scientology wedding,5.0
+164,russian opposition leader under house arrest,russian opposition leader,russian opposition leader placed under house arrest,russian opposition leader,5.0
+165,senate confirms janet yellen as chair of us federal reserve,janet yellen,senate confirms janet yellen as next federal reserve chair,janet yellen,5.0
+166,qatar ' s emir hands power to his son,qatar ' s emir,qatari emir hands power to son tamim,qatari emir,4.0
+167,"philippines typhoon death toll feared to hit 7 , 000",typhoon death toll feared to hit 7,"philippines typhoon death toll rises above 5 , 000",typhoon death toll,3.0
+168,red sox beat tigers 5 - 2 to advance to world series,red sox,red sox beat tigers to reach world series,red sox,4.0
+169,china lands jade rabbit robot rover on moon,jade rabbit robot rover,china lands robot rover on moon,robot rover,4.0
+170,ukrainian parliament dismisses president,ukrainian parliament,ukraine ' s parliament votes to dismiss president,ukraine ' s,4.0
+171,venezuela lawmakers brawl amid election tensions,venezuela lawmakers,venezuela lawmakers brawl over election,venezuela lawmakers,5.0
+172,"north korea warns foreigners in south , advising evacuation",north korea,north korea warns foreigners in south to evacuate,north korea,5.0
+173,captain of sunken south korean ferry arrested,captain of sunken south korean ferry,captain of capsized s korean ferry arrested,captain of capsized s korean ferry,4.0
+174,israel confirms strike on syria targeted weapons,strike on syria targeted weapons,israel officials : strike on syria targeted weapons,israel officials,5.0
+175,"death toll in syria now tops 100 , 000",death toll in syria,"death toll in syria over 100 , 000 so far",death toll,5.0
+176,"communist rebels ambush philippine police , kill 7",communist rebels,communist rebels kill eight philippine police,communist rebels,4.0
+177,"egypt ' s morsi faces trial for prison break , murder , says prosecution",egypt ' s morsi,egypt ' s morsi faces trial for prison break,egypt ' s morsi,3.0
+178,iran nuclear talks enter third day,iran nuclear talks,iran nuclear talks enter crucial third day,iran nuclear talks,5.0
+179,jurors find jodi arias eligible for death penalty,jodi arias,"jodi arias eligible for death penalty , jury says",jodi arias,5.0
+180,thai army declares martial law,thai army,"thailand ' s army declares martial law , denies coup",thailand ' s army,3.0
+181,woman dies while riding roller coaster in texas,roller coaster,woman dies riding roller coaster at texas amusement park,roller coaster,4.0
+182,nobel author doris lessing dies at 94,nobel author doris lessing,nobel prize winning author doris lessing dies,nobel prize winning author doris lessing,4.0
+183,over 100 dead as typhoon slams central philippines,over 100 dead,at least 100 dead as typhoon batters philippines,at least 100 dead,5.0
+184,first post office savings bank atm opens in chennai,first post office savings bank atm,india ' s first post office savings bank atm inaugurated in chennai,india ' s first post office savings bank atm,4.0
+185,israel agrees to 12 hour ceasefire,12 hour ceasefire,israel agrees to 24 - hour gaza truce,24 - hour gaza truce,3.0
+186,quake of 6 . 2 magnitude strikes off indonesia ' s sumatra - usgs,quake of 6 . 2 magnitude,earthquake of 6 . 9 magnitude strikes off indonesia island,earthquake of 6 . 9 magnitude,3.0
+187,us supreme court limits president ' s recess appointments power,supreme court limits president ' s recess appointments power,high court checks president ' s recess appointment power,high court checks president ' s,5.0
+188,british stuntman fell to his death in wing suit mishap,british stuntman,british stuntman dies in wingsuit mishap in alps,british stuntman,4.0
+189,"euro crisis is over , says france ' s francois hollande",france ' s francois hollande,"eurozone debt crisis is over , says france ' s president",france ' s president,4.0
+190,what makes india vote ? jaipur lit fest debates,jaipur lit fest debates,what makes india vote ? debate at jaipur literature festival,debate at jaipur literature festival,5.0
+191,white diamond breaks record in hong kong auction,hong kong auction,white diamond fetches record $ 34 m at hk auction,white diamond,4.0
+192,chinese satellite spots large object in search area,large object,malaysia : chinese satellite found object in ocean,chinese satellite,3.0
+193,goa building collapse death toll touches 15,goa building collapse death toll,indian building collapse deaths rise to 14,indian building collapse deaths,3.0
+194,pak religious body endorses underage marriage,pak religious body,cii endorses underage marriage,underage marriage,3.0
+195,treasury proposal sees 1 . 5 % increase in income tax,treasury proposal,treasury proposes 1 . 5 % income tax raise in budget,1 . 5 % income tax raise,4.0
+196,"eu ministers of employment and social policy will discuss how to boost employment , integrate social and economic policies",eu ministers of employment and social policy,eu ministers of employment and social policy to discuss employment boosting strategies,employment and social policy,3.0
+197,u . s . and russia reach a deal on syria ' s chemical weapons,u . s . and russia,"china welcomes us , russia deal on syria chemical weapons",syria chemical weapons,3.0
+198,stocks edge lower following retail earnings,retail earnings,stocks edge lower after earnings from retailers,earnings from retailers,5.0
+199,police helicopter crashes into scottish pub,police helicopter,police helicopter crashes on top of bar in glasgow,police helicopter,4.0
+200,australian pm says ' very confident ' signals are from black box,australian pm,australian pm confident sounds are from flight 370,australian pm confident sounds,4.0
+201,"mt gox reveals 200 , 000 ' forgotten ' bitcoin haul",mt gox,"mt gox finds 200 , 000 ' forgotten ' bitcoins",mt gox,5.0
+202,mandela ' s condition has ' improved ',mandela ' s condition,mandela ' s condition has ' worsened over past 48 hours ',mandela ' s condition,1.0
+203,chinese lunar rover lands on moon,chinese lunar rover,china lands robot rover on moon,robot rover,5.0
+204,"boy , 14 , arrested for sex attacks around a university campus","boy , 14 ,",two teenagers arrested after string of sex attacks on manchester university campus,two teenagers,2.0
+205,philippe becomes king of belgium,king of belgium,philippe ascends throne of divided belgium,throne of divided belgium,4.0
+206,india anti - graft party takes charge in new delhi,india anti - graft party,india ' s anti - graft party forms government in delhi,india ' s anti - graft party,4.0
+207,spain approves new restrictive abortion law,new restrictive abortion law,spanish government approves tight restrictions on abortion,spanish government,5.0
+208,german ambassador ' s athens residence shot at,german ambassador ' s athens residence,shots fired at german ambassador ' s residence in athens,german ambassador ' s residence,5.0
+209,ukraine ' s jailed opposition icon tymoshenko walks free,ukraine ' s jailed opposition icon tymoshenko,ukraine ' s opposition chief wants more protests,ukraine ' s opposition chief,2.0
+210,oklahoma examines what went wrong in botched execution,botched execution,okla . inmate dies of heart attack after botched execution,okla . inmate,3.0
+211,napolitano elected for second term as italy president,second term,italian president napolitano elected for second term,italian president napolitano,5.0
+212,more than 100 injured in texas plant blast,more than 100 injured,hundreds believed injured in texas fertiliser plant blast,texas fertiliser plant blast,4.0
+213,un court convicts 6 bosnian croats of atrocities,un court,un war crimes court convicts six bosnians croats,un war crimes court,4.0
+214,saudi man with pressure cooker arrested at detroit airport,saudi man with pressure cooker,saudi man traveling with pressure cooker arrested,saudi man,4.0
+215,north korea says to put us citizen on trial,north korea,north korea says detained american tourist to face trial,north korea,5.0
+216,thai protests escalate amid violence,thai protests,thai protesters call general strike,thai protesters,3.0
+217,egypt imposes state of emergency after 95 people killed,state of emergency,egypt announces one - month state of emergency nationwide,one - month state of emergency,3.0
+218,"un warns of plight of women , children in syria ' s homs","plight of women , children in syria ' s homs","unicef calls for immediate safe access to women , children in homs","immediate safe access to women , children in homs",3.0
+219,redford touts alberta economy ahead of vote on leadership,alberta economy,redford addresses pc convention ahead of leadership review,leadership review,2.0
+220,"hagel , dempsey face congress over defense budget",defense budget,"hagel laments "" political "" changes to us defence budget",""" political "" changes to us defence budget",4.0
+221,sony to sell pc unit and cut jobs,pc unit,sony to axe pc unit in major business overhaul,pc unit,3.0
+222,n . korea deports elderly american,n . korea,north korea deports detained us war veteran,north korea,2.0
+223,search leader urges caution in findings related to missing malaysian jetliner,search leader,searchers hoping pings come from lost malaysian airliner,lost malaysian airliner,1.0
+224,"mandela remembered by family , as stadium memorial service is planned",stadium memorial service,mandela ' s family thanks nation and world for support,mandela ' s family,1.0
+225,ukrainian presidency says deal reached at crisis talks,ukrainian presidency,ukraine rivals sign deal to end crisis,ukraine rivals,4.0
+226,obama mulls limited military action in syria,limited military action in syria,"obama urges military action against syria , but will seek congress ' ok",military action against syria,2.0
+227,"syria ' s pm escapes assassination try , regime says",syria ' s pm,syrian prime minister survives assassination attempt,syrian prime minister,4.0
+228,obama holds out over syria strikes,syria strikes,uk urges countries over syria aid,syria aid,1.0
+229,jordan elected to take saudi seat on un security council,saudi seat,jordan elected to un security council seat that saudi arabia rejected,un security council seat,3.0
+230,maldives begins to vote in controversy - ridden presidential poll,presidential poll,crisis - hit maldives holds new presidential poll,hit maldives,3.0
+231,at least 18 killed in iraq mosque bombing,at least 18,more than 60 killed at iraq funeral,more than 60,0.0
+232,george zimmerman found not guilty of trayvon martin murder,george zimmerman,george zimmerman verdict propels cable news into talkradio mode,george zimmerman verdict,1.0
+233,mandela spends third day in hospital,third day,mandela in hospital for 3 rd day,3 rd day,5.0
+234,one killed in clashes at muslim brotherhood cairo offices,clashes at muslim brotherhood cairo offices,egypt : protesters storm muslim brotherhood ' s hq,muslim brotherhood ' s,2.0
+235,saudi women to protest against driving ban,saudi women,saudi women drive in protest with little problem,saudi women,2.0
+236,"obama , hollande hail transformed us - french relationship","obama , hollande hail",hollande arrives for us state visit,state visit,1.0
+237,russian parliament allows putin to use military in ukraine,russian parliament,president obama warns russia to stay out of ukraine,president obama,1.0
+238,nelson mandela hospital release reports ' incorrect ',nelson mandela hospital release reports,nelson mandela goes home after hospital stay,nelson mandela,2.0
+239,no winners in a war of sanctions,no winners,the impact of sanctions on russia,the impact,1.0
+240,south korean soldier reportedly flees after killing 5 comrades at border with north korea,south korean soldier,south korean soldier kills comrades and flees,south korean soldier,4.0
+241,world cup hit by new stadium death,world cup,worker dies at world cup stadium,world cup stadium,3.0
+242,tata nano and other indian small cars fail crash tests,tata nano and other indian small cars,how does world ' s cheapest car do in crash test ?,world ' s cheapest car,1.0
+243,"greece reaches agreement with troika , bailout tranche expected within days","troika , bailout tranche",debt inspectors reach agreement with greece,debt inspectors,3.0
+244,murray ends 77 - year wait for british win,77 - year wait for british win,murray wins wimbledon title ends britains 77 year agony,britains 77 year agony,5.0
+245,malaysia airlines plane crashes on ukraine - russia border - live,malaysia airlines plane,us : russia massing troops on ukraine border,russia massing troops on ukraine border,0.0
+246,tycoon claims win in ukraine and promises to seek future in eu,tycoon claims,polling stations open at ukrainian presidential election,polling stations,0.0
+247,us to determine extent of chemical weapons use by syria,extent of chemical weapons use by syria,what we know so far about chemical weapons in syria ' s civil war,chemical weapons,2.0
+248,the covert war in pakistan,the covert war,new major earthquake rocks southwest pakistan,new major earthquake,0.0
+249,syria agrees to surrender chemical weapons,chemical weapons,"uk ' s cameron : syria , russia must show chemical arms proposal is genuine",uk ' s cameron,2.0
+250,russia ' s putin claims authority to invade ukraine,russia ' s putin,kremlin : putin yet to decide on using russian troops in ukraine,putin yet to decide on using russian troops in ukraine,2.0
+251,senior cpc official meets top dprk leader ' s special envoy,senior cpc official,north korean leader sends ' special envoy ' to china,north korean leader,3.0
+252,turkey unrest goes on despite end to park protest,turkey unrest,"turkish pm erdogan says "" duty "" to order crackdown on istanbul park protest",turkish pm erdogan,1.0
+253,pope calls for action on climate change in draft encyclical,action on climate change,pope urges action on climate change in draft encyclical,action on climate change,5.0
+254,singapore shares open 0 . 28 % lower on thursday,singapore shares,singapore shares open 0 . 19 % higher on thursday,singapore shares,2.0
+255,who is jihadi john ?,jihadi john,who was ' jihadi john ? ',jihadi john,5.0
+256,"iran , iaea officials meet ahead of march nuclear deadline",iaea officials,"iran , iaea officials meet ahead of march nuclear deadline : isna",iaea officials,5.0
+257,headlines in major iranian newspapers on oct 4,headlines in major iranian newspapers,headlines in several iranian newspapers on oct 19,headlines in several iranian newspapers,2.0
+258,top asian news at 2 : 30 p . m . gmt,top asian news,top asian news 1 : 25 p . m . gmt,top asian news,1.0
+259,how the dow jones industrial average did wednesday,the dow jones industrial average,how the dow jones industrial average fared on monday,the dow jones industrial average,2.0
+260,"hajj to go ahead despite crane collapse , officials vow",crane collapse,hajj to go ahead despite crane collapse,crane collapse,4.0
+261,us house republicans elect paul ryan as speaker,paul ryan,us house republicans eye reluctant ryan for speaker,house republicans eye reluctant ryan for speaker,3.0
+262,top asian news at 4 : 00 p . m . gmt,top asian news,top asian news 8 : 39 a . m . gmt,top asian news,3.0
+263,singapore shares open 0 . 83 % higher on wednesday,singapore shares,singapore shares open 0 . 06 % lower on tuesday,singapore shares,1.0
+264,china treasury bond futures open higher tuesday,china treasury bond futures,china treasury bond futures close mixed wednesday,china treasury bond futures,1.0
+265,us attorney general holder resigns,attorney general holder,attorney general eric holder to resign,attorney general eric holder,5.0
+266,headlines in major iranian newspapers on sept 27,headlines in major iranian newspapers,headlines in several iranian newspapers on oct 19,headlines in several iranian newspapers,3.0
+267,abbvie sours on $ 55 b shire deal after tax changes,$ 55 b shire deal,abbvie cools on $ 55 bn shire deal after us tax changes,abbvie cools,5.0
+268,china on high alert for typhoon kalmaegi,high alert,china issues yellow alert for typhoon kalmaegi,yellow alert for typhoon kalmaegi,4.0
+269,saudi - led airstrikes hit yemeni capital,saudi - led airstrikes,saudi airstrikes in yemen ' s capital kill 29,saudi airstrikes in yemen ' s capital,3.0
+270,new un peacekeeping chief named for central african republic,new un peacekeeping chief,un takes over peacekeeping in central african republic,peacekeeping in central african republic,2.0
+271,militant attack from afghanistan kills four in upper dir,militant attack from afghanistan,militant attack from afghanistan kills fc soldier in balochistan,militant attack from afghanistan,3.0
+272,mali hunts jihadist nightclub killers,jihadist nightclub killers,militants attack un as mali hunts jihadist nightclub killers,jihadist nightclub killers,3.0
+273,7 . 3 magnitude earthquake strikes nepal,7 . 3 magnitude earthquake,6 . 6 - magnitude earthquake strikes off indonesia,6 . 6 - magnitude earthquake,1.0
+274,tokyo shares open higher over buoyant u . s . market,tokyo shares,tokyo shares open higher tracing u . s . gains,tokyo shares,4.0
+275,iran ' s parliament backs nuclear deal,iran ' s parliament,iran hardliners attack nuclear deal,iran hardliners,1.0
+276,hawaii preps for first hurricane in 22 years,first hurricane in 22 years,hawaii bracing as first hurricane in 22 years approaches,first hurricane,5.0
+277,iraq bombings kill at least 26,iraq bombings,iraq suicide bomber kills at least 12,iraq suicide bomber,2.0
+278,sierra leone in ebola lockdown,sierra leone,sierra leone reaches final day of ebola lockdown,sierra leone,3.0
+279,tokyo shares open higher on buoyant u . s . market,tokyo shares,tokyo shares open higher following strong u . s . performance,tokyo shares,4.0
+280,oil falls in asian trade,asian trade,oil prices down in asian trade,oil prices,5.0
+281,israeli forces detain palestinian mp in hebron,israeli forces,israeli forces detain 2 palestinians in overnight arrest raids,israeli forces,3.0
+282,"4 killed , several injured in sw china car accident",sw china car accident,"two killed , seventeen injured in raiwind road accident",two killed,0.0
+283,"more than 3 , 400 migrants rescued at sea in mediterranean",more than 3,"over 2 , 000 migrants rescued from wooden boats in mediterranean","over 2 , 000 migrants",3.0
+284,lewis hamilton takes pole for russian gp,lewis hamilton,lewis hamilton wins inaugural russian gp,lewis hamilton,4.0
+285,un security council hears yemen envoy ' s final . . .,un security council,un security council urges yemen ' s houthis to end . . .,un security council,2.0
+286,"israeli forces arrest 21 palestinians overnight , clash with locals",israeli forces,israeli security forces arrest 8 palestinians in overnight west bank sweeps,israeli security forces,1.0
+287,13 killed in afgan terror attack,afgan terror attack,6 killed in afghan capital mosque attack,afghan capital mosque attack,2.0
+288,"4 dead , 3 injured in east china road accident",east china road accident,"2 dead , 8 injured in central israel traffic accident",central israel traffic accident,0.0
+289,"palestinians , israeli police clash at jerusalem ' s al - aqsa","palestinians , israeli police",palestinian shot by israeli police in east jerusalem dies,palestinian shot by israeli police in east jerusalem,2.0
+290,suspected boko haram suicide bombers in nigeria kill 24,suspected boko haram suicide bombers in nigeria,suspected boko haram attacks kill dozens in nigeria,suspected boko haram attacks,4.0
+291,the end of the hong kong protests ?,the end,uk ' concern ' over hong kong protests,hong kong protests,2.0
+292,russian warplanes strike inside syria,russian warplanes,russian roulette in syria,russian roulette,2.0
+293,cctv of gunmen in tunisia museum attack,tunisia museum attack,19 killed in tunis museum attack,tunis museum attack,1.0
+294,live blog : ukraine in crisis,live blog,live blog : iraq in turmoil,live blog,0.0
+295,israeli police clash with palestinian protesters at sensitive jerusalem holy site,israeli police,israel police clash with palestinians in jerusalem,israel police,3.0
+296,nigeria votes in tight presidential election,tight presidential election,guineans go to the polls in presidential elections,the polls,2.0
+297,prince william dons samurai gear on japan tour,prince william,prince william of britain arrives in beijing,prince william of britain,2.0
+298,"3 killed , 4 injured in los angeles shootings",los angeles shootings,five killed in saudi arabia shooting,saudi arabia shooting,0.0
+299,micronesia vice president to visit china,micronesia vice president,vice president of bolivia to visit china,vice president of bolivia,2.0
+300,islamic state issues video of beheading of us hostage,islamic state,islamic state posts second propaganda video of uk hostage,islamic state,3.0
+301,teenager tests negative for ebola,teenager tests,texas hospital worker tests positive for ebola,texas hospital worker,1.0
+302,texas sues over syrian refugees,syrian refugees,turkey ' exploits ' syrian refugees,turkey ' exploits ',1.0
+303,new us sanctions target overseas cyber attackers,new us,china disagrees with u . s . sanctions program on overseas cyber attackers,overseas cyber attackers,2.0
+304,5 killed in israeli air strikes in gaza,israeli air strikes in gaza,"38 is militants killed in clashes , air strikes in iraq","militants killed in clashes , air strikes in iraq",0.0
+305,deadly blast rocks coal mine in east ukraine,coal mine,"12 dead , despite cease - fire in east ukraine",fire in east ukraine,2.0
+306,greece bailout uncertainty weighs on global markets,greece bailout uncertainty,greece concerns drag on asia markets,greece concerns,3.0
+307,funeral of ian paisley to take place in belfast,funeral of ian paisley,funeral of mh17 victim liam sweeney takes place in newcastle,funeral of mh17 victim liam sweeney,0.0
+308,rooney helps man united beat everton 3 - 0 in premier league,everton 3 - 0,west ham beats newcastle 2 - 0 in premier league,west ham,1.0
+309,hard - line jewish leader shot in jerusalem,line jewish leader,israeli leader urges calm in jerusalem,israeli leader,1.0
+310,waba emerges new nlc president,new nlc president,waiting for the next president,the next president,1.0
+311,backstage moves intensify as fight against islamic state widens,backstage moves,mixed progress reported in fight against islamic state,mixed progress,2.0
+312,egypt : ipi urges release of al jazeera journalist arrested in berlin,release of al jazeera journalist arrested in berlin,egypt sentences al jazeera journalists to jail,al jazeera journalists,1.0
+313,occupied palestinian territory : israeli forces continue to shed palestinian blood in opt,occupied palestinian territory,occupied palestinian territory : israel warns on security as gaza truce talks resume,occupied palestinian territory,1.0
+314,5 us airstrikes target islamic state fighters,5 us airstrikes,kurds see turkey impeding islamic state fight,islamic state fight,1.0
+315,libya : un orders investigation into libya rights abuses,un orders investigation into libya rights abuses,"india ' s top court orders investigation into job scam , deaths",india ' s top court,0.0
+316,taiwan coast guard launches new ships as south china sea tensions rise,taiwan coast guard,chinese military reaches out amid south china sea tensions,chinese military,2.0
+317,burundi police fire tear gas at protesters,burundi police,montenegrin police fire teargas to disperse opposition,montenegrin police,1.0
+318,"nepal earthquake death toll surpasses 7 , 000",nepal earthquake death toll,"death toll in nepal earthquake tops 8 , 000",death toll in nepal earthquake,3.0
+319,ashya ' s parents arrive for extradition hearing,ashya ' s parents,ashya king ' s parents freed from jail in spain,ashya king ' s parents,1.0
+320,nigeria admits slow response in ebola case,slow response,us ramps up response to ebola crisis,response to ebola crisis,1.0
+321,thousands cross austria - hungary border,austria - hungary border,thousands of russians stranded abroad,thousands of russians,1.0
+322,oscar pistorius sentenced to 5 years in prison,oscar pistorius,' bookkeeper of auschwitz ' sentenced to four years in prison,' bookkeeper of auschwitz ',0.0
+323,pro - palestinian activists march to un headquarters,pro - palestinian activists,pro - palestinian activists prepare flotilla to break gaza blockade,pro - palestinian activists,2.0
+324,benzema faces possible charges in sex - tape case,possible charges,menendez faces possible corruption charges,possible corruption charges,1.0
+325,us senate votes to advance iran nuclear review bill,senate votes to advance iran nuclear review bill,us scientists praise iran nuclear deal,us scientists,1.0
+326,all 224 dead in russian airliner mystery crash,all 224 dead,heat flash detected at time of russian airliner crash,heat flash,2.0
+327,govt . to hold talks with ftii students,talks with ftii students,cameron to hold talks with sturgeon on uk future,talks with sturgeon on uk future,0.0
+328,gunners fire but fail to advance in champions league,gunners fire,epl clubs out to avoid champions league woes,epl clubs,1.0
+329,scientists prove there is water on mars,water on mars,has nasa discovered water on mars ?,water on mars,2.0
+330,iranian president praises nuclear deal,iranian president,iran arrests several spies near nuclear plant,several spies near nuclear plant,1.0
+331,boko haram disrupts nigerian elections,boko haram,press awash with nigeria \ ' s general elections,nigeria \ ' s general elections,1.0
+332,south korea regrets north ' s refusal of talks,south korea,"south korea reports 14 th mers death , 12 new cases",south korea,1.0
+333,plane crash site search called off for the night,plane crash site search,tour de france pack sets off for stage 15,tour de france pack,0.0
+334,editors from around the world urge turkey to protect media,editors from around the world,media freedom at stake as turkey fights rebels,media freedom,2.0
+335,obama queries turnbull over china port deal,china port deal,spanish bulls gore seven to death,spanish bulls,0.0
+336,china ' s generous 1 mdb bid seen reaping it big returns in malaysia,china ' s generous 1 mdb bid,china keeps an eye on visiting tiger freed by russian president,an eye on visiting tiger freed by russian president,0.0
+337,hezbollah targets qaeda gathering along border with syria,qaeda gathering along border with syria,belarus tightens security along the border with ukraine,security along the border with ukraine,0.0
+338,south korea reports seven new mers cases,south korea,south korean woman in contact with mers patient dies,south korean woman,1.0
+339,obama calls for international front against is,international front,obama vows to save iraqis stranded on mountain,iraqis stranded on mountain,0.0
+340,"u . s . military says it conducts airstrikes against is in syria , iraq",u . s . military,observatory says russian air strikes kill 45 in syria,russian air strikes,1.0
+341,who abandoned 3 boeing planes at the airport ?,3 boeing planes,"police abandon posts in lesotho , fear for lives",posts in lesotho,0.0
+342,north korea to put us citizen on trial,north korea,n korea hit with new us sanctions,new us sanctions,2.0
+343,hong kong officials resume work as protests thin,hong kong officials,hong kong student leaders mull protest retreat,hong kong student leaders,2.0
+344,ebola uk : nhs staff ' panicked ' after suspected ebola cases,nhs staff,uk says investigating 2 suspected mers cases,2 suspected mers cases,0.0
+345,uk leader signals support for airstrikes on is in syria,uk leader,why cyprus backs cameron ' s push for uk air strikes in syria,cameron ' s push,1.0
+346,israel bars palestinians from jerusalem ' s old city,jerusalem ' s old city,"two - state solution between palestinians , israel pie in sky","state solution between palestinians , israel pie in sky",1.0
+347,how much do you know about secret service ?,secret service,lawmakers from both sides express outrage at secret service,lawmakers from both sides,1.0
+348,n . korea agrees to talks with south,n . korea,johor crowns its fifth sultan,its fifth sultan,0.0
+349,"iran , a large important partner for russia : novak","iran , a large important partner for russia","iran reiterates support for iraq , syria","support for iraq , syria",0.0
+350,taiwan ' s president charters plane to pay respects to lee,taiwan ' s president,poland president loses to challenger,poland president,0.0
+351,two palestinians die in attacks on israelis ahead of kerry visit,two palestinians,palestinian official slams israel ' s stone - throwing bill,palestinian official,0.0
+352,thomas cook accused of putting costs before customers,thomas cook,university of florida frat accused of spitting on wounded war veterans,university of florida frat,0.0
+353,narendra modi ' photoshopped ' image of chennai floods visit goes viral,narendra modi ' photoshopped ' image of chennai floods visit,pm narendra modi speaks of non - discrimination and equality,narendra modi,0.0
+354,un chief welcomes peaceful presidential elections in guinea,un chief,un chief condemns attack against peacekeepers in mali,un chief,1.0
+355,obama struggles to soothe saudi fears as iran talks resume,iran talks,myanmar struggles to finalize voter lists for sunday polls,voter lists,0.0
+356,pakistan executions draw international ire,pakistan executions,pakistan protests ceasefire violations by india,ceasefire violations by india,0.0
+357,south korea declares end to mers outbreak,south korea,north korea delegation meets with south korean officials,north korea delegation,0.0
+358,pranab stresses need to strive for peace by nations,pranab stresses,wto : india regrets action of developed nations,action of developed nations,0.0
+359,volkswagen skids into red in wake of pollution scandal,wake of pollution scandal,"volkswagen ' s "" gesture of goodwill "" to diesel owners","volkswagen ' s "" gesture",2.0
+360,two australians killed in kenya after bus crashed into river,two australians,permalink to two killed in germany train accident,two killed in germany train accident,0.0
+361,severe gales as storm clodagh hits britain,severe gales,merkel pledges nato solidarity with latvia,nato solidarity with latvia,0.0
+362,dozens of egyptians hostages taken by libyan terrorists as revenge for airstrikes,egyptians hostages,egyptian boat crash death toll rises as more bodies found in nile,egyptian boat crash death toll,0.0
+363,"china , india vow to further bilateral ties","china , india",china scrambles to reassure jittery stock traders,jittery stock traders,0.0
+364,obama is right : africa deserves better leadership,better leadership,obama waiting for midterm to name attorney general,attorney general,0.0
+365,putin spokesman : doping charges appear unfounded,putin spokesman,the latest on severe weather : 1 dead in texas after tornado,the latest on severe weather,0.0
+366,new video shows us police officers beating mentally - ill man,new video,new york police officer critically wounded in hatchet attack,new york police officer,0.0
+367,vector space representation results in the loss of the order which the terms are in the document .,vector space representation,"if a term occurs in the document , the value will be non - zero in the vector .",the value,1.0
+368,inheritance in object oriented programming is a way to form new classes using classes that have already been defined .,inheritance in object oriented programming,the peropos of inheritance in object oriented programming is to minimize the reuse of existing code without modification .,the peropos of inheritance in object oriented programming,1.0
+369,bayes ’ theorem was names after rev thomas bayes and is a method used in probability theory .,names after rev thomas bayes,"as an official theorem , bayes ' theorem is valid in all universal interpretations of probability .",bayes ' theorem,3.0
+370,if a term appears in the document then its value in the vector is non - zero .,its value in the vector,a document is represented as a vector and each dimension corresponds to a separate term .,each dimension,2.0
+371,"• p ( a | b ) is the conditional probability of a , given b .",a | b,• p ( b | a ) is the conditional probability of b given a .,the conditional probability of b given a,3.0
+372,the differing application has a direct influence on what the definition of the term means .,the differing application,the way that a ' term ' is defined depends on the application .,the way that a ' term ' is defined,5.0
+373,"thus , the "" program "" is the optimal plan of action that is being produced .","the "" program ""","thus , the "" program "" is the optimal plan for action that is produced .","the "" program """,5.0
+374,"thus , the "" program "" is the optimal plan for action that is produced .","the "" program ""","therefore , the "" program "" is the optimal plan for action that is produced .","the "" program """,5.0
+375,one of the best known schemes is tf - idf weighting ( see the example below ) .,one of the best known schemes,one of the best known methods is called tf - idf weighting .,one of the best known methods,4.0
+376,"it is "" previous "" in the sense that it does not take into account any information about b .",the sense that it does not take into account any information about b,it does not take into account any information about b and therefore is considered “ prior ” .,any information about b and therefore is considered “ prior ”,3.0
+377,the algebraic model for representing text documents and objects as vectors of identifiers is called the vector space model .,the algebraic model for representing text documents and objects as vectors of identifiers,a possible use for a vector space model is for retrieval and filtering of information .,a possible use for a vector space model,1.0
+378,secondly to define the value of the optimal solution recursively .,the value of the optimal solution,generalise the structure of an optimal solution 2 .,the structure of an optimal solution 2,1.0
+379,there are two main approaches for dynamic programming .,two main approaches for dynamic programming,there are four steps in dynamic programming : 1 .,four steps in dynamic programming : 1,1.0
+380,"p ( a ) , or the probability that the student is a girl regardless of any other information .",the probability that the student is a girl regardless of any other information,it is mainly used to calculate the probability of one event ’ s outcome given that a previous event happened .,the probability of one event ’ s outcome given that a previous event happened,1.0
+381,"for instance , a events schedule at an exhibition is sometimes called a program .",a events schedule at an exhibition,"for instance , a finalized schedule of events at an exhibition is sometimes called a program .",a finalized schedule of events at an exhibition,4.0
+382,this can be useful when the number of times a word appears is not considered important .,the number of times a word appears,one of the most important uses of page rank is its meaning to advertising .,one of the most important uses of page rank,0.0
+383,define value of optimal solution recursively .,value of optimal solution,characterise structure of an optimal solution .,structure of an optimal solution,4.0
+384,it was first used in the smart information retrieval system .,the smart information retrieval system,it is used in information retrieval and was first used in the smart information retrieval system .,information retrieval,4.0
+385,"in vector space model , the documents from which the information is to be retrieved are represented as vectors .",the documents from which the information is to be retrieved,the vector space model has several disadvantages .,the vector space model,1.0
+386,a term which occurs in the document has a value in the vector of non - zero .,a term which occurs in the document,the order in which the terms appear in the document is lost in the vector space representation .,the order in which the terms appear in the document,1.0
+387,vector space representation results in the loss of the order which the terms are in the document .,vector space representation,in the vector space model a document is represented as a vector .,the vector space model,1.0
+388,the easiest way to look at inheritance is as an “ … is a kind of ” relationship .,the easiest way to look at inheritance,an example of this gain in efficiency is a path - finding problem .,an example of this gain in efficiency,0.0
+389,"if a term exists in a document , its value in the vector is not equal to zero .",its value in the vector,"a document is represented as a vector , with each dimension corresponding to a separate term .",each dimension,2.0
+390,vector space representation results in the loss of the order which the terms are in the document .,vector space representation,since the pagerank is the most important algorithms which is used in the google engine .,the pagerank,0.0
+391,"a document is represented as a vector , with each dimension corresponding to a separate term .",each dimension,the basic idea is to represent each document as a vector of certain weighted word frequencies .,the basic idea,2.0
+392,"thus , the "" program "" is the optimal plan for action that is produced .","the "" program ""","after this , it is using this to pick the best overall path .",the best overall path,0.0
+393,the value of a vector is non - zero if a term occurs in the document .,the value of a vector,a term which occurs in the document has a value in the vector of non - zero .,a term which occurs in the document,4.0
+394,a page that is linked to by many pages with high pagerank receives a high rank itself .,a page that is linked to by many pages with high pagerank,a link to a page is seen as a vote of support .,a link to a page,1.0
+395,"several different ways of computing these values , also known as ( term ) weights , have been developed .","several different ways of computing these values , also known as ( term ) weights ,","other ways of computing these values , or weights , have been developed .","other ways of computing these values , or weights ,",4.0
+396,"a document is represented as a vector , with each dimension corresponding to a separate term .",each dimension,the value of a vector is non - zero if a term occurs in the document .,the value of a vector,2.0
+397,p ( b ) ( a . k . a . the normalizing constant ) is the prior or marginal probability of b .,p ( b ) ( a . k . a . the normalizing constant ),"p ( b ) is the prior or marginal probability of b , and acts as a normalizing constant .",p ( b ),5.0
+398,"the pagerank is computed iteratively , and it is found that the pagerank values converge fairly rapidly .",the pagerank,the pagerank depends on the pagerank rating and number of all pages that have links to it .,the pagerank,1.0
+399,"in general , we can solve a problem with optimal substructure using a three - step process : 1 .",a problem with optimal substructure,"in a word , we can solve a problem with optimal substructure using a three - step process .",a problem with optimal substructure,5.0
+400,in the vector space model a document is represented as a vector .,the vector space model,a possible use for a vector space model is for retrieval and filtering of information .,a possible use for a vector space model,1.0
+401,one of its uses is calculating posterior probabilities given observations .,one of its uses,it is usually used to calculate posterior probabilities given observations .,posterior probabilities,5.0
+402,"if a term appears in the document , the terms value in the vector is non - zero .",the terms value in the vector,each item in the vector represents a different keyword .,each item in the vector,1.0
+403,"finally , the order in which the terms appear in the document is lost in the vector space representation .",the order in which the terms appear in the document,a term which occurs in the document has a value in the vector of non - zero .,a term which occurs in the document,1.0
+404,"several different ways of computing these values , also known as ( term ) weights , have been developed .","several different ways of computing these values , also known as ( term ) weights ,","many different ways of calculating these values , also known as ( term ) weights , have been developed .","many different ways of calculating these values , also known as ( term ) weights ,",4.0
+405,"to derive the theorem , we begin with the definition of conditional probability .",the definition of conditional probability,"in probability theory , the prior and conditional probabilities of two random events are related by bayes ' theorem .",the prior and conditional probabilities of two random events,2.0
+406,the way that a ' term ' is defined depends on the application .,the way that a ' term ' is defined,the definition of term is dependent on the application .,the definition of term,5.0
+407,its first application was in the smart information retrieval system .,its first application,it was used in the first time in the smart information retrieval system .,the first time,5.0
+408,"it doesn ' t take into account any information about b , so it is "" prior "" .",any information about b,however an object can not be cast to a class which is no relative of it .,an object,0.0
+409,"following this , each web page is given a ranking of 0 - 10 according to its relevance to a search .",each web page,a variation of the pagerank method bases the importance of a webpage on how many visits the page gets .,a variation of the pagerank method,1.0
+410,"thus , the program is the best plan for action that is produced .",the program,"thus , the "" program "" is the optimal plan of action that is being produced .","the "" program """,5.0
+411,this means that inheritance is used when types have common factors and these would be put into the superclass .,the superclass,they do not have to be written in a computer language .,a computer language,0.0
+412,"these subproblems are not , however , independent .",these subproblems,"it is similar to divide and conquer , however is differentiated as its subproblems are not independent .",and conquer,4.0
+413,the key to dynamic programming is to find the structure of optimal solutions .,the key to dynamic programming,"in general , dynamic programming is used on optimisation problems , where the most efficient solution is needed .",dynamic programming,4.0
+414,"when a document is represented as a vector , each dimension corresponds to a separate term .",each dimension,each dimensions corresponds to a separate terms .,each dimensions,3.0
+415,bayes theorem is a mathematical formula used to calculate conditional probabilities .,bayes theorem,bayes ' theorem relates the conditional and marginal probabilities of two random events .,bayes ' theorem,4.0
+416,lucky joe likes to predict the colour of the ball he selects and he is 80 % accurate .,lucky joe,joe records all of his results and about 0 . 5 % of the time he accidently records the wrong results .,all of his results and about 0 . 5 % of the time he accidently records the wrong results,1.0
+417,"thus , the program is the best plan for action that is produced .",the program,the other method is the top down approach which is a method that combines memorization and recursion .,the other method,0.0
+418,it is usually used to calculate posterior probabilities given observations .,posterior probabilities,it is usually be used to compute posterior probabilities given observations .,posterior probabilities,5.0
+419,the methodology takes much less time rather than naive methods .,the methodology,the method takes much less time than naive methods .,the method,5.0
+420,the methodology takes much less time rather than naive methods .,the methodology,this is a much quicker method than other more naive methods .,a much quicker method than other more naive methods,5.0
+421,the definition of term is dependent on the application .,the definition of term,the definition of term depends on the application .,the definition of term,5.0
+422,this means that inheritance is used when types have common factors and these would be put into the superclass .,the superclass,"it is similar to divide and conquer , however is differentiated as its subproblems are not independent .",and conquer,0.0
+423,characterise structure of an optimal solution .,structure of an optimal solution,use these optimal solutions to construct an optimal solution for the original problem .,these optimal solutions,2.0
+424,the theorem is often used when we have observations and wish to compute posterior probabilities .,the theorem,it is usually used to calculate posterior probabilities given observations .,posterior probabilities,3.0
+425,"occasionally it is advantageous to differentiate between these uses , as it is not necessarily noticeable from context .",these uses,"it also provides a way to generalize du to the "" is a "" relationship between classes .","a way to generalize du to the "" is a "" relationship between classes",0.0
+426,construct an optimal solution from computed values .,an optimal solution,define value of optimal solution recursively .,value of optimal solution,4.0
+427,"occasionally it is advantageous to differentiate between these uses , as it is not necessarily noticeable from context .",these uses,"it is similar to divide and conquer , however is differentiated as its subproblems are not independent .",and conquer,0.0
+428,"when a document is represented as a vector , each dimension corresponds to a separate term .",each dimension,the basic idea is to represent each document as a vector of certain weighted word frequencies .,the basic idea,2.0
+429,"when a document is represented as a vector , each dimension corresponds to a separate term .",each dimension,each dimension corresponds to a separate term .,each dimension,3.0
+430,mathematicians use the word to describe a set of rules which anyone can follow to solve a problem .,the word,however an object can not be cast to a class which is no relative of it .,an object,0.0
+431,whilst bayesians describe probabilities in terms of beliefs and degrees of uncertainty .,terms of beliefs and degrees of uncertainty,"at the same time , bayesians describe probabilities in terms of beliefs and degrees of uncertainty .",the same time,5.0
+432,"it is used in information filtering , information retrieval , indexing and relevancy rankings .","information filtering , information retrieval , indexing and relevancy rankings","it is used in information filtering , indexing , relevancy rankings and information retrieval .","information filtering , indexing , relevancy rankings and information retrieval",5.0
+433,"in probability theory , bayes ' theorem relates the conditional and marginal probabilities of two random events .",bayes ' theorem,bayes ' theorem is useful in evaluating the result of drug tests .,bayes ' theorem,1.0
+434,"outbound , links from your page to others .",your page,"dangling , links to a page which has no links to others .",links to a page which has no links to others,1.0
+435,vector space representation results in the loss of the order which the terms are in the document .,vector space representation,"in vector space model , the documents from which the information is to be retrieved are represented as vectors .",the documents from which the information is to be retrieved,1.0
+436,in computer science ; dynamic programming is a way of solving problems consist of overlapping subproblems and optimal substructure .,computer science,"however , the key in dynamic programming is to determine the structure of optimal solutions .",the key in dynamic programming,3.0
+437,"if a term appears in the document , the terms value in the vector is non - zero .",the terms value in the vector,vector space representation results in the loss of the order which the terms are in the document .,vector space representation,1.0
+438,"in vector space model , the documents from which the information is to be retrieved are represented as vectors .",the documents from which the information is to be retrieved,"finally , the order in which the terms appear in the document is lost in the vector space representation .",the order in which the terms appear in the document,1.0
+439,"for instance , a finalized schedule of events at an exhibition is sometimes called a program .",a finalized schedule of events at an exhibition,the typical example could be of a finalized schedule of events at an exhibition .,the typical example,3.0
+440,"several different ways of computing these values , also known as ( term ) weights , have been developed .","several different ways of computing these values , also known as ( term ) weights ,","several different ways of computing these values , additionally known as ( term ) weights , have been developed .","several different ways of computing these values , additionally known as ( term ) weights ,",5.0
+441,"if a term exists in a document , its value in the vector is not equal to zero .",its value in the vector,if a term appears in the document then its value in the vector is non - zero .,its value in the vector,5.0
+442,a hyperlink to a page counts as a vote of support .,a hyperlink to a page,a link to a page is seen as a vote of support .,a link to a page,5.0
+443,this means that inheritance is used when types have common factors and these would be put into the superclass .,the superclass,the main problem is divided into sub problems which are solved and stored for future use .,the main problem,0.0
+444,"most of these languages provide an “ extend ” keyword , which is used to subclass another .",most of these languages,"for example , a program could exist to model different forms of transport .",different forms of transport,0.0
+445,"for instance , a finalized schedule of events at an exhibition is sometimes called a program .",a finalized schedule of events at an exhibition,"for example , a schedule of events at an exhibition is sometimes called a programme .",a schedule of events at an exhibition,5.0
+446,the value of a vector is non - zero if a term occurs in the document .,the value of a vector,each document is a vector where each word is a dimension .,each document,1.0
+447,the theorem is often used when we have observations and wish to compute posterior probabilities .,the theorem,it is often used to calculate posterior probabilities given observations .,posterior probabilities,4.0
+448,other possible uses for vector space models are indexing and also to rank the relevancy of differing documents .,other possible uses for vector space models,in this classic model the term specific weights in the document vectors are products of local and global parameters .,the term specific weights in the document vectors,1.0
+449,the correct answer can be computed using bayes ' theorem .,the correct answer,bayes ' theorem is useful in evaluating the result of drug tests .,bayes ' theorem,1.0
+450,since the pagerank is the most important algorithms which is used in the google engine .,the pagerank,the pagerank is a recursive algorithm used by google to determine which webpages are more important than others .,the pagerank,3.0
+451,"nevertheless , the patent is assigned to the university of stanford and not to google .",the patent,"however , the patent is assigned to stanford university and not to google .",the patent,5.0
+452,this means that inheritance is used when types have common factors and these would be put into the superclass .,the superclass,it is therefore used to create relationships between one object and another .,relationships between one object and another,0.0
+453,in the vector space model a document is represented as a vector .,the vector space model,"a document is represented as a vector , and each dimension corresponds to a separate term .",each dimension,3.0
+454,"p ( b ) is the prior or marginal probability of b , and acts to normalise the probability .",p ( b ),p ( b ) ( a . k . a . the normalizing constant ) is the prior or marginal probability of b .,p ( b ) ( a . k . a . the normalizing constant ),4.0
+455,this can be useful when the number of times a word appears is not considered important .,the number of times a word appears,the easiest way to look at inheritance is as an “ … is a kind of ” relationship .,the easiest way to look at inheritance,0.0
+456,"in probability theory , bayes ' theorem relates the conditional and marginal probabilities of two random events .",bayes ' theorem,bayes ' theorem relates the conditional and marginal probabilities of two random events .,bayes ' theorem,4.0
+457,the definition of term depends on the application .,the definition of term,the definition of a term depends on the application .,the definition of a term,5.0
+458,break up the problem different smaller subproblems .,the problem different smaller subproblems,a problem with overlapping subproblems means that the same subproblems may be used to solve many different larger problems .,a problem with overlapping subproblems,2.0
+459,inheritance is a method of forming new classes using predefined classes .,a method of forming new classes using predefined classes,inheritance in object oriented programming is a way to form new classes using classes that have already been defined .,inheritance in object oriented programming,5.0
+460,so the same rule applies with keywords and indeed longer phrases .,the same rule,"single words , keywords and occasionally longer phrases are used for terms .","single words , keywords and occasionally longer phrases",3.0
+461,there is also conditional probability which is usually interested in the way variables relate to each other .,conditional probability which is usually interested in the way variables relate to each other,the pagerank is a recursive algorithm used by google to determine which webpages are more important than others .,the pagerank,0.0
+462,"thus , the program is the best plan for action that is produced .",the program,"thus , the "" program "" is the optimal plan for action that is produced .","the "" program """,5.0
+463,inheritance is a basic concept in object oriented programming .,a basic concept,inheritance in object oriented programming is a way to form new classes using classes that have already been defined .,inheritance in object oriented programming,3.0
+464,"programming , in this sense , means finding an acceptable plan of action .",this sense,"programming , in this sense , means finding an acceptable plan , an algorithm .",this sense,4.0
+465,the vector space model has some limitations : 1 .,the vector space model,the vector space model has several disadvantages .,the vector space model,4.0
+466,using the vector space model for information retrieval models all pages and queries as high - dimensional sparse vectors .,the vector space model,a possible use for a vector space model is for retrieval and filtering of information .,a possible use for a vector space model,4.0
+467,one of the most famous schemes is tf - idf weighting .,one of the most famous schemes,one of the best known schemes is tf - idf ( term frequency - inverse document frequency ) weighting .,one of the best known schemes,4.0
+468,"a document is represented as a vector , with each dimension corresponding to a separate term .",each dimension,a document has representation as a vector .,representation as a vector,3.0
+469,vector space representation results in the loss of the order which the terms are in the document .,vector space representation,the order in which terms appear in the document is lost in a vector space representation .,the order in which terms appear in the document,4.0
+470,p ( a ) is the probability of the student being a girl ( which is 2 / 5 ) .,p ( a ),what is the probability this student is a girl ?,the probability this student is a girl,2.0
+471,the basic idea is to represent each document as a vector of certain weighted word frequencies .,the basic idea,"if a term appears in the document , the terms value in the vector is non - zero .",the terms value in the vector,1.0
+472,"therefore , the "" program "" is the optimal plan for action that is produced .","the "" program ""","the "" program "" is the optimal plan for action that is produced .","the "" program """,5.0
+473,this is highly used in dynamic programming .,dynamic programming,there are four steps in dynamic programming : 1 .,four steps in dynamic programming : 1,2.0
+474,"other ways of computing these values , or weights , have been developed .","other ways of computing these values , or weights ,","many different methods of calculating these values , sometimes known as ( term ) weights , have been developed .","many different methods of calculating these values , sometimes known as ( term ) weights ,",4.0
+475,it is usually be used to compute posterior probabilities given observations .,posterior probabilities,it is used to compute posterior probabilities given observations .,posterior probabilities,4.0
+476,"in probability theory , bayes ' theorem relates the conditional and marginal probabilities of two random events .",bayes ' theorem,bayes theorem is a mathematical formula used to calculate conditional probabilities .,bayes theorem,3.0
+477,"a website ’ s page rank , is how ‘ important ’ it is on the web .","a website ’ s page rank ,",a variation of the pagerank method bases the importance of a webpage on how many visits the page gets .,a variation of the pagerank method,3.0
+478,in computer science ; dynamic programming is a way of solving problems consist of overlapping subproblems and optimal substructure .,computer science,"dynamic programming is a very powerful mathematical technique , often utilised in programming , for solving optimization problems .",dynamic programming,4.0
+479,the most popular is tf - idf weighting .,the most popular,one of the most famous schemes is tf - idf weighting .,one of the most famous schemes,4.0
+480,"this method is used in the google toolbar , which reports back actual site visits to google .",this method,"in order to prevent spamming , google releases little information on the way in which a pagerank is calculated .",little information on the way in which a pagerank is calculated,1.0
+481,"to achieve this , the programmer has to note generalisations and similarities about various aspects of the program .",the programmer,mathematicians use the word to describe a set of rules which anyone can follow to solve a problem .,the word,0.0
+482,construct an optimal solution from computed values .,an optimal solution,the last point would be to construct an optimal solution from the computed values .,the last point,4.0
+483,"if the term doesn ’ t occur within the document , the value in the vector is zero .",the value in the vector,"if a term appears in the document , the terms value in the vector is non - zero .",the terms value in the vector,3.0
+484,this is a much quicker method than other more naive methods .,a much quicker method than other more naive methods,the method takes much less time than naive methods .,the method,4.0
+485,"p ( b ) is the prior or marginal probability of b , and acts to normalise the probability .",p ( b ),"p ( a ) , or the probability that the student is a girl regardless of any other information .",the probability that the student is a girl regardless of any other information,1.0
+486,inheritance in object oriented programming is a way to form new classes using classes that have already been defined .,inheritance in object oriented programming,inheritance in object oriented programming is where a new class is formed using classes which have allready been defined .,inheritance in object oriented programming,4.0
+487,they also inherit the attributes and methods of its superclass .,the attributes and methods of its superclass,the new classes are called derived classes and they inherit the behaviours and attributes of the base classes .,the new classes,3.0
+488,a term which occurs in the document has a value in the vector of non - zero .,a term which occurs in the document,"a document is represented as a vector , with each dimension corresponding to a separate term .",each dimension,2.0
+489,"if a term appears in the document , the terms value in the vector is non - zero .",the terms value in the vector,a term which occurs in the document has a value in the vector of non - zero .,a term which occurs in the document,5.0
+490,the order in which terms appear in the document is lost in a vector space representation .,the order in which terms appear in the document,"in vector space model , the documents from which the information is to be retrieved are represented as vectors .",the documents from which the information is to be retrieved,1.0
+491,the vector space model has some limitations : 1 .,the vector space model,limitation : there is some limitation of vector space model .,some limitation of vector space model,5.0
+492,"however , the vector space model has limitations .",the vector space model,the limitations of the vector space model are thus .,the limitations of the vector space model,4.0
+493,the method can be abused when people deliberately link to sites in order to raise a site ' s pagerank .,the method,mathematicians use the word to describe a set of rules which anyone can follow to solve a problem .,the word,0.0
+494,"when a document is represented as a vector , each dimension corresponds to a separate term .",each dimension,"to explain further vector space models , basically a document is characterized by a vector .",further vector space models,2.0
+495,the basic idea is to represent each document as a vector of certain weighted word frequencies .,the basic idea,a term which occurs in the document has a value in the vector of non - zero .,a term which occurs in the document,1.0
+496,"programming , in this sense , means finding an acceptable plan of action .",this sense,programming means finding a plan of action .,a plan of action,4.0
+497,google ’ s payoff is that it gets to track the behaviour of actual users .,google ’ s payoff,"after this , it is using this to pick the best overall path .",the best overall path,0.0
+498,this means that inheritance is used when types have common factors and these would be put into the superclass .,the superclass,there is also conditional probability which is usually interested in the way variables relate to each other .,conditional probability which is usually interested in the way variables relate to each other,0.0
+499,bayes ’ theorem was names after rev thomas bayes and is a method used in probability theory .,names after rev thomas bayes,as a formal theorem bayes theorem is valid in all common interpretations of probability .,a formal theorem bayes theorem,3.0

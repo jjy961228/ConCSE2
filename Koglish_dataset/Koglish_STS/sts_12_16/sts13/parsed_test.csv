@@ -1,0 +1,501 @@
+,sentence1,source1_np0,sentence2,source2_np0,label
+0,"this frame contians lus which are like those of the desirability frame except the evaluee incorporates the parameter as "" associated with a percieved place in a social heirarchy "" for all lus . lus are not restricted to positive or negative implications .",this frame,being or characteristic of or appropriate to everyday language ;,everyday language,0.8
+1,"a recipient starts off without the theme in their possession , and then comes to possess it . although the source from which the theme came is logically necessary , the recipient and its changing relationship to the theme is profiled .",the recipient and its changing relationship to the theme,win something through one ' s efforts ;,one ' s efforts,0.8
+2,this frame contains words that describe an item ' s static position on a scale with respect to some property variable .,this frame,"lacking in specific resources , qualities or substances ;","specific resources , qualities or substances",0.4
+3,a trigger elicits a response . the response may either be some kind of action meant to address the trigger event or an expressed judgment of the trigger event .,the response,meet by design ; be present at the arrival of ;,the arrival of,0.0
+4,"a text is an entity that contains linguistic , symbolic information on a topic , created by an author at the time _ of _ creation . it may be a physical entity that is made of a certain material etc . it may be constructed for an honoree .","an entity that contains linguistic , symbolic information on a topic , created by an author at the time _ of _ creation . it may be a physical entity that is made of a certain material etc . it may be constructed for an honoree",an account of the series of events making up a person ' s life,an account,1.6
+5,"this frame covers words that name locations as defined politically , or administratively .",this frame,territory over which rule or control is exercised ;,rule or control,1.2
+6,"the words in this frame describe a period of time , as opposed to a point in time .",the words in this frame,the period during which something is functional ( as between birth and death ) ;,the period,2.2
+7,"an agent has attempted to achieve a goal , and the actual outcome of the agent ' s action has been resolved , so that it either specifically matches the agent ' s intent ( e . g . success ) or does not match it ( e . g . failure ) .",an agent,having succeeded or being marked by a favorable outcome ;,a favorable outcome,2.0
+8,"a cognizer has a judgment of an evaluee , expressing how high or low their regard for the evaluee is .",a judgment of an evaluee,"come to believe on the basis of emotion , intuitions , or indefinite grounds ;","the basis of emotion , intuitions , or indefinite grounds",0.4
+9,"a controlling _ entity is in conscious control over a dependent _ entity , dependent _ situation , or dependent _ variable .",a controlling _ entity,discipline in personal and social activities ;,personal and social activities,0.2
+10,this is the primary frame evoked by the cardinal numbers .,the primary frame evoked by the cardinal numbers,a concept of quantity involving zero and units ;,a concept of quantity,1.6
+11,"this frame has to do with people ( the residents ) residing in locations , sometimes with a co - resident .",this frame,inhabit or live in ; be an inhabitant of ;,an inhabitant of,2.8
+12,"a speaker realizes a sign , usually a linguistic one , in some formal _ realization . the formal _ realization may be described as correct or incorrect in a judgment expression , or it may be partially indicated as a part _ of _ form . manner may be used as a more general indication of the formal _ realization","a sign , usually a linguistic one ,",( phonetics ) an individual sound unit of speech without concern as to whether or not it is a phoneme of some language,an individual sound unit of speech,1.2
+13,this frame describes a sufferer who experiences the loss of someone through death . the lus in this frame imply a strong emotional connection between the sufferer and the deceased .,this frame,suffer the loss of a person through death or removal ;,the loss of a person through death or removal,2.0
+14,"this frame contains ( transparent ) nouns that are units of measurement for time . the frame elements are count , unit and process . in this frame , we will not annotate deictic , calendric uses of nouns like week , month , etc . as in "" next week , this month , in the 21 st century "" .",this frame,a period of time considered as a resource under your control and sufficient to accomplish something ;,a period of time,0.8
+15,"while in motion , an impactor makes sudden , forcible contact with the impactee , or two impactors both move , mutually making forcible contact .",an impactor,hit against ; come into sudden contact with ;,sudden contact,4.0
+16,a customer requests an entity from a supplier . the customer can order the entity himself or via a medium .,the customer,"a request for something to be made , supplied , or served ;","something to be made , supplied , or served",2.4
+17,"in this frame a group of individuals intentionally come together to form a group . alternatively , a grammatically more prominent party _ 1 assembles with a party _ 2 , expressed as an oblique phrase . if this asymmetric construal is chosen , purpose only relates to party _ 1 .",a group of individuals,satisfy a condition or restriction ;,a condition or restriction,0.0
+18,this frame contains nouns denoting aggregates of individuals . the aggregates may be described by an aggregateproperty .,this frame,a group of people ( often temporary ) having a common purpose ;,a group of people ( often temporary ),2.6
+19,"there is a gradable amount of light in a particular location . in some cases the source of light may be indicated instead of the location . the negetive lus in this frame can be used metaphorically to describe time periods which can be characterized as bad or lacking in awareness , as shown in the following examples",a gradable amount of light,devoid of or deficient in light or brightness ; shadowed or black ;,light or brightness,1.8
+20,a customer requests an entity from a supplier . the customer can order the entity himself or via a medium .,the customer,a commercial document used to request someone to supply something in return for payment and providing specifications and quantities ;,a commercial document,2.8
+21,a recordable sequence of events is associated with a given topic .,a recordable sequence of events,the continuum of events occurring in succession leading from the past to the present and even into the future ;,the continuum,3.8
+22,"an entity is in a specified state . when not explicitly specified , the state usually concerns the entity ' s health , repair of functioning . the state is also often assessed with an evaluation and it may be specified to apply only to a particular parameter of the entity .",an entity,the way something is with respect to its main attributes ;,the way,1.6
+23,this frame contains words that describe how potent a chemical is .,this frame,having a strong physiological or chemical effect ;,a strong physiological or chemical effect,2.2
+24,"this frame describes intentionally formed human social groups ( here termed organizations ) with some definite structure and members . they may be relatively informal , consisting only of a group of individuals who are aware of who is and who is not a fellow member , or they may be complex and long - lasting , such as the roman catholic church or the conservative party .",this frame,a committee having supervisory powers ;,supervisory powers,1.2
+25,this frame contains words that describe an item ' s static position on a scale with respect to some property variable .,this frame,greater than normal in degree or intensity or amount ;,degree or intensity or amount,0.0
+26,"a benefactor confers a beneficial _ situation to a beneficiary . unlike in commerce _ scenario , the recipient is not necessarily required to pay for the good or service that they receive . therefore , the element of benevolence is profiled . dual fe - layer annotation",a beneficial _ situation,financial assistance in time of need,financial assistance,1.4
+27,"an entity is considered worthy of mention for their ability or influence among some type of similar entities . the entity need not be well - known or famous , though if it is , it may be stated by its name only . their worth may be restricted to a time or place .",an entity,of major significance or importance ;,major significance or importance,1.6
+28,"this frame contains words that describe a set of individuals which possess some commonality , generally a common attribute .",this frame,belonging to or participated in by a community as a whole ; public ;,a community as a whole,3.2
+29,"an employee has a position doing work in a particular field , or doing work on a particular task , for which an employer gives compensation to the employee .",an employee,the occupation for which you are paid ;,the occupation,2.6
+30,a current _ instance of a certain type is under discussion . this instance is evaluated as being the same instance or a different instance from a previous _ instance encountered in a previous _ context .,a current _ instance of a certain type,unlike in nature or quality or form or degree ;,nature or quality or form or degree,1.0
+31,"this frame contains words that denote kinship relations . in annotating the directional uses of these words , we use the standard terms from anthropology , ego and alter . matilde is gilberto ' s cousin once removed",this frame,a social unit living together ;,a social unit,0.2
+32,the entity interacts with the theme with the effect of moving of the theme .,the entity,( physiology ) regulation or maintenance of a function or action or reflex etc ;,a function or action or reflex etc,0.6
+33,"a theme traverses a trajectory . this trajectory consists of a source , path , and goal . if the theme is sentient , the anticipated trajectory will usually be equivalent to the planned trajectory . if the the theme is non - sentient the anticipated trajectory will usually be the result of various forces acting upon the theme .",this trajectory,a line leading to a place or point ;,a place or point,1.8
+34,"this frame contains verbs and nouns that communicate the act of a speaker to address a message to some addressee using language . a number of the words can be used performatively , such as declare and insist .",this frame,"make a proposal , declare a plan for something ;",a plan for something,1.6
+35,an entity changes from a prior _ state to a post _ state in a sequence leading to improvement .,an entity,a process in which something passes by degrees to a different stage ( especially a more advanced or mature stage ) ;,a different stage ( especially a more advanced or mature stage ),3.0
+36,"an experiencer actualizes a certain pattern of behavior , a lifestyle , which persists for a significant period of time in the experiencer ' s life and is recognized as part of his character or normal routine . the lifestyle is not necessarily realized intentionally , and may just be the result of circumstance .",an experiencer,lead a certain kind of life ; live in a certain style ;,a certain kind of life,2.0
+37,a certain idiosyncrasy belongs to an entity distinguishing it from other entities .,a certain idiosyncrasy,unique or specific to a person or thing or category ;,a person or thing or category,2.6
+38,this frame describes a particular instance of an event .,this frame,an instance or single occasion for some event ;,an instance or single occasion,3.4
+39,"an entity has a temperature characterized by the target . the temperature is a value of the temperature attribute . note that in this frame , the entity does not experience the temperature , but is merely described as being in a certain externally verifiable state . is not in frame but rather in subjective _ temperature",an entity,having or producing a comfortable and agreeable degree of heat or imparting or maintaining heat ;,a comfortable and agreeable degree of heat,1.0
+40,this frame contains nouns denoting aggregates of individuals . the aggregates may be described by an aggregateproperty .,this frame,a collection of things sharing a common attribute ;,things sharing a common attribute,2.6
+41,an agent occupies a role in some institution . this roleis ( usually ) temporary and can be occupied by other entities at different periods of time . it is common for a duration of the role to be mentionned .,an agent,do duty or hold offices ; serve in a specific function ;,a specific function,1.4
+42,"this frame contains items which , when manipulated , alter the funtion of some device , internal or external .",this frame,a mechanism that controls the operation of a machine ;,the operation of a machine,1.6
+43,this frame describes a general situation in which an owner either increases or decreases their amount of a possession . the increase or decrease may either be physical or metaphorical .,this frame,"fail to keep or to maintain ; cease to have , either physically or in an abstract sense ;",an abstract sense,1.8
+44,an entity is integrated into a vehicle as a part of a ( possibly unexpressed ) whole which may refer to the whole vehicle or merely to a sub - part of the vehicle .,an entity,a transparent opening in a vehicle that allow vision out of the sides or back ; usually is capable of being opened,a transparent opening,1.4
+45,this frame contains words that describe specific aspects of a color . the degree to which the color being discussed deviates from the prototype may be marked . the description may also target a specific aspect of color .,this frame,( used of color ) having a dark hue ;,a dark hue,1.2
+46,a record that contains a permanent account of data . this record may be maintained by a recorder for a certain entity .,this record,a record in which commercial accounts are recorded ;,commercial accounts,2.8
+47,"this frame covers words for body _ part ( s ) ( bp ) belonging to a possessor ( poss ) , which may be characterized by a descriptor ( desc ) . the location of the bp may be identified in terms of its attachment or its orientational _ location . a subregion of a bp may also be indicated .",this frame,the front of the human head from the forehead to the chin and ear to ear ;,the front,1.0
+48,"an agent performs a response action in consequence of a trigger event . in many cases , a non - agentive responding _ entity causes the response after the trigger occurs .",an agent,"contend against an opponent in a sport , game , or battle ;","an opponent in a sport , game , or battle",0.0
+49,"a protagonist is in the dynamic , maintained state of being alive or has exited this state .","the dynamic , maintained state of being alive or has exited this state",the condition of living or the state of being alive ;,the condition,2.6
+50,"an agent acts so as to be the strongest force , or most important causal factor in some situation , to the exclusion of other competing actors .",an agent,"be larger in number , quantity , power , status or importance ;","number , quantity , power , status or importance",2.4
+51,"an entity aids in the successful completion of a purpose . its degree of utility may also be expressed . some of the lexical units in this frame ( e . g . great , good ) can only express permanent , generic states of the entity .",an entity,of good quality and condition ; solidly built ;,good quality and condition,1.2
+52,an experiencer senses different degrees of warmth that may or may not be related to the ambient temperature . the level of warmth is usually compared against the experiencer ' s subjective standard of comfort .,an experiencer,having or producing a comfortable and agreeable degree of heat or imparting or maintaining heat ;,a comfortable and agreeable degree of heat,1.2
+53,a prisoner is punished for committing a crime by being confined to a prison for a specified period of time .,a specified period of time,spend time in prison or in a labor camp ;,a labor camp,2.0
+54,"the temperature in a certain environment , determined by time and place , is specified .","the temperature in a certain environment , determined by time and place ,",having or producing a comfortable and agreeable degree of heat or imparting or maintaining heat ;,a comfortable and agreeable degree of heat,1.0
+55,an agent makes use of a means ( either an action or a ( system of ) entities standing in for the action ) in order to achieve a purpose . ( this frame may be broadened to include non - agentive intermediate actions . ),an agent,how a result is obtained or an end is achieved ;,an end,2.2
+56,"a text is an entity that contains linguistic , symbolic information on a topic , created by an author at the time _ of _ creation . it may be a physical entity that is made of a certain material etc . it may be constructed for an honoree .","an entity that contains linguistic , symbolic information on a topic , created by an author at the time _ of _ creation . it may be a physical entity that is made of a certain material etc . it may be constructed for an honoree",a record or narrative description of past events ;,a record or narrative description,0.8
+57,"an influencing _ variable , an influencing _ situation , or an influencing _ entity has an influence on a dependent _ entity , dependent _ variable , or a dependent _ situation . compare to subjective _ influence . words in objective _ influence are used to make claims about correlations in the world , where words in subjective _ influence are used to explain emotional impacts made on cognizers .","an influencing _ variable , an influencing _ situation , or an influencing _ entity",the effect of one thing ( or person ) on another ;,the effect,2.4
+58,an entity is able to exert a force of the magnitude specified by the target .,an entity,having little impact ;,little impact,0.2
+59,"this frame is concerned with transparent nouns denoting a piece of a substance . also present is piece _ prop which is a property of the piece , e . g . relating to its size .",this frame,a printed circuit that can be inserted into expansion slots in a computer to increase the computer ' s capabilities,a printed circuit,0.0
+60,"a speaker addresses an audience on a particular topic . the audience is generally passive , although for many types of address ( including academic talks and press conferences ) , a discussion or question - answer period is virtually always required .",an audience,narrate or give a detailed account of ;,a detailed account,1.6
+61,the word ( s ) in this frame detail a particular moment in time . these often occur with demonstratives such as this and that .,the word ( s ) in this frame,the specified day of the month ;,the specified day,0.8
+62,"this frame is concerned with nouns denoting a part or parts of a whole entity . the part is not defined relative to the whole ' s orientation , center , or edge and is not ordered . we also annotate properties of the part , e . g . relating to its size .",this frame,( music ) the section of a composition or movement ( especially in sonata form ) where the major musical themes are developed and elaborated,the section of a composition or movement ( especially in sonata form ) where the major musical themes are developed and elaborated,0.0
+63,an entity is designed for or exists to perform an activity or fulfill a role .,an entity,"serve a purpose , role , or function ;","a purpose , role , or function",2.2
+64,a place defined by an owner .,an owner,the land on which real estate is located ;,the land,2.0
+65,"a law regulates activities or states of affairs within a jurisdiction , dictating what required states should be the case and what forbidden states should not . often it also indicates negative consequences for individuals that violate it , and these negative consequences are generally enforced by some official authority . they may or may not be created by some official legislative body .",forbidden states,a body of rules followed by an assembly,a body of rules,2.2
+66,the authorities put a prisoner in prison as punishment for an offense .,the authorities,the period of time a prisoner is imprisoned ;,the period,1.6
+67,"ambient conditions of temperature , precipitation , windiness , and sunniness pertain at a certain place and time . further specification of the conditions that pertain may also be indicated .","ambient conditions of temperature , precipitation , windiness , and sunniness",free of clouds or rain ;,clouds or rain,1.0
+68,"an individual or group ( practitioner ) or a part of their work life ( work ) is defined professionally by the activity that they typically engage in . alternatively , the activity may be indicated by a salient _ entity conventionally associated with it .",an individual or group ( practitioner ) or a part of their work life ( work ),the discipline that records and interprets past events involving human beings ;,the discipline,1.2
+69,a particular piece of information is evaluated for its accuracy . the degree of correctness may also be expressed . the source of information may also metonymically stand in for the information .,a particular piece of information,consistent with fact or reality ; not false ;,fact or reality,1.6
+70,"this frame is for objects , physical or otherwise , which are used to grant access to some location or function .",this frame,a sequence of numbers or letters that opens a combination lock ;,numbers or letters,0.8
+71,"this frame contains words that denote kinship relations . in annotating the directional uses of these words , we use the standard terms from anthropology , ego and alter . matilde is gilberto ' s cousin once removed",this frame,family based on male descent ;,male descent,0.8
+72,lus in this frame denote a period of time in which an enabled _ action becomes possible . the duration of this time period can be both exact and inexact . an agent who performs the enabled _ action may be mentioned as well .,this frame,the time period that is considered best for starting or finishing something ;,the time period,2.4
+73,this frame is concerned with words that describe a person based on a salient part of their body .,this frame,( used of hair or skin ) pale or light - colored ; ;,hair or skin ) pale or light - colored,0.4
+74,"in this frame , there is a part of a whole in which the part is defined with respect to the canonical or inherent orientation of the whole . in cases where the target is an adjective , it has a special relationship with the noun that it modifies such that a phrase which is a syntactic argument of the noun is semantically available to fill the argument structure of the adjective , as in",this frame,the striking or working surface of an implement,the striking or working surface,0.0
+75,an event takes place at a place and time .,an event,a recent event that has some relevance for the present situation ;,a recent event,1.0
+76,"there is a certain physical distance within which some other entity can participate in an event ( typically perception or manipulation ) with the participant . alternatively , the event may be indicated metonymically by a instrument . [ note the connection with * distance , sufficiency , and capability . words in this frame can generally be paraphrased "" close enough to be able to "" . ]",a certain physical distance,a range of mental vision ;,mental vision,0.0
+77,in this frame a part is part of a larger whole comprised of parts that are ordered . the parts can be ordered temporally ( first to last and vice versa ) or vertically ( down to up and vice versa ) . the part can be modified by the part _ prop or the number of the part can be given by ordinality .,this frame,a major division of a long written composition ;,a major division,0.8
+78,a competitor claims a prize as a result of the outcome of their participation in a competition .,a result of the outcome of their participation in a competition,be the winner in a contest or competition ; be victorious ;,the winner,2.2
+79,an entity is able to exert a force of the magnitude specified by the target .,an entity,having strength or power greater than average or expected ;,strength or power greater than average or expected,1.4
+80,"an artifact is deliberately made or modified by an intelligent entity to be put to a certain kind of use . various properties of the artifact may be specified , such as its creator , time _ of _ creation , name , type , and the material of which it is composed . the artifact may or may not be a physical entity .",an artifact,a stout length of sawn timber ; made in a wide variety of sizes and used for many purposes,a stout length of sawn timber,0.2
+81,a helper benefits a benefited _ party by enabling the culmination of a goal that the benefited _ party has . a focal _ entity that is involved in reaching the goal may stand in for it .,a benefited _ party,give help or assistance ; be of service ;,help or assistance,1.5
+82,"a speaker realizes a sign , usually a linguistic one , in some formal _ realization . the formal _ realization may be described as correct or incorrect in a judgment expression , or it may be partially indicated as a part _ of _ form . manner may be used as a more general indication of the formal _ realization","a sign , usually a linguistic one ,","speak , pronounce , or utter in a certain way ;",a certain way,0.6
+83,"this frame covers words that name locations as defined politically , or administratively .",this frame,the territory occupied by a nation ;,the territory,3.4
+84,"the support , a phenomenon or fact , lends support to a claim or proposed course of action , the proposition , where the domain _ of _ relevance may also be expressed . some of the words in this frame ( e . g . argue ) are communication words used in a non - communicative , epistemic sense .","the support , a phenomenon or fact ,","establish the validity of something , as by an example , explanation or experiment ;","the validity of something , as by an example , explanation or experiment",1.6
+85,the authorities put a prisoner in prison as punishment for an offense .,the authorities,a prison term lasting as long as the prisoner lives ;,a prison term,1.0
+86,an agent manipulates an instrument in order to achieve a purpose .,an agent,put into service ; make work or employ for a particular purpose or for its inherent or natural purpose ;,work or employ for a particular purpose or for its inherent or natural purpose,1.4
+87,this frame concerns a cognizer ' s certainty about the correctness of beliefs or expectations . it only includes uses where a cognizer is expressed .,this frame,be aware of the truth of something ; have a belief or faith in something ; regard as true beyond any doubt ;,the truth of something,1.8
+88,"the words in this frame describe situations in which an agent or a cause injures a victim . the body _ part of the victim which is most directly affected may also be mentioned in the place of the victim . in such cases , the victim is often indicated as a genitive modifier of the body _ part , in which case the victim fe is indicated on a second fe layer .",the words in this frame,"deliver a sharp blow , as with the hand , fist , or weapon ;",a sharp blow,0.8
+89,"a useful _ location is accessible to some ( possibly generic ) theme despite a potential barrier , or is not accessible because of the barrier .",a useful _ location,having skin rich in melanin pigments ;,skin rich in melanin pigments,0.0
+90,"a speaker interprets a written text and speaks the contents , usually to an addressee . the contents may be the text verbatim or a representation of the text .",the contents,"look at , interpret , and say out loud something that is written or printed ;",something that is written or printed,3.4
+91,"this frame describes intentionally formed human social groups ( here termed organizations ) with some definite structure and members . they may be relatively informal , consisting only of a group of individuals who are aware of who is and who is not a fellow member , or they may be complex and long - lasting , such as the roman catholic church or the conservative party .",this frame,a formal association of people with similar interests ;,a formal association,2.25
+92,in this frame an evaluee is described by a ( usually implicit ) judge with respect to the morality or rightness of his or her behavior .,an evaluee,stemming from evil characteristics or forces ; wicked or dishonorable ; - thomas hardy,evil characteristics or forces,0.6
+93,"an author creates a text , either written , such as a letter , or spoken , such as a speech , that contains meaningful linguistic tokens , and may have a particular addressee in mind . the text may include information about its topic , although the latter is not an fe in this frame .",an author,recite or repeat a fixed text ;,a fixed text,1.33333333333333
+94,this frame describes a situation in which an owner loses his or her possession . the owner may have failed to keep ownership of their possession ( i . e . robbery or gambling ) or may have unintentionally misplaced their possession .,this frame,"fail to keep or to maintain ; cease to have , either physically or in an abstract sense ;",an abstract sense,2.2
+95,"these adjectives describe the degree of strictness or tolerance of an agent , usually with regard to another person ( the controllee ) and often with regard to a particular issue . the strictness / lenience with respect to the issue may be manifested in ( expressed by ) an agent or by some medium ( e . g . , laws ) , or by some behavior of the agent , i . e . , the controlling _ act .",these adjectives,unsparing and uncompromising in discipline or judgment ;,discipline or judgment,1.6
+96,some stimulus causes a cognizer to think of a prior phenomenon due to its perceived similarity .,some stimulus,suggest the necessity of an intervention ; in medicine ;,the necessity of an intervention ; in medicine,0.0
+97,"an artifact is deliberately made or modified by an intelligent entity to be put to a certain kind of use . various properties of the artifact may be specified , such as its creator , time _ of _ creation , name , type , and the material of which it is composed . the artifact may or may not be a physical entity .",an artifact,a flat portable surface ( usually rectangular ) designed for board games ;,a flat portable surface,0.0
+98,"authorities charge a suspect , who is under suspicion of having committed a crime ( the charges ) , and take him / her into custody . the police arrested harry on charges of manslaughter .","a suspect , who is under suspicion of having committed a crime ( the charges ) , and take him / her into custody . the police arrested harry on charges of manslaughter",record a charge in a police register ;,a police register,0.8
+99,the reader attends to a text to process its information . sometimes a particular kind of phenomenon is sought in the text .,the reader,interpret something that is written or printed ;,something that is written or printed,1.8
+100,this frame contains nouns denoting a rank or level within an established hierarchy .,this frame,( usually plural ) the status or rank or office of a christian clergyman in an ecclesiastical hierarchy ;,the status or rank or office of a christian clergyman in an ecclesiastical hierarchy,1.6
+101,"a text is an entity that contains linguistic , symbolic information on a topic , created by an author at the time _ of _ creation . it may be a physical entity that is made of a certain material etc . it may be constructed for an honoree .","an entity that contains linguistic , symbolic information on a topic , created by an author at the time _ of _ creation . it may be a physical entity that is made of a certain material etc . it may be constructed for an honoree",a written work or composition that has been published ( printed on pages bound together ) ;,a written work or composition,3.0
+102,an insulator is judged for its potential to increase the body temperature of an experiencer . the activity that the experiencer engages in to experience the heat and the circumstances in which the insulator is judged may also be provided .,an insulator,having or producing a comfortable and agreeable degree of heat or imparting or maintaining heat ;,a comfortable and agreeable degree of heat,1.4
+103,"an entity exists at a particular location , at a particular time , as observed by an implicit observer . a depictive and / or duration phrase is often found . this frame differs from existence in that the location is profiled as a ground where an observer is conceived of as confirming the entity ' s existence . in some cases , the location may be recoverable from phrases that primarily express peripheral information",an entity,the state of being absent ;,the state,0.4
+104,"the locale is a geographical location as defined by shape . this frame includes natural geographic features , including land / ice forms and bodies of water .",the locale,a narrow channel of the sea joining two larger bodies of water,a narrow channel of the sea,0.8
+105,an entity is judged to be sensually pleasing or intellectually interesting to a ( generally implicit ) judge .,an entity,very pleasing to the eye ;,the eye,3.2
+106,"the words in this frame describe a period of time , as opposed to a point in time .",the words in this frame,an indefinite period ( usually marked by specific attributes or activities ) ;,an indefinite period,2.0
+107,an entity stands out perceptually in comparison to other members of its type .,an entity,characterized by an absence or near absence of agitation or activity ;,an absence or near absence of agitation or activity,0.4
+108,"the answer to one open question , the outcome , is dictated ( partially or completely ) by the answer to another open question , the determinant , i . e . if the answer to the determinant is known , the answer to the outcome can be predicted . the degree of predictive power and the circumstances under which the dependency holds can also be expressed .","the answer to one open question , the outcome ,",a relation such that one thing is dependent on another ;,one thing,2.4
+109,this frame describes the attributes of a thermodynamic phase of matter .,this frame,( chemistry ) the three traditional states of matter are solids ( fixed shape and volume ) and liquids ( fixed volume and shaped by the container ) and gases ( filling the container ) ;,the three traditional states of matter,1.2
+110,"these words describe the size of message that a speaker is judged by a ( usually unexpressed ) judge to give , either in a specific occasion or topic or in general . as in other communication frames , medium may also be expressed .",these words,free of noise or uproar ; or making little if any sound ;,little if any sound,1.0
+111,"an entity is presented as having been seen or experienced by a ( typically generic and backgrounded ) cognizer on a certain number of occasions , causing the entity to have a certain degree of recognizability for the cognizer .",an entity,be familiar or acquainted with a person or an object ;,a person or an object,2.6
+112,"words in this frame describe the status of an action with respect to a code of laws or rules . an object may also be in violation or compliance of the code by virtue of its existence , location or possession .",words in this frame,( of a baseball ) hit between the foul lines ;,the foul lines,0.2
+113,"these words refer to parts merging to form a whole . ( the parts may also be encoded as part _ 1 and part _ 2 . ) there is a symmetrical relationship between the components that undergo the process , and afterwards the parts are consumed and are no longer distinct entities that are easily discernable or separable in the whole .",these words,a collection of things that have been combined ; an assemblage of separate parts or qualities,things that have been combined ; an assemblage of separate parts or qualities,3.0
+114,"a man - made artifact , digital or physical , which is used to display information presented via the object .",information presented via the object,a vertical surface on which information can be displayed to public view,a vertical surface,2.0
+115,"words in this frame have to do with a cognizer believing that some phenomenon will take place in the future . some words in the frame ( e . g . foresee . v ) indicate that the phenomenon is asserted also to be true , while others do not .",words in this frame,look forward to the probable occurrence of ;,the probable occurrence of,2.2
+116,a helper benefits a benefited _ party by enabling the culmination of a goal that the benefited _ party has . a focal _ entity that is involved in reaching the goal may stand in for it .,a benefited _ party,help to some food ; help with food or drink ;,some food,2.0
+117,the words in this frame refer to facial expressions and the possessors of those expressions .,the words in this frame,the feelings expressed on a person ' s face ;,the feelings,3.4
+118,geography as defined by its use .,its use,a district that has been developed to serve some purpose ;,some purpose,2.4
+119,this frame concerns a specific subset of instances of a type which are evaluated in terms of their similarity to a conceptual prototype of the type . the judgment of exemplariness may be made along a certain domain .,this frame,devoted ( sometimes fanatically ) to a cause or concept or truth ;,a cause or concept or truth,0.0
+120,"this frame covers words that name locations as defined politically , or administratively .",this frame,the territory occupied by one of the constituent administrative districts of a nation ;,the territory,3.2
+121,a speaker characterizes the intensity of an attribute of an entity by a degree .,the intensity of an attribute of an entity,intensely or extremely bad or unpleasant in degree or quality ;,degree or quality,1.8
+122,this frame has to do with scientific taxonomy . the lexical units in this frame include the seven major classifications in which organisms are grouped based on common biological characteristics . these classifications are labeled rank in this frame . the members or subtype of the rank is often expressed with the use of the target - denoting noun .,this frame,( biology ) taxonomic group containing one or more families,one or more families,2.8
+123,this frame contains words referring to items of food .,this frame,a particular day specified as the time something happens ;,a particular day,0.0
+124,"a person or institution is being described in terms of their wealthiness , in other words the amount of money in their possession .",a person or institution,having little money or few possessions ;,little money or few possessions,0.8
+125,an experimenter conducts an experiment based on a hypothesis . this experiment contains a control _ group or controlled _ individual which is compared with a treatment _ group or treated _ individual in order to determine the result .,an experimenter,a standard against which other conditions can be compared in a scientific experiment ;,other conditions,2.6
+126,"this lus in this frame refer to biological entities labeled by the fe organism . an organism is described as something that can be alive , or have naturally occuring biological processes and functions , however the concept of life is often used metaphorically for non - organic entities which resemble or act as if they have organic life .",this lus,living things collectively ;,living things,1.6
+127,this frame contains nouns denoting aggregates of individuals . the aggregates may be described by an aggregateproperty .,this frame,a number of sheets ( ticket or stamps etc . ) bound together on one edge ;,sheets ( ticket or stamps etc . ) bound together on one edge,0.2
+128,this frame has to do with the repetition ( and especially the frequency of repetition ) of an event . many of the adjectives and adverbs in this frame are based on nouns in the calendric _ unit frame .,this frame,having no special distinction or quality ; widely known or commonly encountered ; average or ordinary or usual ;,no special distinction or quality ; widely known or commonly encountered ; average or ordinary or usual,0.0
+129,the size of an entity is assessed in terms of the degree by which it deviates from the norm . the size refers to the amount of three - dimensional space that is occupied by the entity .,the size of an entity,relatively large in size or number or extent ; larger than others of its kind ;,size or number or extent,1.8
+130,an agent or cause makes a new _ member part of group . the group may be represented by an individual existing _ member if it implies the existence of a set of members .,an agent or cause,"make an addition ( to ) ; join or combine or unite with others ; increase the quality , quantity , size or scope of ;",an addition,1.6
+131,lus in this frame denote that the instance of a type is contextually notable . this frame typically requires dual fe layer annotation ; see below .,this frame,separate and distinct from others of the same group or category ;,others of the same group or category,0.4
+132,this frame concerns entities conventionally being referred to by particular names .,this frame,a language unit by which a person or thing is known ;,a language unit,2.0
+133,"the lexical units in this frame are descriptions of a cognizer ' s attitude about or outlook on a state _ of _ affairs . the state _ of _ affairs can be expressed without a cognizer in many cases , as shown in the following",the lexical units in this frame,showing a brooding ill humor ;,a brooding ill humor,0.0
+134,a salient subevent has a pattern of recurrence within a larger process .,a salient subevent,rhythm as given by division into parts of equal duration,parts of equal duration,0.0
+135,a cognizer introduces a new _ idea into society .,a new _ idea,"make a discovery , make a new finding ;",a new finding,2.6
+136,"a person has a particular mental state and the ability to engage in an activity with enthusiasm , energy , and positivity .","a particular mental state and the ability to engage in an activity with enthusiasm , energy , and positivity",animation and energy in action or expression ;,animation and energy,2.66666666666667
+137,this frame contains lus that express the form which a piece of artwork represents . the form may also represent the entire body of an artist ' s work . the form may be further characterized by the time of some artwork ' s creation or other descriptors .,this frame,( architecture ) one of original three styles of greek architecture distinguished by the type of column and entablature used or a style developed from the original three by the romans,one of original three styles of greek architecture distinguished by the type of column and entablature used or a style developed from the original three by the romans,0.6
+138,an entity meets the pre - conditions for participating in an event . a degree modifier may be included to indicate by how much the entity exceeds or falls short of the minimum requirements .,an entity,( usually followed by ` to ' ) having the necessary means or skill or know - how or authority to do something ;,the necessary means or skill or know - how or authority to do something,0.4
+139,"a person ( the cognizer ) comes to believe something ( the content ) , sometimes after a process of reasoning . this change in belief is usually initiated by a person or piece of evidence . occasionally words in this domain are accompanied by phrases expressing topic , i . e . that which the mental content is about .",a person ( the cognizer ),"establish after a calculation , investigation , experiment , survey , or study ;","a calculation , investigation , experiment , survey , or study",2.0
+140,"this frame is concerned with the likelihood of a hypothetical _ event occurring . the hypothetical _ event is its only core frame element . notice that in the case where a noun phrase is the subject of the support verb , that np is also tagged as hypothetical _ event .",this frame,involving substantial risk ;,substantial risk,0.0
+141,"the locale is a geographical location as defined by shape . this frame includes natural geographic features , including land / ice forms and bodies of water .",the locale,material in the top layer of the surface of the earth in which plants can grow ( especially with reference to its quality or use ) ;,the top layer of the surface of the earth in which plants can grow ( especially with reference to its quality or use ),0.8
+142,this frame has to do with scientific taxonomy . the lexical units in this frame include the seven major classifications in which organisms are grouped based on common biological characteristics . these classifications are labeled rank in this frame . the members or subtype of the rank is often expressed with the use of the target - denoting noun .,this frame,( biology ) a taxonomic group containing one or more genera ;,a taxonomic group containing one or more genera,2.8
+143,a perceiver determines the location of a sought _ entity within a ground .,the location of a sought _ entity within a ground,come upon after searching ; find the location of something that was missed or lost ;,the location of something that was missed or lost,2.4
+144,"in this frame a speaker asks an addressee for something , or to carry out some action .",this frame,"( often plural ) a command given by a superior ( e . g . , a military or law enforcement officer ) that must be obeyed ;","a command given by a superior ( e . g . , a military or law enforcement officer ) that must be obeyed",2.0
+145,"a competition comes to an end , with a competitor tying , winning , or losing against an opponent ( or opponents ) according to their score . ( in the symmetrical situation of a tie , the competitor and opponent may be jointly mentioned as competitors . ) according to the score that the competitor and opponent have achieved , they may receive a rank or a prize . the margin may also be mentioned .",the competitor and opponent,finish third or better in a horse or dog race ;,a horse or dog race,1.2
+146,drug lord captured by marines in mexico,drug lord,suspected drug lord known as ‘ el taliban ’ held in mexico,suspected drug lord,2.6
+147,sc dismisses govt ' s review plea in vodafone tax case,govt ' s review plea,sc dismisses govt ' s review petition on vodafone tax verdict,govt ' s review petition,4.4
+148,explosion hits oil pipeline in syria ' s homs,oil pipeline,explosion hits pipeline as assad attacks cities,assad attacks cities,2.6
+149,nato soldier killed in afghan attack,nato soldier,nato soldier killed in s . afghanistan,nato soldier,3.8
+150,castro celebrates 86 th birthday monday,86 th birthday,fidel castro celebrates 86 th birthday,fidel castro,4.2
+151,israel ex - spy warns against ' messianic ' iran war,israel ex - spy,israeli ex - spy boss : no trust in leadership over iran – video,israeli ex - spy boss,3.0
+152,eye opener : supreme court rules on arizona immigration law,eye opener,u . s . supreme court issues split ruling on arizona immigration law,u . s . supreme court issues,3.8
+153,syria says suicide bomber kills 10 in damascus,suicide bomber,damascus ' suicide bombing ' kills 10,damascus ' suicide bombing ',4.0
+154,"sachin tendulkar says i ' m not god , i ' m sachin",sachin tendulkar,sachin tendulkar scores cricket ' s first 100 th century,sachin tendulkar,0.8
+155,tropical storm heads for pass along honduras coast,tropical storm heads,tropical storm warnings for southeast coast,tropical storm warnings,1.4
+156,australian pm gillard set to win leadership challenge,australian pm gillard,australian pm defiant under pressure over leadership,australian pm,2.4
+157,obama backs philippines over south china sea,south china sea,obama says clear rules needed to calm south china sea,clear rules needed to calm south china sea,2.4
+158,"teenager in china kills 8 , wounds 5 in knife attack",teenager in china,teenager kills 8 in knife attack,knife attack,3.2
+159,syrian rebels move command from turkey to syria,syrian rebels,free syrian army moves headquarters from turkey to syria,free syrian army,3.8
+160,knesset speaker : obama reelection bad for israel,knesset speaker,7 states sue over obama administration ' s birth control rule,obama administration ' s birth control rule,0.4
+161,netanyahu set to call early vote,early vote,israel ' s netanyahu set to call early vote,israel ' s netanyahu,4.4
+162,greece bond exchange the largest debt restructuring in history,bond exchange the largest debt restructuring in history,greece secures biggest debt deal in history,biggest debt deal in history,2.8
+163,putin ' wins russian presidential election ',russian presidential election,polls open in russian presidential election,russian presidential election,1.0
+164,suicide bomber kills 12 in nigeria church,suicide bomber,suicide bomber kills 21 in nw pakistan,suicide bomber,0.75
+165,indian finance minister quits to run for president,indian finance minister,julian assange plans to run for australian senate,julian assange,0.2
+166,jerry sandusky found guilty in child sex abuse trial,jerry sandusky,sandusky found guilty in child sex abuse trial,child sex abuse trial,3.8
+167,white house in damage control over obama supreme court remarks,white house,fact check : obama ' s supreme court remarks,fact check,3.6
+168,annan warns talks of syria risks,talks of syria risks,"putin , annan meet on syria crisis","putin , annan",2.0
+169,"quartet calls on israelis , palestinians to end irritants","israelis , palestinians",occupation to confiscate 30 dunums of palestinian land in deir estia,30 dunums of palestinian land,1.4
+170,us says ready to help blind chinese activist,blind chinese activist,u . s . ready to help chinese activist : official,chinese activist,3.4
+171,china ' s cabinet promises to boost economy,china ' s cabinet,china ' s wen promises job creation,china ' s wen,3.2
+172,"annan , un chief call on security council to act on syria",un chief call on security council to act on syria,"russia , china veto un security council resolution on syria",china veto un security council resolution on syria,1.8
+173,green lantern to be reintroduced as gay by dc comics,green lantern,green lantern to be relaunched as gay superhero,green lantern,4.0
+174,military plane crashes in south france : authorities,military plane,"military plane crashes in southeastern turkey , 1 dead",military plane,1.0
+175,tropical storm isaac boosts jobless claims,tropical storm isaac,"tropical storm joyce forms , stays in open atlantic",tropical storm joyce forms,1.0
+176,gazans fire 2 rockets into israel ; no injuries,no injuries,2 gaza rockets hit israel ; no injuries,no injuries,4.8
+177,freddie starr arrested in savile abuse probe,freddie starr,third man arrested in savile sex abuse probe,third man,3.2
+178,romney announces paul ryan as running mate,paul ryan,romney names ryan as running mate,running mate,5.0
+179,"stocks rise early after greek deal , then flatten",greek deal,stocks edge higher after greek debt deal,greek debt deal,3.6
+180,suicide bombing rocks elite yemen military camp,suicide bombing,suicide bombers attack yemen military posts,suicide bombers,4.0
+181,nato : 2 international troops killed in afghanistan,2 international troops killed in afghanistan,three nato troops killed in one day in afghanistan,three nato troops,2.2
+182,moscow protesters demand vladimir putin ' s resignation,moscow protesters,moscow protest against vladimir putin smaller and quieter,moscow protest,1.8
+183,saudi gas truck blast kills at least 22,saudi gas truck blast,nigeria church blast kills at least 12,nigeria church blast,0.6
+184,french election turnout higher than expected,french election turnout,french presidential election : first round - live updates,french presidential election,1.0
+185,australia to establish the world ' s largest marine reserve,the world ' s largest marine reserve,australia creates world ' s largest marine reserves,world ' s,4.4
+186,"two u . s . soldiers shot , killed by afghan soldier",two u . s . soldiers,two british soldiers killed by afghan policeman,two british soldiers,1.6
+187,italy soldiers die in afghanistan,italy soldiers,two uk soldiers killed in afghanistan,two uk soldiers,1.4
+188,abbas to lead palestinian unity government,palestinian unity government,abbas proposed as pm in interim unity government,interim unity government,4.0
+189,egypt ’ s coptic church names new pope,egypt ’ s coptic church,egypt ' s coptic church prepares to choose pope,egypt ' s coptic church,2.8
+190,malawi officially confirms president ' s death,president ' s death,malawi confirms president mutharika ' s death,president mutharika ' s death,3.6
+191,mali ' s tuareg rebels declare independence,mali ' s tuareg rebels,mali rebels declare independent ' azawad ',mali rebels,3.8
+192,lance armstrong stripped of tour de france titles,lance armstrong,lance armstrong plots strategy after loss of titles,lance armstrong,1.4
+193,egypt votes on final day of presidential election,votes on final day of presidential election,polls open in france for presidential election,presidential election,1.0
+194,berri says ready to help launch national unity government,national unity government,the perception of spain has changed dramatically with this government,the perception of spain,0.4
+195,is madeleine mccann still alive ?,madeleine mccann,"reopen madeleine case , police urge",madeleine case,0.6
+196,13 dead in iraq bomb attacks,iraq bomb attacks,16 killed in north iraq attacks,north iraq attacks,1.8
+197,aussie surfers find stricken asylum seekers,aussie surfers,mayday : fears for asylum seekers,fears for asylum seekers,1.4
+198,isaf : 4 coalition troops killed in attack involving afghan police,4 coalition troops killed in attack involving afghan police,"nato says four troops killed in "" insider "" attack in afghan south","four troops killed in "" insider "" attack in afghan south",3.0
+199,coty launches $ 10 billion bid for rival avon,$ 10 billion bid for rival avon,coty bids $ 10 billion for avon,coty bids,4.6
+200,gunman kills 6 in shooting at wisconsin sikh temple,wisconsin sikh temple,gunman kills six in shooting at sikh temple in wisconsin,sikh temple in wisconsin,5.0
+201,audi to buy motorcycle maker ducati,motorcycle maker ducati,probe into motor insurance market,motor insurance market,0.6
+202,hurricane isaac moves inland after landfall,hurricane isaac,hurricane isaac batters us coast near new orleans,hurricane isaac,2.4
+203,china news agency : still hope for syria peace,china news agency,china state news agency : there ' s still hope for syria peace,china state news agency,4.2
+204,22 dead in suicide attack on yemen police academy,suicide attack on yemen police academy,au forces intensify attack on somali rebels,au forces,0.4
+205,south korea orders immediate shutdown of 2 nuclear reactors,south korea,south korea to boost nuclear power ?,south korea,1.2
+206,nigeria mourns over 193 people killed in plane crash,plane crash,nigeria opens probe into deadly air crash,probe into deadly air crash,1.6
+207,"us , allies to set demands for iran nuclear talks",demands for iran nuclear talks,' iran won ' t accept pre - conditions to nuclear talks ',nuclear talks,1.6
+208,thousands of troops to march for jubilee,thousands of troops,thousands flock to amsterdam for queen ' s day,queen ' s day,1.2
+209,middle east : israel : hamas leader convicted,middle east,middle east : iraq : 17 prisoners escape in kirkuk,middle east,0.8
+210,navy jet crashes into apartment building,navy jet,us navy jet crashes into apartment block,us navy jet,4.2
+211,woman dies after abortion refusal,abortion refusal,woman dies after cliff collapses in dorset,cliff collapses in dorset,0.6
+212,greece votes in crucial election,crucial election,greece looks set for repeat election,repeat election,1.8
+213,death toll rises to 236 after brazzaville blasts,death toll,rep . of congo : 236 dead after arms depot blasts,rep . of congo,3.6
+214,new sex claim hits secret service,new sex claim,new rules for us secret service,new rules,1.8
+215,iran warns moscow nuclear talks could stall,moscow nuclear talks,iranians “ confess ” to nuclear scientist murders,nuclear scientist murders,1.2
+216,mohamed morsi sworn in as eygptian president,mohamed morsi,mohamed morsi sworn in as egypt ' s president,mohamed morsi,4.6
+217,1 person killed in sectarian clashes in lebanon,sectarian clashes,180 killed in iran earthquake,iran earthquake,0.0
+218,icc jails congolese warlord for 14 years over child soldiers,congolese warlord,congolese warlord sentenced to 14 years in landmark case - video,congolese warlord,3.2
+219,gains in financial stocks push up european equities,gains in financial stocks,british christians take complaints to european court,british christians,0.0
+220,turkey raises alarm over syrian refugees,syrian refugees,turkey seeks to relocate some syrian refugees,some syrian refugees,1.6
+221,suspected al - qaeda financier arrested in france,suspected al - qaeda financier,three al qaeda suspects arrested in spain,three al qaeda suspects,1.6
+222,"no damage , tsunami after 6 . 6 quake hits off indonesia ' s sumatra",indonesia ' s sumatra,5 . 9 quake hits indonesia s sumatra : usgs,5 . 9 quake,1.6
+223,israeli air strikes kill 16 in gaza,israeli air strikes,israel air strikes kill 4 in gaza ; death toll now at 38,israel air strikes,2.2
+224,"18 killed , 108 wounded in wave of bombings in iraq",wave of bombings in iraq,"9 killed , 31 wounded in car bombs in iraq ' s kirkuk",car bombs,1.4
+225,palestinian prisoner ending hunger strike after deal,palestinian prisoner,israel to free palestinian hunger striker,palestinian hunger striker,2.0
+226,rebel fighters ' capture ' syrian soldiers,rebel fighters,free syrian army captures syrian officers,free syrian army,3.2
+227,colorado shooting suspect was under psychiatrist ' s care,colorado shooting suspect,doctor treating aurora shooting suspect had medical reprimand,doctor treating aurora shooting suspect,2.4
+228,6 . 6 quake rocks indonesia ' s papua : usgs,6 . 6 quake,6 . 6 quake rocks indonesia ' s papua : us geological survey,6 . 6 quake,4.8
+229,us senators penalize pakistan for jailing doctor who aided cia,us senators,us decries pakistan doctor ' s fate,pakistan doctor ' s fate,2.8
+230,what time is andy murray v roger federer in the wimbledon men ' s final ? all you need to know about the big game,all you need to know about the big game,what time is the paralympic opening ceremony ? everything you need to know about the big curtain - raiser,the paralympic opening ceremony ? everything,0.4
+231,new jersey school bans hugging,new jersey school bans,us school bans hugging,school bans,3.6
+232,iran ( islamic republic of ) : iran steps up relief efforts after quakes kill 227,iran ( islamic republic of ) : iran,iran steps up relief efforts after quakes kill 227,relief efforts,4.6
+233,tsunami warning issued for southern alaska,tsunami warning,tsunami warning after canada quake,tsunami warning,2.4
+234,' no evidence ' in afghanistan massacre case,afghanistan massacre case,"us toll in afghanistan hits 2 , 000",us toll in afghanistan,0.8
+235,"7 soldiers killed , 56 injured in pkk attack in eastern turkey",pkk attack in eastern turkey,"3 killed , 14 injured in attacks in iraq",attacks in iraq,0.4
+236,two reported dead in shooting at empire state building in ny,empire state building in ny,2 dead in shooting outside empire state building,empire state building,4.6
+237,australian unemployment up to 5 . 1 percent,australian unemployment,french unemployment rate rises to 10 percent,french unemployment rate,1.0
+238,shares move higher on wall street,wall street,sandy strengthens as nears coast ; wall street shut,wall street,0.4
+239,halliburton 1 q income rises 23 pct,halliburton 1 q income,halliburton q1 profits rise on strong north america sales,halliburton q1 profits,2.6
+240,syrian envoy to cyprus defects to qatar,syrian envoy,syria deploys more troops despite peace deal,more troops,0.8
+241,4 killed in shrine bombing in northwest pakistan,shrine bombing,12 killed in u . s . drone strike in nw pakistan,drone strike in nw pakistan,0.8
+242,china stocks close mixed friday,china stocks,china stocks open lower friday,china stocks,1.6
+243,un monitors yet to reach site of syrian ' massacre ' – video,un monitors,un monitors shot at on way to syrian massacre site,un monitors,2.4
+244,yorkshire soldier killed in afghan bomb blast,yorkshire soldier,soldier killed in afghanistan blast,afghanistan blast,3.6
+245,radical islamists in mali enlist new militia,radical islamists in mali,local militia bolsters islamist militants in mali,local militia,3.75
+246,olympics opening ceremony a hit around globe,olympics opening ceremony,opening ceremony gives olympics a rocking start,opening ceremony,4.2
+247,schiphol airport partly evacuated after bomb threat,schiphol airport,schiphol airport evacuated due to bomb threat,schiphol airport,4.0
+248,man killed in french terror raid,french terror raid,man dies in french ' anti - terror operation ',french ' anti - terror operation,4.8
+249,dali painting stolen from gallery,dali painting,salvador dali painting snatched from new york gallery,salvador dali painting,3.8
+250,capello quits as england manager,england manager,capello resigns as england manager,england manager,5.0
+251,one dead in ohio school shooting,one dead,"1 dead , 4 wounded in ohio school shooting",ohio school shooting,3.2
+252,2 palestinians killed in israeli airstrikes,israeli airstrikes,four palestinians killed in iaf strike,four palestinians,2.4
+253,pakistan condemns u . s . drone strikes,u . s,pakistan convoy heads to protest us drone strikes,pakistan convoy heads,3.2
+254,massive hurricane sandy bears down on u . s . east coast,east coast,"hurricane sandy gains speed , batters us east coast",hurricane sandy gains speed,4.0
+255,sarkozy to file complaint in gadhafi funding claim,gadhafi funding claim,sarkozy to sue after gaddafi cash claim bursts into campaign,gaddafi cash claim,3.6
+256,"the note ' s must reads for wednesday july 4 , 2012",the note ' s,"the note ' s must - reads for wednesday , may 30 , 2012","the note ' s must - reads for wednesday ,",2.0
+257,' iran will attack tel aviv if israel strikes ',tel aviv,senior cleric : iran will attack tel aviv if israel strikes,senior cleric,4.4
+258,"annan urges end to syria violence , minister defects",end to syria violence,annan urges end to syrian violence,end to syrian violence,3.8
+259,gusmao consolidates power in east timor elections,east timor elections,supreme court possibilities if romney wins election,supreme court possibilities,0.0
+260,pena nieto wins mexico presidential vote : exit polls,pena nieto,poll : putin to win russia presidential vote,putin to win russia presidential vote,0.6
+261,nigeria plane crash : no survivors,nigeria plane crash,4 chinese among nigeria plane crash victims,nigeria plane crash victims,2.6
+262,mier ups 2012 growth forecast to 4 . 2 pc,2012 growth forecast,cmie cuts 2012 - 13 growth forecast to 6 . 3 %,2012 - 13 growth forecast,0.8
+263,explosion at venezuela refinery kills at least 39,explosion at venezuela refinery,venezuela mourns oil refinery blast deaths,oil refinery blast deaths,2.8
+264,strong earthquake hits mexico,strong earthquake,strong earthquake strikes near acapulco,strong earthquake strikes,3.6
+265,"russia , china veto un resolution on syria killings",un resolution,"russia , china in double veto of un syria resolution",double veto of un syria resolution,3.8
+266,colorado shooting suspect was in therapy,colorado shooting suspect,lawyers : colo . shooting suspect is mentally ill,colo . shooting suspect,4.2
+267,suicide bomber kills 4 near nato ' s afghan hq,suicide bomber,suicide bomber kills 23 at afghan wedding,suicide bomber,1.6
+268,pakistani plane crashes with 127 on board,pakistani plane,pakistani plane crashes with 130 people on board,pakistani plane,2.6
+269,un security council orders global sanctions against haqqani network in afghanistan,un security council,un orders global sanctions against haqqani network,global sanctions against haqqani network,4.4
+270,erdogan and putin talked in raised voice,erdogan and putin,foreign militants killed in somalia in strike on car,foreign militants,0.0
+271,saudi arabia arrests suspected militants with al - qaeda links,saudi arabia,"saudi arabia arrests suspected militants , state media reports",state media,4.0
+272,hurricane sandy closes in on us east coast,hurricane sandy,hurricane sandy takes aim at us east coast,hurricane sandy,4.8
+273,"chicago teachers strike : vacations for students , for good or ill",chicago teachers,chicago teacher strike poses test for unions,chicago teacher strike,2.2
+274,panetta says afghanistan role to shift from combat in 2013,afghanistan role to shift from combat in 2013,panetta : afghanistan tops nato conference topics,nato conference topics,1.6
+275,four men admit london stock exchange bomb plot,four men,four men admit london bombs plot,four men,4.0
+276,"pm in tehran , asks nam to take clear stand on syria",clear stand,"manmohan in tehran , asks nam to take a stand on syria",a stand on syria,3.8
+277,israel threatens action against gaza aid ship,gaza aid ship,israel attacks in gaza strip after rocket fire,israel attacks,1.6
+278,bodies found at russian jet crash in indonesia,russian jet crash in indonesia,12 bodies found at russian jet crash in indonesia,russian jet crash in indonesia,3.8
+279,us soldier kills up to 16 civilians in afghanistan,us soldier,us soldier kills up to 16 afghan civilians in shooting spree,us soldier,4.2
+280,rupert murdoch : i was the victim of a cover up,rupert murdoch,rupert murdoch set for second day of grilling,rupert murdoch,1.2
+281,barack obama ' s bodyguards sent back to us after prostitution scandal,barack obama ' s bodyguards,barclays boss falls to rate fixing scandal,barclays boss,0.4
+282,china ' s yuan rises to new high against usd wednesday,china ' s yuan,china ' s yuan advances to 6 . 3103 against usd wednesday,china ' s yuan,3.8
+283,south africa train crash kills at least 19,south africa train crash,south africa train crash kills 26,south africa train crash,3.6
+284,nissan to sell steer - by - wire cars,wire cars,nissan to offer steer - by - wire systems in some infiniti cars,wire systems,4.0
+285,tibetan monk dies after setting himself on fire in protest against chinese rule,tibetan monk,teenage tibetan monk dies after setting himself on fire in china,teenage tibetan monk,3.8
+286,"man , 19 , quizzed over teen murder",teen murder,man quizzed over megan - leigh murder,leigh murder,3.8
+287,"israel kills hamas commander , bombs gaza targets",hamas commander,"israel airstrikes kill hamas commander , 5 others",israel airstrikes,3.4
+288,civilians bear brunt of afghan attacks,brunt of afghan attacks,taliban launch coordinated afghan attacks,coordinated afghan attacks,1.8
+289,gusmao consolidates power in east timor elections,east timor elections,gusmao powers on in east timor,gusmao powers,3.6
+290,un monitors yet to reach site of syrian ' massacre ' – video,un monitors,un monitors unable to reach site of syria killings,un monitors,4.4
+291,"russia , china veto un resolution on syria endorsing",china veto un resolution,"russia , china veto u . n . draft backing arab plan for syria ( reuters )",arab plan,3.8
+292,nato condemns syria ' s downing of turkish military jet,syria ' s downing of turkish military jet,nato strongly condemns syria ' s downing of turkish jet,syria ' s downing of turkish jet,4.8
+293,activists : syrian troops storm damascus suburb,syrian troops,activist says syrian citizen cameraman killed in homs,syrian citizen cameraman killed in homs,1.4
+294,syria rebels attack lebanese post near border : army,syria rebels,turkish army stages tank exercises near syria border,turkish army stages tank exercises,0.8
+295,five killed in china building collapse,china building collapse,at least 20 killed in syria saturday,at least 20,0.2
+296,syrian forces launch new attacks,syrian forces,syria forces launch aleppo attack,syria forces,3.4
+297,gazans fire 2 rockets into israel ; no injuries,no injuries,gazans fire 89 rockets ; cabinet approves reserve call - up,reserve call,1.4
+298,former nazi death camp guard demjanjuk dead at 91,former nazi death camp guard demjanjuk,"john demjanjuk , convicted nazi death camp guard , dies aged 91","john demjanjuk , convicted nazi death camp guard ,",4.6
+299,breivik drops far - right salute in court,right salute,breivik gets 21 - year sentence,21 - year sentence,1.0
+300,second teenager charged with murder,second teenager,brother of eastenders actress gemma mccluskie is charged with her murder,brother of eastenders actress gemma mccluskie,1.4
+301,french fear new serial killer after murders,new serial killer,jersey murder trial : killer ' hearing voices ',jersey murder trial,0.8
+302,us : madoff brother to plead guilty in ny in fraud,madoff brother to plead guilty in ny in fraud,madoff ' s brother to plead guilty to fraud,madoff ' s brother,4.2
+303,hollande defeats sarkozy in french presidency vote,french presidency vote,polls open across france in presidential election,presidential election,1.8
+304,libyan government retakes tripoli airport,libyan government,libyan militia takes control of tripoli airport,libyan militia,3.2
+305,clinton warns kenya of cost of election violence,cost of election violence,clinton warns kenya on cost of election unrest,cost of election unrest,4.6
+306,arkansas supreme court strikes down execution law,arkansas supreme court,arkansas justices strike down death penalty,arkansas justices,4.6
+307,un envoy in turkey for talks on syria,un envoy,nz to increase exports to china,exports to china,0.2
+308,islamist morsi wins egypt ' s presidential election,islamist morsi,al - shater to run in presidential election in egypt,al - shater,1.0
+309,"donna summer , the queen of disco",donna summer,"donna summer , queen of disco , dies at 63","donna summer , queen of disco ,",1.6
+310,"bangladesh muslims torch buddhist shrines , police say",bangladesh muslims,muslims torch buddhist temples,buddhist temples,3.6
+311,u . s . drone kills five militants in pakistan,u . s . drone,six police officers killed in attacks in dagestan,six police officers,0.4
+312,"9 killed , 168 injured in latest cairo clashes",latest cairo clashes,"10 killed , 12 injured in e . afghan airport suicide blast",afghan airport suicide blast,1.2
+313,tehran : eu sanctions won ' t force iran into nuclear talks,eu sanctions,low expectations for iran nuclear talks,low expectations,1.8
+314,portugal drownings : uk girl and grandad named,portugal drownings,british girl and grandad drown in portugal,british girl and grandad,2.2
+315,romney wins maine republican caucuses,maine republican caucuses,"romney , in comeback , has narrow maine caucus win",narrow maine caucus win,3.8
+316,court in bahrain rejects medics ' last rally appeal,court in bahrain,bahrain rejects activists ' appeal,activists ' appeal,3.8
+317,hurricane sandy powers toward eastern seaboard,hurricane sandy powers,hurricane sandy moves towards us,hurricane sandy moves,3.6
+318,clinton calls for friends of syria to unite,friends of syria,plastic artist calls for greater support for new talents,plastic artist,0.0
+319,jk rowling launches her first adult novel,jk rowling,syria launches ground assault in aleppo,ground assault,0.0
+320,algerian government parties dominate elections,algerian government parties,algerian national turnout of parliamentary vote reaches 44 . 38 pct,algerian national turnout of parliamentary vote,2.4
+321,security official killed in yemen,security official,security personnel killed in pakistan raid,security personnel,0.6
+322,us stocks fall as greek talks lumber ; apple falls,greek talks,us stocks slip on wall street as greek talks drag on,us stocks,3.2
+323,romney picks ryan as vice presidential running mate : source,vice presidential running mate,romney to tap ryan as vice presidential running mate,vice presidential running mate,5.0
+324,nato sticks to transition roadmap in afghanistan : rasmussen,transition roadmap,nato helicopter makes hard landing in e . afghanistan,nato helicopter,1.0
+325,mubarak faces verdict in murder trial,verdict in murder trial,mubarak ' s sons face new charges of insider trading,mubarak ' s sons,1.4
+326,no blocks to investment,no blocks,india allows pakistan investment,pakistan investment,2.0
+327,blast kills 11 in northwestern pakistan,northwestern pakistan,bomb kills 19 in northwest pakistan,northwest pakistan,2.6
+328,5 aid workers freed in operation in afghanistan,5 aid workers,suicide bomber kills 37 at mosque in afghanistan,suicide bomber,0.8
+329,two nato soldiers killed in afghanistan,two nato soldiers,nato soldier killed in afghan blast,nato soldier,3.6
+330,russian tv reports foiled attempt on putin,russian tv reports,"russia , ukraine foiled plot to kill putin , report says",ukraine foiled plot to kill putin,3.2
+331,putin claims victory in russia ' s presidential election,victory in russia ' s presidential election,putin wins disputed russian presidential election,disputed russian presidential election,4.4
+332,israeli leader puts off evicting settlers from hebron house,israeli leader,israeli army orders settlers out of hebron house,israeli army,1.6
+333,government promises action on heathrow queues,action on heathrow queues,finance minister promises no new taxes,finance minister,0.4
+334,remains of 167 bodies found in mexican cave,167 bodies found in mexican cave,remains of 167 people found in mexico cave,167 people found in mexico cave,5.0
+335,two kenyan ministers among 6 killed in plane crash,two kenyan ministers,poland honors president killed in 2010 plane crash,poland honors president,0.8
+336,"iran , powers set for high - stakes nuclear talks",high - stakes nuclear talks,"u . s . , iran prepare for istanbul nuclear talks","u . s . , iran",3.2
+337,thousands gather for new russian anti - putin rally,new russian anti - putin rally,thousands gather in moscow for rival rallies,rival rallies,2.8
+338,syrian forces kill teen in aleppo protests,syrian forces,syrian forces kill 3 protesters in damascus - activists,syrian forces,1.2
+339,google names new motorola mobility ceo,new motorola mobility ceo,google appoints dennis woodside to run motorola mobility,dennis woodside,3.8
+340,massive hurricane sandy bears down on u . s . east coast,east coast,hurricane sandy takes aim at us east coast,hurricane sandy,4.4
+341,egyptian president moves into mubarak ' s old office,egyptian president,egypt ' s president - elect morsi starts to form government,egypt ' s president,2.33333333333333
+342,thousands more syrian refugees flee to turkey overnight,thousands more syrian refugees,"8 , 000 syrian refugees flee to turkey overnight","8 , 000 syrian refugees",3.8
+343,assange appeals extradition to uk ' s top court,uk ' s top court,assange to appeal extradition to uk ' s top court,uk ' s top court,4.0
+344,strong quake jolts most parts of pakistan,strong quake,strong quake hits eastern indonesia,strong quake,2.0
+345,lebanese gunmen clash over syria crisis,lebanese gunmen,syrians hold solution to syria crisis,solution to syria crisis,1.0
+346,syrian troops kill 35 in damascus suburb,syrian troops,activists : syrian troops kill dozens near damascus,syrian troops,3.6
+347,us drone strike kills four in north waziristan,us drone strike,u . s . drone strike kills 10 in northwest pakistan : officials,u . s . drone strike,1.8
+348,salvador dali painting snatched from new york gallery,salvador dali painting,salvador dali painting snatched in nyc,salvador dali painting,4.6
+349,putin claims victory in russia ' s presidential election,victory in russia ' s presidential election,will putin ' s election victory in russia be greeted with protests ?,putin ' s election victory in russia,1.8
+350,sarkozy announces re - election bid,re - election bid,france ' s nicolas sarkozy makes his reelection bid official,france ' s nicolas sarkozy,4.2
+351,"us , uk in pact to release emergency oil stocks",emergency oil stocks,"us , uk set to agree emergency oil stocks release",emergency oil stocks,4.6
+352,suspicious object found in tel aviv not explosive device,suspicious object,police treat suspicious object at tel aviv bus station,suspicious object,3.4
+353,eurozone unemployment stays at record 11 percent,eurozone unemployment,eurozone unemployment at record high in june,eurozone unemployment,3.0
+354,french socialist party wins parliament victory,french socialist party,french socialists win absolute parliament majority,french socialists,3.8
+355,"salafi islamists , police clash in tunis - witnesses",salafi islamists,second islamist hunger striker dies in a tunisian prison,second islamist hunger striker,0.6
+356,strauss - kahn investigated in french prostitution ring,french prostitution ring,dominique strauss - kahn faces questions over french prostitution ring,dominique strauss,3.8
+357,romney wins florida republican primary,florida republican primary,romney eyes us republican primary endgame,republican primary endgame,1.8
+358,us drone strike kills four in north waziristan,us drone strike,suspected drone strike kills 4 in pakistan,suspected drone strike,2.6
+359,at least 15 killed in nigeria church attack,at least 15,at least 12 killed in nigeria church bombing,at least 12,2.6
+360,2 traffic accidents leave 47 dead in china,2 traffic accidents,3 traffic accidents leave 56 dead in china,3 traffic accidents,2.4
+361,head of cia resigns over affair,head of cia,hall of fame beckons for capriati,hall of fame,0.0
+362,france ' s strauss - kahn charged with involvement in prostitution vice ring,france ' s strauss - kahn,strauss - kahn charged in prostitution vice ring,prostitution vice ring,4.0
+363,sony reports record annual loss,record annual loss,sony forecasts record annual loss of $ 6 . 4 bn,sony forecasts,3.6
+364,12 killed in gaza in israeli airstrikes,israeli airstrikes,"ictu , ibec in move on airline strike",move on airline strike,0.4
+365,9 killed in attacks after deadly iraq day,deadly iraq day,19 killed in iraq attacks ahead of ramadan end,iraq attacks,1.4
+366,barclays hit by fresh u . s . investigations,fresh u,barclays hit by fresh us probe,fresh us probe,4.4
+367,us closes embassy in syria ( ap ),syria ( ap ),closed roads in armenia,closed roads,0.4
+368,eu heaps new sanctions on syria,new sanctions,eu imposes new sanctions on syrian regime,new sanctions,4.4
+369,us drone strike kills 8 militants,us drone strike,us drone strike kills four in nwa : officials,us drone strike,2.2
+370,russians rally against putin ' s rule,putin ' s rule,tens of thousands rally against putin ' s rule ( ap ),tens of thousands,3.4
+371,bahrain grand prix underway amid protests,bahrain grand prix,bahrain race goes ahead amid unrest,bahrain race,4.0
+372,china stocks open flat monday,china stocks,chinese stocks open mixed wednesday,chinese stocks,1.4
+373,sheryl crow says has benign brain tumor,sheryl crow,sheryl crow has a benign brain tumor,sheryl crow,4.6
+374,obama endorses same - sex marriage,same - sex marriage,obama ' s delicate dance on same - sex marriage,obama ' s delicate dance,2.6
+375,afghan parliament approves u . s . - afghan security pact,afghan parliament,afghan parliament approves u . s . partnership,afghan parliament,3.8
+376,"two german tourists , two pilots killed in kenya air crash",two german tourists,senator reid involved in las vegas car crash : cnn,senator reid involved in las vegas car crash,0.6
+377,"israeli , palestinian negotiators quietly meet","israeli , palestinian negotiators","israeli , palestinian negotiators meet in jordan","israeli , palestinian negotiators",3.6
+378,amnesty : syria rebels also committing abuses,syria rebels also committing abuses,amnesty investigator : syria rebels also committing abuses,amnesty investigator,4.2
+379,mitt romney wins republican primary in indiana,mitt romney,romney wins florida republican primary,florida republican primary,1.6
+380,east german rights activist gauck elected president,east german rights activist gauck,joachim gauck elected as german president,joachim gauck,4.0
+381,south africa starts investigating mine violence,south africa,south africa hosts ' peace talks ' in mine standoff,south africa,2.4
+382,syria fighting rages as russia urges western re - think,syria fighting,"syria fighting rages in capital , russia pressed",rages in capital,2.6
+383,"3 dead , 27 injured in sw china accident",sw china accident,35 dead and 165 missing in india boat accident,india boat accident,0.4
+384,erdogan ' s party submits plan for turkish presidency,erdogan ' s party,erdogan ' s party aims for turkish presidency,erdogan ' s party,3.6
+385,santorum romping to minnesota victory,minnesota victory,santorum wins kansas caucuses,kansas caucuses,1.0
+386,jordan opens first tent camp for syrian refugees,first tent camp,jordan opens first refugee camp for syrians,first refugee camp,4.8
+387,space legend neil armstrong dies,space legend neil armstrong,first man on moon neil armstrong dies at 82,first man,4.0
+388,u . s . and turkey weigh no - fly zones for syria,fly zones for syria,"turkey , us weigh no - fly zones for syria","turkey , us",4.8
+389,man arrested over double murder,double murder,wa man arrested in police drug raid,police drug raid,0.8
+390,florida counties extend early voting,florida counties,fla . democrats want extended early voting hours,fla . democrats,2.8
+391,"newcastle 2 - 0 liverpool : match report , pictures & video highlights","match report , pictures & video highlights","qpr 1 - 2 west ham : match report , pictures & video highlights",qpr 1 - 2 west ham,1.0
+392,palestinian prisoners to end hunger strike,palestinian prisoners,progress reported in palestinian prisoner hunger strike talks,palestinian prisoner hunger strike talks,2.8
+393,police : four killed in german hostage taking incident,four killed in german hostage taking incident,palestinians : 12 killed in idf strike in northern strip,12 killed in idf strike in northern strip,1.0
+394,egypt lets mubarak pm back in presidential race,presidential race,egypt confirms mubarak ' s pm back in presidency race,mubarak ' s pm back in presidency race,4.25
+395,syrian journalists killed in capital,syrian journalists,us marines killed in base attack,us marines,0.6
+396,gop candidate romney to call to arm syrian rebels,gop candidate romney,us helping get arms to syria rebels,syria rebels,2.4
+397,u . n . observer patrol arrives at syria massacre site,u . n . observer patrol,un observers reach syria massacre village,un observers,4.4
+398,publisher acquitted in privacy case,privacy case,pbs publishes new guidelines on impartiality,new guidelines on impartiality,0.4
+399,american airlines and pilots agree on a new contract,american airlines and pilots,romney pledges to ' stand with israel ' on iran threat,iran threat,0.0
+400,greek pm to announce new election,greek pm,greek pm calls for may 6 general election,greek pm,2.8
+401,government of canada supports montréal women leading change,government of canada,government of canada supports women ' s safety in regina,government of canada,1.6
+402,no problem if mulayam forms third front : congress,no problem,no problem if mulayam forms third front : digvijay,no problem,3.2
+403,plane crash in ghana kills at least 10,plane crash in ghana,plane crash in ghana : how the international media reported it,plane crash in ghana,2.2
+404,gu kailai murder trial ends in china,gu kailai murder trial,gu kailai ' s murder trial ends in china,gu kailai ' s murder trial,5.0
+405,six us troops killed in afghan bomb attack,six us,6 nato troops killed in afghanistan,6 nato troops,1.8
+406,syria forces launch aleppo attack,syria forces,syrian forces kill 54 ahead of annan peace mission,syrian forces,1.6
+407,two blasts hit syria capital,two blasts,two blasts rock syrian capital,two blasts,4.8
+408,bbc director general resigns over ' shoddy journalism ',bbc director general,bbc director general resigns amid newsnight scandal,bbc director general,3.6
+409,rick santorum wins kansas caucuses,rick santorum,rick santorum notches a victory in kansas caucuses,rick santorum,4.8
+410,"in islamist - led egypt , coptic church names new pope",coptic church,egyptian christians choose new pope,egyptian christians,3.2
+411,chinese stocks close higher thursday,chinese stocks,chinese stocks open mixed wednesday,chinese stocks,1.0
+412,not ' hiding the ball ' on russia : obama,the ball,obama says he ' s not ' hiding the ball ' on russia,the ball,4.4
+413,"u . s . , eu cautiously welcome iran ' s proposal to restart nuclear talks",iran ' s proposal to restart nuclear talks,"u . s . , eu welcome iran ' s offer to restart nuclear talks",iran ' s offer to restart nuclear talks,4.0
+414,barack obama ' s personal evolution on same - sex marriage,barack obama ' s personal evolution,obama backs same - sex marriage,same - sex marriage,2.6
+415,clinton warns kenya of cost of election violence,cost of election violence,clinton warns kenya on repeat of 2007 vote chaos,repeat of 2007 vote chaos,2.8
+416,england captain andrew strauss retires from professional cricket,england captain,england captain strauss retires from cricket,england captain strauss,4.8
+417,anti - american protests over film expand to nearly 20 countries,anti - american protests over film,anti - american fury sweeps middle east over film,anti - american fury,3.8
+418,journalists hail london olympics opening,london olympics opening,israeli delegation marches in 2012 olympics opener,israeli delegation,1.0
+419,aust stocks open lower,aust stocks,tokyo stocks open lower,tokyo stocks,1.5
+420,wikileaks begins publishing two million syria emails,two million syria emails,wikileaks releasing trove of syria documents,trove of syria documents,3.4
+421,palestinians : 2 gaza militants killed in israeli airstrike on coastal strip,2 gaza militants killed in israeli airstrike on coastal strip,officials : gaza man killed in israeli airstrike ( ap ),gaza man killed in israeli airstrike ( ap ),3.0
+422,mali ' s president hands in resignation,mali ' s,mali ' s president formally resigns,mali ' s president,4.6
+423,china backs sri lanka on un resolution,sri lanka,war crimes : china backs lanka on un resolution,war crimes,3.6
+424,three killed in nigeria suicide bombers attack,nigeria suicide bombers attack,60 killed in nigeria cattle market attack,nigeria cattle market attack,1.4
+425,"factbox - security developments in iraq , february 1","security developments in iraq , february 1","factbox - security developments in pakistan , march 13","security developments in pakistan , march 13",1.6
+426,israel among top arms exporters in world : report,top arms exporters in world,israel among top arms exporters and importers,top arms exporters and importers,3.8
+427,egyptians to vote for new president,new president,somali mps to elect new president,somali mps,0.8
+428,federer wins 7 th wimbledon title,7 th wimbledon title,federer captures 7 th wimbledon title,7 th wimbledon title,5.0
+429,qaida leader calls for kidnap of westerners in egypt,qaida leader,al - qaida leader urges kidnapping of westerners,al - qaida leader,3.6
+430,china stocks close mixed friday,china stocks,chinese stocks close higher midday friday,chinese stocks,2.6
+431,ton up : tendulkar reaches 100 th international hundred,100 th international hundred,sachin tendulkar ' s reaches 100 centuries - in pictures,sachin tendulkar ' s,3.8
+432,police disperse protest in east sudan - witnesses,east sudan,police disperse east china chemical plant protesters,east china chemical plant protesters,1.6
+433,putin sworn in as russian president,russian president,putin sworn in as russia ' s president for 6 years,russia ' s president,4.0
+434,highlights of the vice presidential debate,the vice presidential debate,five things to watch in the presidential debate,five things,2.2
+435,2 pro - palestinian activists arrested at b - g airport,2 pro - palestinian activists,dozens of ' flytilla ' activists protest at paris airport,dozens of ' flytilla ' activists,2.2
+436,"full episode : nightline 6 / 29 : katie holmes , tom cruise to divorce",full episode,"custody , images at stake in cruise - holmes divorce",images at stake in cruise,1.4
+437,syrian regime denies role in houla massacre,syrian regime,syria blames rebels for houla massacre of over 100,houla massacre of over 100,3.0
+438,south sudan accuses sudan of bombings ahead of talks,south sudan,s . sudan accuses sudan of bombing in blow to talks,s . sudan,4.4
+439,spanish jobless rate soars past 25 per cent,spanish jobless rate,"us jobless rate seen rising , offering obama no relief",us jobless rate,1.0
+440,nine killed in gun attack in pakistan,gun attack,five million citizens get unofficial salary in ukraine,five million citizens,0.0
+441,"syria demands guarantees , rebels say peace plan doomed",peace plan,syria demands written guarantee for troop pullback,written guarantee for troop pullback,3.2
+442,minn . terminal reopens after evacuation,minn . terminal,minn . terminal reopens after bag causes evacuation,minn . terminal,3.8
+443,golf : westwood takes lead in dubai desert classic,dubai desert classic,westwood in front a dubai desert classic,front a dubai desert classic,4.0
+444,polls open in russian presidential election,russian presidential election,polls close in senegal ' s presidential election,senegal ' s presidential election,1.4
+445,romanian president declared victory,romanian president,chinese president concludes state visit to denmark,chinese president,0.6
+446,russians rally support for orthodox church over pussy riot controversy,orthodox church,russian orthodox church rallies faithful after criticism,russian orthodox church rallies faithful,3.6
+447,mali interim leader takes office,mali interim leader,mali ' s interim president sworn into office,mali ' s interim president,4.2
+448,putin declares victory in russian presidential vote,victory in russian presidential vote,putin ' wins ' russia ' s presidential election,russia ' s,3.8
+449,al renews condemnation on syria ' s violence,syria ' s violence,u . s . closes embassy in damascus due to syria violence,u . s .,1.6
+450,eu slaps sanctions on assad family,assad family,eu sanctions assad ' s wife ; mortars hit homs,sanctions assad ' s wife,3.4
+451,air force instructor faces sentencing for rape,air force instructor,women testify at air force instructor ' s sentencing,air force instructor ' s sentencing,1.8
+452,more than 30 striking miners killed,more than 30 striking miners,more than 30 striking miners killed in south africa,more than 30 striking miners,3.8
+453,israeli pm makes case on iran to us voters,israeli pm,israel blames iran for attacks on its diplomats,attacks on its diplomats,1.2
+454,music industry pays tribute to whitney houston,music industry,music industry mourns whitney houston,music industry,3.4
+455,iron dome intercepts 17 rockets,iron dome,iron dome intercepts two rockets fired at beersheba,iron dome,2.6
+456,mali islamists destroying ' more timbuktu shrines ',mali islamists,mali islamists destroy more holy timbuktu sites,mali islamists,4.5
+457,china stocks end higher on pmi at midday,china stocks,chinese stocks open higher thursday,chinese stocks,1.8
+458,scientists resurrect flowers from prehistoric seeds,prehistoric seeds,"nintendo trims red ink , lowers forecast for year",forecast for year,0.0
+459,man convicted in vatican leaks case,vatican leaks case,"butler to be tried in "" vatileaks "" case",""" vatileaks "" case",2.6
+460,"romney , paul vie for maine caucus win","romney , paul",romney has narrow maine caucus win,narrow maine caucus win,2.8
+461,sectarian clashes rock lebanese city of tripoli,sectarian clashes,"sectarian clashes rock lebanese city , 3 killed",sectarian clashes,3.8
+462,repsol blasts argentina over nationalization of ypf,nationalization of ypf,repsol blasts argentina over oil nationalization,oil nationalization,3.4
+463,"several dead , 550 injured in argentina train crash",several dead,49 feared dead in buenos aires train crash,buenos aires train crash,1.4
+464,sheriff : man recovers stolen car 42 years later,stolen car,us man recovers car 42 years after theft,us man,4.0
+465,"google ceo says android important , not critical",google ceo,"larry page says android important , not critical",larry page,4.0
+466,"mursi takes oath of office , becomes egyptian president",oath of office,morsi to take oath as first egypt civilian president,first egypt civilian president,3.8
+467,iran may cut oil exports to more eu states,oil exports,iran mps say ready to ban oil exports to some eu states,iran mps,3.6
+468,factory fires kill at least 260 in pakistan,factory fires,at least six dead in pakistan gunfight,at least six dead,0.8
+469,santorum ' s 3 - year - old daughter hospitalized,santorum ' s 3 - year - old daughter,' kony 2012 ' director hospitalized,' kony 2012 ' director,0.6
+470,syrian opposition pleads for criminal court action,syrian opposition,syrian opposition leader criticizes u . s .,syrian opposition leader,2.2
+471,sunderland 2 - 2 bolton : davies double gets trotters a point but they stay in bottom three,sunderland 2 - 2 bolton,sunderland 2 - 2 bolton : davies in at the double,sunderland 2 - 2 bolton,4.0
+472,jaya prada all set to join bjp,jaya prada,"jaya prada likely to join bjp , amar singh to decide for her",jaya prada,3.8
+473,five dead in pakistan suicide blast,five dead,over 120 dead in pakistan factory blaze,over 120 dead,0.6
+474,hezbollah ' s nasrallah warns us over anti - islam film,hezbollah ' s nasrallah,hezbollah calls for more anti - islam film protests,more anti - islam film protests,2.8
+475,"syrian forces shell towns , clash with rebels",syrian forces,syrian forces and rebels clash in coastal province,syrian forces and rebels,2.6
+476,nadal tops djokovic for 7 th french open title,7 th french open title,tennis : nadal defeats djokovic for monte carlo title,monte carlo title,3.2
+477,childcare costs rise by nearly 6 %,childcare costs,"childcare ' costing £ 15 , 000 a year '","£ 15 , 000 a year '",3.0
+478,beef burger mix recalled over salmonella concerns,beef burger mix,choc powder recalled over salmonella concerns,choc powder,1.0
+479,"obama , romney prepare for first debate",first debate,"obama , romney prepare to debate","obama , romney",4.2
+480,first significant gas found offshore kenya,first significant gas,raiders kill 38 in latest land clashes in kenya,latest land clashes in kenya,0.8
+481,red cross worker killed in pakistan,red cross worker,kidnapped uk aid worker killed in pakistan,kidnapped uk aid worker,2.2
+482,"at cpac , mitt romney stresses conservative credentials",conservative credentials,cpac 2012 : mitt romney struggles to connect with conservative base,mitt romney,3.2
+483,8 rockets fired from gaza into southern israel ; none hurt,8 rockets fired from gaza into southern israel,ten rockets from gaza land in southern israel ; none hurt,ten rockets from gaza land in southern israel,3.4
+484,glorious triple - gold night for britain,glorious triple,britain savors golden night on track,golden night on track,3.2
+485,bahraini protesters and police clash after funeral,bahraini protesters and police,"greek protesters , police clash as bailout deal in limbo",greek protesters,0.6
+486,u . s . soldier killed in shooting incident in s . afghanistan,u . s . soldier,five nato soldiers killed in afghanistan,five nato soldiers,1.6
+487,polls close in egyptian presidential election,egyptian presidential election,press releases : yemeni presidential election,press releases,0.8
+488,police ' did not link ' savile claims,savile claims,bbc faces questions for pulling savile case,savile case,1.2
+489,eurozone unemployment stays at record 11 percent,eurozone unemployment,eurozone unemployment hits record high,eurozone unemployment,3.4
+490,james murdoch quits bskyb,james murdoch,james murdoch quits role at bskyb,james murdoch,4.2
+491,iconic science fiction writer ray bradbury dies at 91,iconic science fiction writer ray bradbury,science fiction legend ray bradbury dead at 91,science fiction legend ray bradbury,4.8
+492,egypt presidential election may 23 - 24,egypt presidential election,us presidential election 2012,presidential election 2012,0.6
+493,four french soldiers killed in afghan suicide blast,four french soldiers,four foreign soldiers killed in afghan east,four foreign soldiers,3.4
+494,un observers find traces of syrian massacre,un observers,un team investigates syrian massacre,un team,4.0
+495,ap poll : majority in us have prejudice against blacks,ap poll,ap poll : majority harbor prejudice against blacks,ap poll,3.6
+496,ap source : redskins to trade for no . 2 pick,ap source,redskins trade for no . 2 pick,no . 2 pick,4.2
+497,china says defense budget to rise 11 . 2 % in 2012,defense budget,china ' s defence spending to rise 11 . 2 %,china ' s defence spending,4.0
+498,string of iraq blasts kills at least 32,string of iraq blasts,strong italy quake kills at least six,strong italy quake,0.0
+499,ecuador president correa says no decision made on assange asylum,ecuador president correa,ecuador yet to decide on assange ' s asylum,assange ' s asylum,3.8

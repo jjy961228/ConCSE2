@@ -1,0 +1,501 @@
+,sentence,cross,source_np0,target_np0,label
+0,Which did you buy the table supported the book ?,Which did you buy 탁자 supported the book ?,the table,탁자,0
+1,Martha carved the piece of wood from a branch into a toy .,Martha carved 나무 조각 from a branch into a toy .,the piece of wood,나무 조각,0
+2,Mary saw the tall man come from the back .,Mary saw 키 큰 남자 come from the back .,the tall man,키 큰 남자,1
+3,The cup smashed apart against the stone .,컵 smashed apart against the stone .,The cup,컵,1
+4,Fruit hit the roof .,Fruit hit 지붕 .,the roof,지붕,1
+5,We investigated for bombs in the area .,We investigated for bombs in 지역 .,the area,지역,0
+6,The executive committee approved the new policy .,실행 위원회 approved the new policy .,The executive committee,실행 위원회,1
+7,I put the book to Sally .,I put 그 책 to Sally .,the book,그 책,0
+8,Some people yell at dogs .,어떤 사람들은 yell at dogs .,Some people,어떤 사람들은,1
+9,His second book came out earlier this year and became an instant best - seller .,그의 두 번째 책 came out earlier this year and became an instant best - seller .,His second book,그의 두 번째 책,1
+10,"Only Churchill remembered himself giving the Blood , Sweat and .","처칠 만 remembered himself giving the Blood , Sweat and .",Only Churchill,처칠 만,1
+11,They dismissed the proposal as too costly .,They dismissed 제안 as too costly .,the proposal,제안,1
+12,The socks are ready for you to announce that you will put them on .,그 양말 are ready for you to announce that you will put them on .,The socks,그 양말,1
+13,All special rights of voting in the election were abolished .,선거에서 투표할 수 있는 모든 특별한 권리 were abolished .,All special rights of voting in the election,선거에서 투표할 수 있는 모든 특별한 권리,1
+14,Karen asked where for him to put the chairs .,Karen asked where for him to put 의자 .,the chairs,의자,0
+15,I had hoped that it was true for many years that Rosa Luxemburg had actually defected to Iceland .,I had hoped that it was true for 수년 that Rosa Luxemburg had actually defected to Iceland .,many years,수년,1
+16,Every essay she ' s written and that I ' ve read is on that pile .,그녀가 쓰고 내가 읽은 모든 에세이 is on that pile .,Every essay she ' s written and that I ' ve read,그녀가 쓰고 내가 읽은 모든 에세이,0
+17,"The most you want , the least you eat .","가장 원하는 , the least you eat .",The most you want,가장 원하는,0
+18,Rory must have eaten the muffins .,Rory must have eaten 머핀 .,the muffins,머핀,1
+19,They are investigating all people owning parakeets .,They are investigating 잉꼬를 소유한 모든 사람들 .,all people owning parakeets,잉꼬를 소유한 모든 사람들,1
+20,I ' ve got to try and I ' ve got to find that screw .,I ' ve got to try and I ' ve got to find 그 나사 .,that screw,그 나사,1
+21,The outcome depends on how many candidates participate in the election .,결과 depends on how many candidates participate in the election .,The outcome,결과,1
+22,Where did you put the book ?,Where did you put 그 책 ?,the book,그 책,1
+23,Seven pine trees are behind that barn .,일곱 소나무 are behind that barn .,Seven pine trees,일곱 소나무,1
+24,Tamara poured water into the bowl .,Tamara poured water into 그릇 .,the bowl,그릇,1
+25,the book of poems with a red cover from Blackwell by Robert Burns takes a very long time to read .,Robert Burns의 Blackwell의 빨간 표지가있는 시집 takes a very long time to read .,the book of poems with a red cover from Blackwell by Robert Burns,Robert Burns의 Blackwell의 빨간 표지가있는 시집,1
+26,The farm finally reached John after much litigation .,농장 finally reached John after much litigation .,The farm,농장,0
+27,Cheryl stood the shelf with the books .,Cheryl stood 선반 with the books .,the shelf,선반,0
+28,What do you believe that iron is to be a fact well known to virtually everybody ?,What do you believe that iron is to be 거의 모든 사람에게 잘 알려진 사실 ?,a fact well known to virtually everybody,거의 모든 사람에게 잘 알려진 사실,0
+29,Which city and which conference did Bill go to ?,어느 도시 and which conference did Bill go to ?,Which city,어느 도시,1
+30,Willy is taller than Bill by as much as it is believed that Joe is taller than Dan .,Willy is taller than Bill by Joe가 Dan보다 키가 크다고 믿을만큼 .,as much as it is believed that Joe is taller than Dan,Joe가 Dan보다 키가 크다고 믿을만큼,1
+31,The teacher became angry with the students .,선생님 became angry with the students .,The teacher,선생님,1
+32,Anson thought that himself was going to the club .,Anson thought that himself was going to 클럽 .,the club,클럽,0
+33,Over the fire there bubbled a fragrant stew .,Over 화재 there bubbled a fragrant stew .,the fire,화재,1
+34,The Emperor ' s every wish was immediately carried out .,황제의 모든 소원 was immediately carried out .,The Emperor ' s every wish,황제의 모든 소원,1
+35,They may grow as much as bamboo high .,They may grow 대나무 높이만큼 .,as much as bamboo high,대나무 높이만큼,0
+36,Nora brought the book from horne .,Nora brought 그 책 from horne .,the book,그 책,1
+37,Gilgamesh flew not the broomstick .,Gilgamesh flew not 빗자루 .,the broomstick,빗자루,0
+38,The climbers were killed by the intense cold .,등반가 were killed by the intense cold .,The climbers,등반가,1
+39,Bill ' s mother ' s friends are waiting at the restaurant .,빌의 어머니의 친구들 are waiting at the restaurant .,Bill ' s mother ' s friends,빌의 어머니의 친구들,1
+40,The department has been chosen John for the position .,부서 has been chosen John for the position .,The department,부서,0
+41,My family always summers at the seashore .,나의 가족 always summers at the seashore .,My family,나의 가족,1
+42,In the garden stand a statue .,In 정원 stand a statue .,the garden,정원,0
+43,I shaped the dough from a lump into a loaf .,I shaped 반죽 from a lump into a loaf .,the dough,반죽,0
+44,John paid me against the book .,John paid me against 그 책 .,the book,그 책,0
+45,The twig broke off of the branch .,나뭇가지 broke off of the branch .,The twig,나뭇가지,1
+46,The latest research on dieting always warns people about the dangers of too much cholesterol .,다이어트에 관한 최신 연구 always warns people about the dangers of too much cholesterol .,The latest research on dieting,다이어트에 관한 최신 연구,1
+47,John would like that because he ' s such a nice guy .,John would like that because he ' s 정말 좋은 사람 .,such a nice guy,정말 좋은 사람,1
+48,Gilgamesh has not been reading the cuneiform tablets,Gilgamesh has not been reading 설형 문자 정제,the cuneiform tablets,설형 문자 정제,1
+49,Those monkeys are eating the banana .,저 원숭이들 are eating the banana .,Those monkeys,저 원숭이들,1
+50,The cat was sleeping in the kitchen .,고양이 was sleeping in the kitchen .,The cat,고양이,1
+51,A smith hammered the metal .,대장장이 hammered the metal .,A smith,대장장이,1
+52,I did not have a red cent .,I did not have 빨간 센트 .,a red cent,빨간 센트,1
+53,A little boy ran in the yard .,작은 소년 ran in the yard .,A little boy,작은 소년,1
+54,Those Olympic hopefuls should practice diligently daily .,그 올림픽 유망주들 should practice diligently daily .,Those Olympic hopefuls,그 올림픽 유망주들,1
+55,The car had a yellow collar on the dog which it injured .,자동차 had a yellow collar on the dog which it injured .,The car,자동차,0
+56,The convict escaped the police .,죄수 escaped the police .,The convict,죄수,1
+57,the cat seems to be out of the bag .,고양이 seems to be out of the bag .,the cat,고양이,1
+58,Terry touched at the cat .,Terry touched at 고양이 .,the cat,고양이,0
+59,We made the claim that Perseus killed the Gorgon .,We made 페르세우스가 고르곤을 죽였다는 주장 .,the claim that Perseus killed the Gorgon,페르세우스가 고르곤을 죽였다는 주장,1
+60,They understand that you will prefer for the girl to put a picture on your desk .,They understand that you will prefer for 소녀 to put a picture on your desk .,the girl,소녀,1
+61,I saw Jane run down the street .,I saw Jane run down 거리 .,the street,거리,1
+62,John bought a book for the student .,John bought a book for 학생 .,the student,학생,1
+63,The boy ' s guardian ' s we elected employer president .,소년의 수호자 we elected employer president .,The boy ' s guardian ' s,소년의 수호자,0
+64,The people in who we placed our trust left .,우리가 신뢰하는 사람들 left .,The people in who we placed our trust,우리가 신뢰하는 사람들,0
+65,Richard is going to chop some wood .,Richard is going to chop 약간의 나무 .,some wood,약간의 나무,1
+66,Mr Woodhouse sat in an armchair .,미스터 우드하우스 sat in an armchair .,Mr Woodhouse,미스터 우드하우스,1
+67,There hopes to finish the project .,There hopes to finish 프로젝트 .,the project,프로젝트,0
+68,"She made light , not too surprisingly , of the difficulties we might have at the border .","She made light , not too surprisingly , of 국경에서 겪을 수 있는 어려움 .",the difficulties we might have at the border,국경에서 겪을 수 있는 어려움,0
+69,I believe that the world is round strongly .,I believe that 세계 is round strongly .,the world,세계,0
+70,There lived a man with his grandson .,There lived 그의 손자와 남자 .,a man with his grandson,그의 손자와 남자,1
+71,The motorist happened the accident .,운전자 happened the accident .,The motorist,운전자,0
+72,Drowning cats is against the law .,물에 빠진 고양이 is against the law .,Drowning cats,물에 빠진 고양이,1
+73,Carol carved the stone with a chisel .,Carol carved 돌 with a chisel .,the stone,돌,1
+74,John paid a dollar for a head of lettuce .,John paid a dollar for 상추 .,a head of lettuce,상추,1
+75,This girl in the red coat will put a picture of Bill on your desk before tomorrow .,빨간 코트를 입은 이 소녀 will put a picture of Bill on your desk before tomorrow .,This girl in the red coat,빨간 코트를 입은 이 소녀,1
+76,Pat is the captain of the team .,Pat is 팀의 주장 .,the captain of the team,팀의 주장,1
+77,Any soldier should be prepared to die for her country .,모든 군인 should be prepared to die for her country .,Any soldier,모든 군인,1
+78,I gave a book to John ' s mother and a magazine to him .,I gave a book to 존의 어머니와 잡지 to him .,John ' s mother and a magazine,존의 어머니와 잡지,0
+79,Which girl did Mike quip never wore this hat ?,Which girl did Mike quip never wore 이 모자 ?,this hat,이 모자,0
+80,Maxwell isn ' t half the doctor that polished off the vodka .,Maxwell isn ' t 보드카를 닦은 의사의 절반 .,half the doctor that polished off the vodka,보드카를 닦은 의사의 절반,0
+81,This metal won ' t pound flat .,이 금속 won ' t pound flat .,This metal,이 금속,1
+82,Either Professor Swansong or the graduate students are going to proctor the exam .,Swansong 교수 또는 대학원생 are going to proctor the exam .,Either Professor Swansong or the graduate students,Swansong 교수 또는 대학원생,1
+83,People go hunting in the Autumn .,People go hunting in 가을 .,the Autumn,가을,1
+84,The Shah slept in a bed .,샤 slept in a bed .,The Shah,샤,1
+85,Ann may spent her vacation in Italy .,Ann may spent 그녀의 휴가 in Italy .,her vacation,그녀의 휴가,0
+86,It is not true that it was obvious that it would confuse the guards for Herschel to throw a fit .,It is not true that it was obvious that it would confuse 경비원 for Herschel to throw a fit .,the guards,경비원,1
+87,The man who I think that chased Fido returned .,Fido를 쫓았다고 생각하는 남자 returned .,The man who I think that chased Fido,Fido를 쫓았다고 생각하는 남자,0
+88,"I ' m going out , wherever that hurricane .","I ' m going out , wherever 그 허리케인 .",that hurricane,그 허리케인,0
+89,"Sandy was trying to work out which students would be able to solve a certain problem , but she wouldn ' t tell us which one .","Sandy was trying to work out which students would be able to solve a certain problem , but she wouldn ' t tell us 어느 것 .",which one,어느 것,0
+90,"Scientists found that the birds sang well in the evenings , but performed badly in the mornings .","Scientists found that 새들 sang well in the evenings , but performed badly in the mornings .",the birds,새들,1
+91,Mary came to be introduced by the bartender and I also came to be .,Mary came to be introduced by 바텐더 and I also came to be .,the bartender,바텐더,0
+92,Have you always hated peanut butter ?,Have you always hated 땅콩 버터 ?,peanut butter,땅콩 버터,1
+93,The king thanked the man .,왕 thanked the man .,The king,왕,1
+94,John seems to sleep all day .,John seems to sleep 하루 종일 .,all day,하루 종일,1
+95,I will force you to marry no one .,I will force you to marry 아무도 .,no one,아무도,1
+96,That our perspectives had changed over the years and the issues we had worked on as students were the topics of discussion .,That our perspectives had changed over the years and 우리가 학생 때 작업한 문제 were the topics of discussion .,the issues we had worked on as students,우리가 학생 때 작업한 문제,1
+97,The man who ordered ice cream said the pudding would be tasty .,아이스크림을 주문한 남자 said the pudding would be tasty .,The man who ordered ice cream,아이스크림을 주문한 남자,1
+98,I didn ' t want any cake .,I didn ' t want 어떤 케이크 .,any cake,어떤 케이크,1
+99,None of his customary excuses suffices Edgar now .,그의 관습적인 변명 중 어느 것도 suffices Edgar now .,None of his customary excuses,그의 관습적인 변명 중 어느 것도,1
+100,"It isn ' t because Sue said anything bad about me that I ' m angry , although she did say some bad things about me .","It isn ' t because Sue said anything bad about me that I ' m angry , although she did say 나에 대한 몇 가지 나쁜 점 .",some bad things about me,나에 대한 몇 가지 나쁜 점,0
+101,The old dog died halfway .,늙은 개 died halfway .,The old dog,늙은 개,0
+102,"Any senator seems to become more corrupt , if he talks to more lobbyists .","모든 상원의원 seems to become more corrupt , if he talks to more lobbyists .",Any senator,모든 상원의원,1
+103,John gave Bill of the book .,John gave Bill of 그 책 .,the book,그 책,0
+104,Mary saw the tall man coming from England .,Mary saw 키 큰 남자 coming from England .,the tall man,키 큰 남자,1
+105,You may pick almost any flower .,You may pick 거의 모든 꽃 .,almost any flower,거의 모든 꽃,1
+106,"The dumplings which Sasha is gobbling down faster than I can reheat them are extremely tasty , if I do say so .","사샤가 먹어치우는 만두는 내가 다시 데울 수 있는 것보다 더 빨리 are extremely tasty , if I do say so .",The dumplings which Sasha is gobbling down faster than I can reheat them,사샤가 먹어치우는 만두는 내가 다시 데울 수 있는 것보다 더 빨리,1
+107,Frank threw himself into the sofa .,Frank threw himself into 그 소파 .,the sofa,그 소파,1
+108,John put a book on the table .,John put a book on 탁자 .,the table,탁자,1
+109,John was struck by Bill ' s idiocy .,John was struck by 빌의 멍청함 .,Bill ' s idiocy,빌의 멍청함,1
+110,We found out that very lucrative jobs were in jeopardy .,We found out that 매우 유리한 직업 were in jeopardy .,very lucrative jobs,매우 유리한 직업,1
+111,Paula swatted the cloth through the fly .,Paula swatted 천 through the fly .,the cloth,천,0
+112,John gave a book to the students .,John gave a book to 학생들 .,the students,학생들,1
+113,Smith inscribed the ring with his name .,Smith inscribed 반지 with his name .,the ring,반지,1
+114,In the classroom John put the book on the table .,In 교실 John put the book on the table .,the classroom,교실,1
+115,A man to be in the garden is unlikely .,정원에 있어야 할 남자 is unlikely .,A man to be in the garden,정원에 있어야 할 남자,0
+116,Gilgamesh might have been not reading the cuneiform tablets .,Gilgamesh might have been not reading 설형 문자 정제 .,the cuneiform tablets,설형 문자 정제,0
+117,"Those people , after the party , will not come home .",그 사람들은 파티가 끝나고 will not come home .,"Those people , after the party ,",그 사람들은 파티가 끝나고,1
+118,This handsome man chased a dog .,이 잘생긴 남자 chased a dog .,This handsome man,이 잘생긴 남자,1
+119,To which city and which conference did Bill go ?,To 어느 도시 and which conference did Bill go ?,which city,어느 도시,1
+120,The defendant deny the allegation .,피고인 deny the allegation .,The defendant,피고인,0
+121,Brian hit the fence with the stick .,Brian hit 울타리 with the stick .,the fence,울타리,1
+122,I whipped the eggs from a puddle into a froth .,I whipped 계란 from a puddle into a froth .,the eggs,계란,0
+123,I am anxious for you to study English grammar hard .,I am anxious for you to study 영문법 hard .,English grammar,영문법,1
+124,The man kicked the ball .,그 남자 kicked the ball .,The man,그 남자,1
+125,This book just sells itself .,이 책 just sells itself .,This book,이 책,1
+126,How long did this fit of generosity last and who gave what to whom ?,How long did 이 관대함 last and who gave what to whom ?,this fit of generosity,이 관대함,1
+127,John talked to anybody who came up to him at the party .,John talked to 파티에서 그에게 다가온 사람 .,anybody who came up to him at the party,파티에서 그에게 다가온 사람,1
+128,They will give me a hat that I won ' t like which I know .,They will give me 내가 알고 있는 것을 좋아하지 않을 모자 .,a hat that I won ' t like which I know,내가 알고 있는 것을 좋아하지 않을 모자,0
+129,Who for Sandy to talk to is still enrolled in the class ?,Who for Sandy to talk to is still enrolled in 클래스 ?,the class,클래스,0
+130,John has forgotten which player his son shouted at .,John has forgotten which player 그의 아들 shouted at .,his son,그의 아들,1
+131,That evening John laughed with anybody he talked to .,그 저녁 John laughed with anybody he talked to .,That evening,그 저녁,1
+132,One plan which I got wind of was calculated to keep us in suspense .,바람을 받은 하나의 계획 was calculated to keep us in suspense .,One plan which I got wind of,바람을 받은 하나의 계획,1
+133,Sam offered the ball out of the basket .,Sam offered 공 out of the basket .,the ball,공,0
+134,The dentist was believed to have examined Pat .,치과 의사 was believed to have examined Pat .,The dentist,치과 의사,1
+135,The middle class will benefit from the new tax laws .,중산층 will benefit from the new tax laws .,The middle class,중산층,1
+136,Dumb ideas are put in children ' s heads .,멍청한 생각 are put in children ' s heads .,Dumb ideas,멍청한 생각,1
+137,I ordered that John drink his beer .,I ordered that John drink 그의 맥주 .,his beer,그의 맥주,1
+138,I sent Bill money to Mary to Sam .,I sent 청구서 돈 to Mary to Sam .,Bill money,청구서 돈,0
+139,I saw even the student .,I saw 심지어 학생 .,even the student,심지어 학생,1
+140,The muffins were eaten .,머핀 were eaten .,The muffins,머핀,1
+141,I doubt if she kicks perfect goals every time .,I doubt if she kicks 완벽한 목표 every time .,perfect goals,완벽한 목표,1
+142,People with boxes of old clothes lined up behind the door of the building with the leaky roof .,낡은 옷 상자를 가진 사람들 lined up behind the door of the building with the leaky roof .,People with boxes of old clothes,낡은 옷 상자를 가진 사람들,1
+143,I saw the brilliant student .,I saw 뛰어난 학생 .,the brilliant student,뛰어난 학생,1
+144,Sonatas are easy to play on this violin .,Sonatas are easy to play on 이 바이올린 .,this violin,이 바이올린,1
+145,John was bitten by an advertising executive .,John was bitten by 광고 임원 .,an advertising executive,광고 임원,1
+146,Brenda and Molly chatted .,브렌다와 몰리 chatted .,Brenda and Molly,브렌다와 몰리,1
+147,John ' s quilt ' s upper right - hand corner has a hole .,John 's 퀼트의 오른쪽 상단 - 손 모서리 has a hole .,John ' s quilt ' s upper right - hand corner,John 's 퀼트의 오른쪽 상단 - 손 모서리,0
+148,The temperature soared .,온도 soared .,The temperature,온도,1
+149,"Raffi makes pesto pasta , and David does too","Raffi makes 페스토 파스타 , and David does too",pesto pasta,페스토 파스타,1
+150,Felicia kicked the ball off the bench .,Felicia kicked 공 off the bench .,the ball,공,1
+151,Those pictures of us offended us .,우리 그 사진들 offended us .,Those pictures of us,우리 그 사진들,1
+152,Sue put the books on the table and the records on the chair .,Sue put 책 on the table and the records on the chair .,the books,책,1
+153,Her little sister will disagree with her .,그녀의 여동생 will disagree with her .,Her little sister,그녀의 여동생,1
+154,"At the end of his speech , the president thanked any soldier who had fought in the gulf war .","At the end of his speech , 대통령 thanked any soldier who had fought in the gulf war .",the president,대통령,1
+155,even the student left .,심지어 학생 left .,even the student,심지어 학생,1
+156,There sang a man with a pipe .,There sang 파이프를 가진 남자 .,a man with a pipe,파이프를 가진 남자,0
+157,The teacher is proud with his students .,선생님 is proud with his students .,The teacher,선생님,0
+158,Smith was annealing the rings .,Smith was annealing 반지들 .,the rings,반지들,1
+159,Rory might have been eating the muffins .,Rory might have been eating 머핀 .,the muffins,머핀,1
+160,Dorothy needs her skills .,Dorothy needs 그녀의 기술 .,her skills,그녀의 기술,1
+161,Catriona opened the door with this key .,Catriona opened 문 with this key .,the door,문,1
+162,There was a dragon in the cave .,There was a dragon in 동굴 .,the cave,동굴,1
+163,I lifted the book onto the table .,I lifted 그 책 onto the table .,the book,그 책,1
+164,It is this hat that I believe that he was wearing .,It is 그가 쓰고 있었다고 생각되는 이 모자 .,this hat that I believe that he was wearing,그가 쓰고 있었다고 생각되는 이 모자,1
+165,There is eager to be fifty students in this class .,There is eager to be 이 반의 학생 50명 .,fifty students in this class,이 반의 학생 50명,1
+166,The victims of the earthquake their property was destroyed in the disaster were given temporary housing by the government .,지진 피해자 재산이 재난으로 파괴되었습니다 were given temporary housing by the government .,The victims of the earthquake their property was destroyed in the disaster,지진 피해자 재산이 재난으로 파괴되었습니다,1
+167,"The more that pictures of himself appear in the news , the more likely John is to get arrested .","The more that 자신의 사진 appear in the news , the more likely John is to get arrested .",pictures of himself,자신의 사진,0
+168,John isn ' t any more reliable a fellow than Bill .,John isn ' t Bill보다 더 믿을만한 동료 .,any more reliable a fellow than Bill,Bill보다 더 믿을만한 동료,1
+169,A book was sent to Louis .,책 was sent to Louis .,A book,책,1
+170,This knife cuts well .,이 칼 cuts well .,This knife,이 칼,1
+171,I lifted the books from the floor to the table .,I lifted 책 from the floor to the table .,the books,책,1
+172,Robin arrived most of the way at the station .,Robin arrived 대부분의 방법 at the station .,most of the way,대부분의 방법,0
+173,Jack ate more of this than he ate of that .,Jack ate 그가 먹은 것보다 이것이 더 많다 .,more of this than he ate of that,그가 먹은 것보다 이것이 더 많다,1
+174,Professor Smith would support Sue and Prof Jones Bill .,스미스 교수 would support Sue and Prof Jones Bill .,Professor Smith,스미스 교수,0
+175,Herman hammered the metal flat .,Herman hammered 메탈 플랫 .,the metal flat,메탈 플랫,1
+176,"Hank plays the guitar and finds arrangements for all the old folk songs which are still sung in these hills , and Ernie writes down all the old folk songs which are still sung in these hills .","Hank plays the guitar and finds arrangements for 이 언덕에서 여전히 부르는 모든 오래된 민요 , and Ernie writes down all the old folk songs which are still sung in these hills .",all the old folk songs which are still sung in these hills,이 언덕에서 여전히 부르는 모든 오래된 민요,1
+177,The president declared Smith press secretary .,대통령 declared Smith press secretary .,The president,대통령,1
+178,The door hit .,문 hit .,The door,문,0
+179,The electric main joins the house circuit in the basement .,전기 메인 joins the house circuit in the basement .,The electric main,전기 메인,1
+180,For him to win the race would surprise them .,For him to win 레이스 would surprise them .,the race,레이스,1
+181,I saw the student .,I saw 학생 .,the student,학생,1
+182,Michelle kept the papers over the desk .,Michelle kept 종이들 over the desk .,the papers,종이들,1
+183,They eager to leave the meeting .,They eager to leave 회의 .,the meeting,회의,0
+184,The parcel reached John .,소포 reached John .,The parcel,소포,1
+185,The phone company billed $ 10 as me .,전화 회사 billed $ 10 as me .,The phone company,전화 회사,0
+186,"Any female tiger has orange fur , marked with black stripes .","모든 암컷 호랑이 has orange fur , marked with black stripes .",Any female tiger,모든 암컷 호랑이,1
+187,Jessica loaded boxes into the wagon .,Jessica loaded boxes into 왜건 .,the wagon,왜건,1
+188,The monkey was tagged in the forest by John .,원숭이 was tagged in the forest by John .,The monkey,원숭이,1
+189,"The more contented the nurses began to believe that we were going to pretend to be , the more angry we grew at the doctors .","The more contented 간호사 began to believe that we were going to pretend to be , the more angry we grew at the doctors .",the nurses,간호사,0
+190,The thief stole at the painting from the museum .,도둑 stole at the painting from the museum .,The thief,도둑,0
+191,I know several people she kissed .,I know 그녀가 키스한 여러 사람 .,several people she kissed,그녀가 키스한 여러 사람,1
+192,Jasper wonders which book he should attempt to persuade his students to buy .,Jasper wonders which book he should attempt to persuade 그의 학생들 to buy .,his students,그의 학생들,1
+193,The president ' s bodyguard learned surveillance .,대통령의 경호원 learned surveillance .,The president ' s bodyguard,대통령의 경호원,1
+194,There are likely to be no student absent .,There are likely to be 결석 학생 없음 .,no student absent,결석 학생 없음,0
+195,There lodged an old woman at Mrs . Parker ' s .,There lodged 늙은 여자 at Mrs . Parker ' s .,an old woman,늙은 여자,0
+196,Fanny stopped talking when in came Aunt Norris .,Fanny stopped talking when in came 노리스 이모 .,Aunt Norris,노리스 이모,0
+197,Kelly adores French fabrics .,Kelly adores 프랑스 직물 .,French fabrics,프랑스 직물,1
+198,You are the only person that I can rely on .,You are 내가 의지할 수 있는 유일한 사람 .,the only person that I can rely on,내가 의지할 수 있는 유일한 사람,0
+199,A felon was elected to the city council .,중범죄자 was elected to the city council .,A felon,중범죄자,1
+200,The readings of Shakespeare satisfied me,셰익스피어의 독서 satisfied me,The readings of Shakespeare,셰익스피어의 독서,1
+201,Every student read any book on giraffes he found .,모든 학생 read any book on giraffes he found .,Every student,모든 학생,1
+202,Mary appreciates John and himself .,Mary appreciates 존과 자신 .,John and himself,존과 자신,0
+203,Henri told Sue in the drawer that Bill put socks .,Henri told Sue in 서랍 that Bill put socks .,the drawer,서랍,0
+204,How hard to read the book was it ?,How hard to read 그 책 was it ?,the book,그 책,0
+205,Ellen talked with Helen about the problem .,Ellen talked with Helen about 문제 .,the problem,문제,1
+206,I am anxious for you should study English grammar hard .,I am anxious for you should study 영문법 hard .,English grammar,영문법,0
+207,Maisie drove her car on Wednesday from Morningside to Leith .,Maisie drove 그녀의 차 on Wednesday from Morningside to Leith .,her car,그녀의 차,1
+208,Everyone of us be given a prize .,우리 모두 be given a prize .,Everyone of us,우리 모두,1
+209,Andy gives freely of his time .,Andy gives freely of 그의 시간 .,his time,그의 시간,1
+210,Sandy is either a lunatic or under the influence of drugs .,Sandy is 미치광이이거나 약물의 영향을 받고 .,either a lunatic or under the influence of drugs,미치광이이거나 약물의 영향을 받고,1
+211,The boys should could all go,소년들 should could all go,The boys,소년들,1
+212,They read the under book .,They read 언더북 .,the under book,언더북,0
+213,The madrigals which Henry plays the lute and sings sound lousy .,헨리가 류트를 연주하며 부르는 마드리갈 sound lousy .,The madrigals which Henry plays the lute and sings,헨리가 류트를 연주하며 부르는 마드리갈,0
+214,About 20 liters of acid was poured into the beaker .,약 20리터의 산 was poured into the beaker .,About 20 liters of acid,약 20리터의 산,1
+215,The room contains few armchairs .,방 contains few armchairs .,The room,방,1
+216,John has a hole in his quilt ' s upper right - hand corner .,John has 그의 이불의 오른쪽 상단 모서리에 있는 구멍 .,a hole in his quilt ' s upper right - hand corner,그의 이불의 오른쪽 상단 모서리에 있는 구멍,0
+217,Every man who said he would buy some salmon did buy some salmon .,연어를 사겠다고 말한 모든 남자 did buy some salmon .,Every man who said he would buy some salmon,연어를 사겠다고 말한 모든 남자,1
+218,The witch turned him into a frog .,마녀 turned him into a frog .,The witch,마녀,1
+219,I threw the ball to Maria .,I threw 공 to Maria .,the ball,공,1
+220,The Ferrari which Pietro bought from me and Sofia adores him cost him a bundle .,피에트로와 소피아가 사준 페라리 cost him a bundle .,The Ferrari which Pietro bought from me and Sofia adores him,피에트로와 소피아가 사준 페라리,0
+221,Some branches broke off of the tree .,일부 지점 broke off of the tree .,Some branches,일부 지점,1
+222,Mary persuaded John to fix the computer .,Mary persuaded John to fix 컴퓨터 .,the computer,컴퓨터,1
+223,"The higher the stakes are , the lower his expectations are .","The higher the stakes are , the lower 그의 기대 are .",his expectations,그의 기대,1
+224,I know two men behind myself .,I know 내 뒤에 두 남자 .,two men behind myself,내 뒤에 두 남자,0
+225,No student who read anything passed .,학생 없음 who read anything passed .,No student,학생 없음,1
+226,The microphone salesman ' s 0 irritating patter was relentless .,마이크 세일즈맨의 0 짜증나는 재잘거림 was relentless .,The microphone salesman ' s 0 irritating patter,마이크 세일즈맨의 0 짜증나는 재잘거림,1
+227,This flyer and that flyer differ .,이 전단지 저 전단지 differ .,This flyer and that flyer,이 전단지 저 전단지,1
+228,"I will see them , but I don ' t know how many of them .","I will see them , but I don ' t know 얼마나 of them .",how many,얼마나,1
+229,Harry got to be as much of a celebrity as his father .,Harry got to be 그의 아버지만큼 유명인 .,as much of a celebrity as his father,그의 아버지만큼 유명인,1
+230,"If anybody comes , he rings the doorbell .","If anybody comes , he rings 초인종 .",the doorbell,초인종,1
+231,I have six too many marbles .,I have 6개의 너무 많은 구슬 .,six too many marbles,6개의 너무 많은 구슬,1
+232,I read him Judy ' s statement about himself .,I read 그 주디의 진술 about himself .,him Judy ' s statement,그 주디의 진술,0
+233,The biggest man in the room said that John danced an Irish jig from County Kerry to County Tipperary on Thursday .,방에서 가장 큰 남자 said that John danced an Irish jig from County Kerry to County Tipperary on Thursday .,The biggest man in the room,방에서 가장 큰 남자,1
+234,Willy is taller than Bill by as much as everybody seems to expect me to admit to having publicly proclaimed that I believed .,Willy is taller than Bill by 모두가 내가 믿었다고 공개적으로 선언했다고 인정하기를 기대하는 것 같습니다 .,as much as everybody seems to expect me to admit to having publicly proclaimed that I believed,모두가 내가 믿었다고 공개적으로 선언했다고 인정하기를 기대하는 것 같습니다,1
+235,Such an eminent scholar as Dr . Lucille Hein was here .,Dr 루실 헤인 was here .,Such an eminent scholar as Dr . Lucille Hein,Dr 루실 헤인,1
+236,Never is any lion majestic .,Never is 어떤 사자 majestic .,any lion,어떤 사자,1
+237,Calvin ate not his dinner .,Calvin ate not 그의 저녁 .,his dinner,그의 저녁,0
+238,Pilots who can fly barrel rolls say that for me to try to do it in a glider would be hazardous .,배럴 롤을 날릴 수 있는 파일럿 say that for me to try to do it in a glider would be hazardous .,Pilots who can fly barrel rolls,배럴 롤을 날릴 수 있는 파일럿,1
+239,Jean wants Bill to do the Macarena .,Jean wants Bill to do 마카레나 .,the Macarena,마카레나,1
+240,John offers little suggestion .,John offers 작은 제안 .,little suggestion,작은 제안,0
+241,John was driving the car .,John was driving 자동차 .,the car,자동차,1
+242,We have many graduate students but this year the graduate director met with every student in the graduate program individually to discuss their progress .,We have many graduate students but 올해 the graduate director met with every student in the graduate program individually to discuss their progress .,this year,올해,1
+243,A job offered .,직업 offered .,A job,직업,0
+244,I lifted the books .,I lifted 책 .,the books,책,1
+245,"The president could not approve the bill , could he ?","대통령 could not approve the bill , could he ?",The president,대통령,0
+246,Lee asked me how fond of chocolates the monkeys are .,Lee asked me how fond of chocolates 원숭이 are .,the monkeys,원숭이,1
+247,I ' m going to write to the Game Warden if more than one deer my neighbor brings back .,I ' m going to write to 게임 소장 if more than one deer my neighbor brings back .,the Game Warden,게임 소장,0
+248,The tree changed from a maple into an oak .,나무 changed from a maple into an oak .,The tree,나무,1
+249,The only relatives with whom I ' d like to do away are my aunts .,내가 없애고 싶은 유일한 친척 are my aunts .,The only relatives with whom I ' d like to do away,내가 없애고 싶은 유일한 친척,0
+250,You must pick any of the flowers .,You must pick 어떤 꽃이든 .,any of the flowers,어떤 꽃이든,0
+251,Cornelia lodged at Mrs . Parker ' s .,Cornelia lodged at 부인  파커스 .,Mrs . Parker ' s,부인  파커스,1
+252,"When you eat more , you want correspondingly less .","When you eat more , you want 그에 상응하는 적은 .",correspondingly less,그에 상응하는 적은,1
+253,Rory has eaten the muffins .,Rory has eaten 머핀 .,the muffins,머핀,1
+254,Genie intoned the mirror .,Genie intoned 거울 .,the mirror,거울,0
+255,"When Dr Jones died of apoplexy didn ' t he , Mary Crawford went to live with his wife .","When Dr Jones died of apoplexy didn ' t he , 메리 크로포드 went to live with his wife .",Mary Crawford,메리 크로포드,0
+256,Each of the boys fought with some of the other boys .,소년들은 각각 fought with some of the other boys .,Each of the boys,소년들은 각각,1
+257,Memo ate the spaghetti .,Memo ate 스파게티 .,the spaghetti,스파게티,1
+258,For John to either make up such a story or repeat it is outrageous .,For John to either make up 그런 이야기 or repeat it is outrageous .,such a story,그런 이야기,1
+259,The train reached the station fully .,기차 reached the station fully .,The train,기차,1
+260,We peered into the closet .,We peered into 벽장 .,the closet,벽장,1
+261,Michelle kept the papers behind the desk .,Michelle kept 종이들 behind the desk .,the papers,종이들,1
+262,The spaceship revolves around the earth .,우주선 revolves around the earth .,The spaceship,우주선,1
+263,The fatter he goes to a doctor when he gets the more he eats .,The fatter he goes to a doctor when he gets 그는 먹을수록 .,the more he eats,그는 먹을수록,0
+264,Lucy Barnes recounted a story to remember because remember Holly had recounted a story to .,루시 반스 recounted a story to remember because remember Holly had recounted a story to .,Lucy Barnes,루시 반스,0
+265,Tom will not force you to marry any student .,Tom will not force you to marry 어떤 학생 .,any student,어떤 학생,1
+266,What she thought was that the poison was neutralised,What she thought was that 독 was neutralised,the poison,독,1
+267,Peter is some happy pigs which can fly .,Peter is 날 수 있는 행복한 돼지 .,some happy pigs which can fly,날 수 있는 행복한 돼지,0
+268,"Dave , Dan , Erin , Jaime , and Alina left .","데이브, 댄, 에린, 제이미, 알리나 left .","Dave , Dan , Erin , Jaime , and Alina","데이브, 댄, 에린, 제이미, 알리나",1
+269,Heidi said that Bill ' s pictures of herself were embarrassing .,Heidi said that 빌의 자신의 사진 were embarrassing .,Bill ' s pictures of herself,빌의 자신의 사진,0
+270,Carol cut her thumb .,Carol cut 그녀의 엄지 .,her thumb,그녀의 엄지,1
+271,Being honest is not an easy task .,Being honest is not 쉬운 일 .,an easy task,쉬운 일,1
+272,So much did you eat that everyone gasped .,너무 did you eat that everyone gasped .,So much,너무,1
+273,John and the man went to the store .,요한과 그 남자 went to the store .,John and the man,요한과 그 남자,1
+274,Each of the boys fought with the other boys .,소년들은 각각 fought with the other boys .,Each of the boys,소년들은 각각,1
+275,The stone carved .,돌 carved .,The stone,돌,0
+276,Ellen and Helen argued .,엘렌과 헬렌 argued .,Ellen and Helen,엘렌과 헬렌,1
+277,The day when Jim got fired was a sad day for everyone .,짐이 해고된 날 was a sad day for everyone .,The day when Jim got fired,짐이 해고된 날,1
+278,Bob proved this set is recursive .,Bob proved 이 세트 is recursive .,this set,이 세트,1
+279,It was the man that bought the articles from him .,It was 그에게서 물건을 산 남자 .,the man that bought the articles from him,그에게서 물건을 산 남자,1
+280,Kim alienated cats and beating his dog .,Kim alienated cats and beating 그의 개 .,his dog,그의 개,0
+281,Lilly recounted a story to remember because Holly had also recounted a story to .,Lilly recounted Holly가 이야기를 들려주었기 때문에 기억해야 할 이야기 .,a story to remember because Holly had also recounted a story to,Holly가 이야기를 들려주었기 때문에 기억해야 할 이야기,0
+282,"Climb to the top , they do climb to the top .","Climb to 상단 , they do climb to the top .",the top,상단,0
+283,She seem to have given financial assistance to an important French art dealer .,She seem to have given 재정 지원 to an important French art dealer .,financial assistance,재정 지원,1
+284,What was that the Vikings ate a real surprise to you ?,What was that 바이킹 ate a real surprise to you ?,the Vikings,바이킹,0
+285,The child was never deceived .,아이 was never deceived .,The child,아이,1
+286,The two boys looked the word up .,두 소년 looked the word up .,The two boys,두 소년,1
+287,The president declared Smith to press secretary .,대통령 declared Smith to press secretary .,The president,대통령,0
+288,Tony broke at the window .,Tony broke at 창 .,the window,창,0
+289,He coaxed his brother to give him the candy .,He coaxed 그의 형제 to give him the candy .,his brother,그의 형제,1
+290,The famous mathematician existed a solution to the problem .,유명한 수학자 existed a solution to the problem .,The famous mathematician,유명한 수학자,0
+291,Fifteen dollars in a week are not much .,일주일에 15달러 are not much .,Fifteen dollars in a week,일주일에 15달러,0
+292,The paper is readable .,종이 is readable .,The paper,종이,1
+293,John asks whose book his son likes .,John asks whose book 그의 아들 likes .,his son,그의 아들,1
+294,"We ' ll do it together , you and me .","We ' ll do it together , 너와 나 .",you and me,너와 나,1
+295,I have some papers to grade these exams and .,I have 이 시험을 채점하기 위한 몇 가지 서류 and .,some papers to grade these exams,이 시험을 채점하기 위한 몇 가지 서류,0
+296,To improve yourself would be a good idea .,To improve yourself would be 좋은 아이디어 .,a good idea,좋은 아이디어,1
+297,Mary swam as many more laps than Joan as Linda .,Mary swam Linda만큼 Joan보다 더 많은 바퀴 .,as many more laps than Joan as Linda,Linda만큼 Joan보다 더 많은 바퀴,1
+298,"We gave any senator enough opportunity and , sure enough , he succumbed to corruption .","We gave 어떤 상원의원 enough opportunity and , sure enough , he succumbed to corruption .",any senator,어떤 상원의원,0
+299,The tree dropped some branches .,나무 dropped some branches .,The tree,나무,1
+300,Bob Dylan is Robert Zimmerman .,밥 딜런 is Robert Zimmerman .,Bob Dylan,밥 딜런,1
+301,Cora coiled around the post .,Cora coiled around 포스트 .,the post,포스트,0
+302,"The more that John gets upset by them , the more that stories about himself seem to show up in the news .","The more that John gets upset by them , the more that 자신에 대한 이야기 seem to show up in the news .",stories about himself,자신에 대한 이야기,0
+303,"I was surprised that he stole the watch , in as far as that was a daring thing to do .","I was surprised that he stole 시계 , in as far as that was a daring thing to do .",the watch,시계,1
+304,We went through the woods and over the bridge .,We went through 숲 and over the bridge .,the woods,숲,1
+305,This matter was on which I consulted with the chairman of the Select Committee .,이 문제 was on which I consulted with the chairman of the Select Committee .,This matter,이 문제,0
+306,all the students left .,모든 학생들 left .,all the students,모든 학생들,1
+307,The vase stood on the table in the hall .,꽃병 stood on the table in the hall .,The vase,꽃병,1
+308,"Picture of Bill , this girl in the red coat will put a picture of Bill on your desk before tomorrow .","빌의 사진 , this girl in the red coat will put a picture of Bill on your desk before tomorrow .",Picture of Bill,빌의 사진,0
+309,Sir Walter Elliott imagined that he was still handsome .,월터 엘리엇 경 imagined that he was still handsome .,Sir Walter Elliott,월터 엘리엇 경,1
+310,Mary noticed John ' s excessive appreciation of herself .,Mary noticed 존의 자신에 대한 지나친 평가 .,John ' s excessive appreciation of herself,존의 자신에 대한 지나친 평가,0
+311,They praised the volunteers for their dedication .,They praised 자원 봉사자 for their dedication .,the volunteers,자원 봉사자,1
+312,Rory will eat the muffins .,Rory will eat 머핀 .,the muffins,머핀,1
+313,Brian wiped the fingerprints from the counter .,Brian wiped 지문 from the counter .,the fingerprints,지문,1
+314,I know two men behind me .,I know 내 뒤에 두 남자 .,two men behind me,내 뒤에 두 남자,1
+315,Who do you think that has given the tickets to Bill ?,Who do you think that has given 티켓 to Bill ?,the tickets,티켓,0
+316,Mary prefers that her ice cream is in a cone .,Mary prefers that 그녀의 아이스크림 is in a cone .,her ice cream,그녀의 아이스크림,1
+317,Mary scratched John ' s arm too .,Mary scratched 요한의 팔 too .,John ' s arm,요한의 팔,1
+318,John bought any picture of Queen Elizabeth that was on sale .,John bought 판매 중인 엘리자베스 여왕의 사진 .,any picture of Queen Elizabeth that was on sale,판매 중인 엘리자베스 여왕의 사진,1
+319,Belinda walked the soles off her shoes .,Belinda walked 발바닥 off her shoes .,the soles,발바닥,1
+320,There were killed three men by the assassin .,There were killed 세 남자 by the assassin .,three men,세 남자,0
+321,The Romans destroyed the city into ruins .,로마인 destroyed the city into ruins .,The Romans,로마인,0
+322,Bill ' s reading Shakespeare and Maureen ' s singing Schubert satisfies me,빌이 셰익스피어를 읽고 모린이 노래하는 슈베르트 satisfies me,Bill ' s reading Shakespeare and Maureen ' s singing Schubert,빌이 셰익스피어를 읽고 모린이 노래하는 슈베르트,0
+323,Whose tax did the nurse polish her trombone and the plumber compute ?,Whose tax did 간호사 polish her trombone and the plumber compute ?,the nurse,간호사,0
+324,That I should evaporate is my fondest dream,That I should evaporate is 내 가장 좋은 꿈,my fondest dream,내 가장 좋은 꿈,1
+325,John offers few suggestions .,John offers 몇 가지 제안 .,few suggestions,몇 가지 제안,1
+326,Janet broke the cup .,Janet broke 컵 .,the cup,컵,1
+327,Everybody who attended last week ' s huge rally signed the petition .,지난 주 대규모 집회에 참석하신 모든 분들 signed the petition .,Everybody who attended last week ' s huge rally,지난 주 대규모 집회에 참석하신 모든 분들,1
+328,"I ' m going out , wherever that hurricane might be .","I ' m going out , wherever 그 허리케인 might be .",that hurricane,그 허리케인,1
+329,Any pilot must be flying this plane .,모든 조종사 must be flying this plane .,Any pilot,모든 조종사,0
+330,Six students got shot accidentally .,6명의 학생 got shot accidentally .,Six students,6명의 학생,1
+331,I explained to fix the sink .,I explained to fix 싱크대 .,the sink,싱크대,0
+332,The capital was gathered near by a crowd of people .,수도 was gathered near by a crowd of people .,The capital,수도,0
+333,Bill ' s mother ' s friends and John are waiting at the restaurant .,빌의 어머니의 친구들과 존 are waiting at the restaurant .,Bill ' s mother ' s friends and John,빌의 어머니의 친구들과 존,1
+334,"With their teacher , the kids have arrived safely , haven ' t they ?","With their teacher , 아이들 have arrived safely , haven ' t they ?",the kids,아이들,1
+335,The boys don ' t all want to leave .,소년들 don ' t all want to leave .,The boys,소년들,1
+336,I read some book .,I read 어떤 책 .,some book,어떤 책,0
+337,John bought any picture of Queen Elizabeth .,John bought 엘리자베스 여왕의 모든 사진 .,any picture of Queen Elizabeth,엘리자베스 여왕의 모든 사진,0
+338,John asks which book by his father he read .,John asks which book by 그의 아버지 he read .,his father,그의 아버지,1
+339,"Joe ' s neuroses bother his patrons , and Sally ' s neuroses do too .","조의 신경증 bother his patrons , and Sally ' s neuroses do too .",Joe ' s neuroses,조의 신경증,1
+340,There are less trucks on the motorway this winter .,There are 더 적은 트럭 on the motorway this winter .,less trucks,더 적은 트럭,1
+341,I brought John a razor with which to shave myself .,I brought John 나를 면도하는 면도기 .,a razor with which to shave myself,나를 면도하는 면도기,0
+342,"Bob tried to wash himself , and Mary to read the funnies .","Bob tried to wash himself , and Mary to read 재미있는 .",the funnies,재미있는,1
+343,John promised Mary to cut the grass .,John promised Mary to cut 잔디 .,the grass,잔디,1
+344,Bill confirmed that Roger has eaten the cake .,Bill confirmed that Roger has eaten 케이크 .,the cake,케이크,1
+345,How carefully have you considered your future career ?,How carefully have you considered 당신의 미래 경력 ?,your future career,당신의 미래 경력,1
+346,Mercedes gave a test to the students in the lecture hall .,Mercedes gave a test to 강의실에 있는 학생들 .,the students in the lecture hall,강의실에 있는 학생들,1
+347,Dick ' s claim that semantics is generative is preposterous .,의미론이 생성적이라는 딕의 주장 is preposterous .,Dick ' s claim that semantics is generative,의미론이 생성적이라는 딕의 주장,1
+348,The naughty child spanked .,장난 꾸러기 아이 spanked .,The naughty child,장난 꾸러기 아이,0
+349,John is touching the wall .,John is touching 벽 .,the wall,벽,1
+350,How do you think John bought the sweater ?,How do you think John bought 스웨터 ?,the sweater,스웨터,1
+351,This is a problem that you solve it and you ' ll be able to tell the folks up at corporate headquarters to buzz off .,This is a problem that you solve it and you ' ll be able to tell 사람들 up at corporate headquarters to buzz off .,the folks,사람들,0
+352,There dances a man with an umbrella .,There dances a man with 우산 .,an umbrella,우산,0
+353,"Kim likes Sandy , and Lee Leslie . to try to go to Rome .","Kim likes Sandy , and 리 레슬리  to try to go to Rome .",Lee Leslie .,리 레슬리 ,1
+354,Every vampire slept .,모든 뱀파이어 slept .,Every vampire,모든 뱀파이어,1
+355,The evidence assembled by the prosecution convinced the jury .,검찰이 수집한 증거 convinced the jury .,The evidence assembled by the prosecution,검찰이 수집한 증거,1
+356,What sofa will he put the chair between some table and ?,What sofa will he put 의자 between some table and ?,the chair,의자,0
+357,Mary picked any of the flowers .,Mary picked 어떤 꽃이든 .,any of the flowers,어떤 꽃이든,0
+358,The deed which I want to peruse that contract before filing away is probably a forgery .,제출하기 전에 해당 계약을 정독하고 싶은 증서 is probably a forgery .,The deed which I want to peruse that contract before filing away,제출하기 전에 해당 계약을 정독하고 싶은 증서,0
+359,Pat remembered the appointment and that it was important to be on time .,Pat remembered 약속 and that it was important to be on time .,the appointment,약속,1
+360,John talked to any woman who came up to him except Sue .,John talked to 수를 제외하고 그에게 다가온 모든 여자 .,any woman who came up to him except Sue,수를 제외하고 그에게 다가온 모든 여자,1
+361,John knew that there would be a picture of himself hanging in the post .,John knew that there would be 포스트에 걸려있는 자신의 사진 .,a picture of himself hanging in the post,포스트에 걸려있는 자신의 사진,1
+362,I believe strongly that the world is round .,I believe strongly that 세계 is round .,the world,세계,1
+363,each of the girls likes herself .,소녀들 각각 likes herself .,each of the girls,소녀들 각각,1
+364,I don ' t know the boy the flowers who Mary gave to .,I don ' t know 메리가 준 꽃 소년 .,the boy the flowers who Mary gave to,메리가 준 꽃 소년,0
+365,We need to pen the pigs to keep them from getting into the corn .,We need to pen 돼지 to keep them from getting into the corn .,the pigs,돼지,1
+366,I have half a dozen of these marbles too many .,I have 이 구슬 대여섯 개 too many .,half a dozen of these marbles,이 구슬 대여섯 개,0
+367,The very young child walked from school to the store .,아주 어린 아이 walked from school to the store .,The very young child,아주 어린 아이,1
+368,Don ' t hit yourself !,하지 않다 hit yourself !,Don ' t,하지 않다,1
+369,The quiche and I were cooking .,키시와 나 were cooking .,The quiche and I,키시와 나,1
+370,Who was the book sent by John .,Who was 요한이 보낸 책 .,the book sent by John,요한이 보낸 책,0
+371,Susan bought her birthday some flowers .,Susan bought 그녀의 생일 some flowers .,her birthday,그녀의 생일,0
+372,I gave a gun to my brother which I had cleaned .,I gave a gun to 내 동생 which I had cleaned .,my brother,내 동생,1
+373,Fanny stopped talking because in came Aunt Norris .,Fanny stopped talking because in came 노리스 이모 .,Aunt Norris,노리스 이모,1
+374,Write a letter to Anne Elliott .,Write a letter to 앤 엘리엇 .,Anne Elliott,앤 엘리엇,1
+375,The sun bloomed the roses .,태양 bloomed the roses .,The sun,태양,0
+376,That the clown had a red nose amused the children .,That the clown had a red nose amused 아이들 .,the children,아이들,1
+377,A letter was received Jones would be upset by .,편지 was received Jones would be upset by .,A letter,편지,0
+378,What does every student buy ?,What does 모든 학생 buy ?,every student,모든 학생,1
+379,She ' s gone and ruined her dress now .,She ' s gone and ruined 그녀의 드레스 now .,her dress,그녀의 드레스,1
+380,The ball was kicked by him .,공 was kicked by him .,The ball,공,1
+381,It was the director that she wants to meet .,It was 만나고 싶은 감독 .,the director that she wants to meet,만나고 싶은 감독,1
+382,John talked to everybody who came up to him at the party .,John talked to 파티에서 그에게 다가온 모든 사람들 .,everybody who came up to him at the party,파티에서 그에게 다가온 모든 사람들,1
+383,They believe Charles Darwin ' s theory of evolution is just a scientific theory .,They believe 찰스 다윈의 진화론 is just a scientific theory .,Charles Darwin ' s theory of evolution,찰스 다윈의 진화론,1
+384,Mary should know that you must go to the station .,Mary should know that you must go to 역 .,the station,역,1
+385,Ten years be a long time to spend in prison .,십 년 be a long time to spend in prison .,Ten years,십 년,1
+386,The teacher who that the principal would fire was expected by the reporters is a crusty old jerk .,교장이 해고할 그 교사는 기자들이 예상했다 is a crusty old jerk .,The teacher who that the principal would fire was expected by the reporters,교장이 해고할 그 교사는 기자들이 예상했다,0
+387,I am delighted at the idea they might demolish the Appleton Tower .,I am delighted at 그들이 Appleton Tower를 철거할지도 모른다는 생각 .,the idea they might demolish the Appleton Tower,그들이 Appleton Tower를 철거할지도 모른다는 생각,1
+388,I live at the place where Route 150 crosses the River and my dad lives at the place where Route 150 crosses the Hudson River too .,I live at the place where Route 150 crosses the River and 우리 아빠 lives at the place where Route 150 crosses the Hudson River too .,my dad,우리 아빠,1
+389,Mike expected Greg incorrectly to take out the trash .,Mike expected Greg incorrectly to take out 쓰레기 .,the trash,쓰레기,1
+390,The boy Bill and who I watched was vain .,소년 빌과 내가 본 사람 was vain .,The boy Bill and who I watched,소년 빌과 내가 본 사람,0
+391,"Every student , who attended the party , had a good time .",파티에 참석한 모든 학생들은 had a good time .,"Every student , who attended the party ,",파티에 참석한 모든 학생들은,0
+392,The cook boned the fish of its backbone .,요리사 boned the fish of its backbone .,The cook,요리사,0
+393,A piano was given to Jane Fairfax by Frank Churchill .,바닥에 was given to Jane Fairfax by Frank Churchill .,A piano,바닥에,1
+394,We are aware of the existing problems .,We are aware of 기존 문제 .,the existing problems,기존 문제,1
+395,I polished the vase which was from India up .,I polished 인도에서 온 꽃병 .,the vase which was from India up,인도에서 온 꽃병,0
+396,I borrowed and my sister stole large sums of money from the bank .,I borrowed and 내 동생 stole large sums of money from the bank .,my sister,내 동생,1
+397,Every man who saw the fly in the food didn ' t eat dinner .,음식에서 파리를 본 모든 사람 didn ' t eat dinner .,Every man who saw the fly in the food,음식에서 파리를 본 모든 사람,1
+398,Fred knows which book for the children to read during the summer vacation .,Fred knows which book for 아이들 to read during the summer vacation .,the children,아이들,0
+399,John convinced Bill to cook the rice .,John convinced Bill to cook 쌀 .,the rice,쌀,1
+400,The only person whose kids Dana is willing to put up with is Pat .,Dana가 기꺼이 참아줄 유일한 아이의 사람 is Pat .,The only person whose kids Dana is willing to put up with,Dana가 기꺼이 참아줄 유일한 아이의 사람,1
+401,Man the ball kicked the .,Man 공 kicked the .,the ball,공,0
+402,Each other ' s houses appear to the women to be garish .,서로의 집 appear to the women to be garish .,Each other ' s houses,서로의 집,1
+403,The pitchfork loaded the truck .,갈퀴 loaded the truck .,The pitchfork,갈퀴,0
+404,The pigs grunt,돼지 grunt,The pigs,돼지,1
+405,"The money which I am discussing the claim that the company squandered amounts to $ 400 , 000 .","돈 which I am discussing the claim that the company squandered amounts to $ 400 , 000 .",The money,돈,0
+406,What Harriet did was marry Mr Martin .,What Harriet did was marry 미스터 마틴 .,Mr Martin,미스터 마틴,1
+407,That acorn will grow into an oak tree .,그 도토리 will grow into an oak tree .,That acorn,그 도토리,1
+408,The secretary transcribed the speech .,비서 transcribed the speech .,The secretary,비서,1
+409,Every woman who heard the news contributed to the fund .,소식을 들은 모든 여성 contributed to the fund .,Every woman who heard the news,소식을 들은 모든 여성,1
+410,That piece of ice is too big for it to be likely for him to be able to pick up with a teaspoon .,그 얼음 조각 is too big for it to be likely for him to be able to pick up with a teaspoon .,That piece of ice,그 얼음 조각,0
+411,John ' s plan to go abroad is nice .,John의 해외 진출 계획 is nice .,John ' s plan to go abroad,John의 해외 진출 계획,1
+412,A clever magician with the right equipment can fool the audience easily .,올바른 장비를 갖춘 영리한 마술사 can fool the audience easily .,A clever magician with the right equipment,올바른 장비를 갖춘 영리한 마술사,1
+413,Tess was knocking at the door .,Tess was knocking at 문 .,the door,문,1
+414,Jack disappeared in a mysterious manner and the Hudson disappeared in a mysterious manner too .,Jack disappeared in a mysterious manner and 허드슨 disappeared in a mysterious manner too .,the Hudson,허드슨,1
+415,John tapped a barrel of some wine .,John tapped 와인 한 통 .,a barrel of some wine,와인 한 통,1
+416,Margaret cut Bill on the arm .,Margaret cut Bill on 팔 .,the arm,팔,1
+417,A serious accident happened yesterday .,심각한 사고 happened yesterday .,A serious accident,심각한 사고,1
+418,Plays and ballets alternate together .,연극과 발레 alternate together .,Plays and ballets,연극과 발레,0
+419,There tended to be a lot of discussion .,There tended to be 많은 토론 .,a lot of discussion,많은 토론,1
+420,The message was that you should come on time .,메시지 was that you should come on time .,The message,메시지,1
+421,Henri wants to buy these books about cooking .,Henri wants to buy 요리에 관한 이 책들 .,these books about cooking,요리에 관한 이 책들,1
+422,We proclaimed John to the public to be a hero .,We proclaimed John to 공개 to be a hero .,the public,공개,1
+423,That the fuzz wanted him worried John but it didn ' t worry Mary .,That 퍼즈 wanted him worried John but it didn ' t worry Mary .,the fuzz,퍼즈,1
+424,You have presented so elegant a solution that we can only admire it .,You have presented 감탄할 수밖에 없는 우아한 솔루션 .,so elegant a solution that we can only admire it,감탄할 수밖에 없는 우아한 솔루션,1
+425,Everyone reported that Max and some lady disappeared .,Everyone reported that 맥스와 어떤 여인 disappeared .,Max and some lady,맥스와 어떤 여인,1
+426,The proof that this set is recursive is difficult .,이 집합이 재귀적이라는 증거 is difficult .,The proof that this set is recursive,이 집합이 재귀적이라는 증거,1
+427,Stacy danced at the palace .,Stacy danced at 궁전 .,the palace,궁전,1
+428,Steve tossed the ball against the wall .,Steve tossed 공 against the wall .,the ball,공,1
+429,I gushed the fountain .,I gushed 그 분수 .,the fountain,그 분수,0
+430,She goes and buys some whiskey .,She goes and buys 약간의 위스키 .,some whiskey,약간의 위스키,1
+431,Sonatas are difficult to play on this violin .,Sonatas are difficult to play on 이 바이올린 .,this violin,이 바이올린,1
+432,Will George indeed not endorse the treaty ?,Will George indeed not endorse 조약 ?,the treaty,조약,1
+433,They brought the hat to the teacher,They brought 모자 to the teacher,the hat,모자,1
+434,This building is than that one .,이 건물 is than that one .,This building,이 건물,0
+435,"Given my high opinion on his moral character , I was surprised that he stole the watch .","Given 그의 도덕적 성격에 대한 나의 높은 의견 , I was surprised that he stole the watch .",my high opinion on his moral character,그의 도덕적 성격에 대한 나의 높은 의견,1
+436,The inspector analyzed the building for its soundness .,검사관 analyzed the building for its soundness .,The inspector,검사관,1
+437,The horse broke Penny ' s shin .,말 broke Penny ' s shin .,The horse,말,1
+438,Bill left when I believe the bomb had just exploded .,Bill left when I believe 폭탄 had just exploded .,the bomb,폭탄,1
+439,"The dumplings which Sasha is gobbling down faster than I can reheat are extremely tasty , if I do say so .","내가 다시 데울 수 있는 것보다 더 빨리 먹어치우는 사샤의 만두 are extremely tasty , if I do say so .",The dumplings which Sasha is gobbling down faster than I can reheat,내가 다시 데울 수 있는 것보다 더 빨리 먹어치우는 사샤의 만두,0
+440,I assume the matter to have been filed in the appropriate records .,I assume 문제 to have been filed in the appropriate records .,the matter,문제,1
+441,The change pocketed .,변화 pocketed .,The change,변화,0
+442,"To finish it on time made quite a statement , didn ' t it ?",To finish it on time made 굉장한 진술이군요 ?,"quite a statement , didn ' t it",굉장한 진술이군요,1
+443,The roof is leaking .,지붕 is leaking .,The roof,지붕,1
+444,"With their teacher , the kids have arrived safely , hasn ' t he ?","With their teacher , 아이들 have arrived safely , hasn ' t he ?",the kids,아이들,0
+445,"We didn ' t particularly like , but nevertheless ate , the fish raw .","We didn ' t particularly like , but nevertheless ate , 물고기 raw .",the fish,물고기,1
+446,The thief stole Mr . Smith the painting .,도둑 stole Mr . Smith the painting .,The thief,도둑,0
+447,Muriel said nothing else than that she had been insulted .,Muriel said 그녀가 모욕을 당했다는 것 외에는 아무것도 없습니다 .,nothing else than that she had been insulted,그녀가 모욕을 당했다는 것 외에는 아무것도 없습니다,1
+448,The boy whose uncle and Tom ' s aunt ' s grandmother were kissing was furious .,삼촌과 톰의 숙모의 할머니가 키스하던 소년 was furious .,The boy whose uncle and Tom ' s aunt ' s grandmother were kissing,삼촌과 톰의 숙모의 할머니가 키스하던 소년,0
+449,The problem is easy to solve .,문제 is easy to solve .,The problem,문제,1
+450,Hasn ' t Henri studied for his exam ?,Hasn ' t Henri studied for 그의 시험 ?,his exam,그의 시험,1
+451,The dog went crazy .,개 went crazy .,The dog,개,1
+452,Bill ' s reading Shakespeare satisfied me,빌의 셰익스피어 읽기 satisfied me,Bill ' s reading Shakespeare,빌의 셰익스피어 읽기,1
+453,"So quickly did the vampire move , that we barely saw him .","So quickly did 뱀파이어 무브 , that we barely saw him .",the vampire move,뱀파이어 무브,1
+454,Frances hid the presents in the drawer .,Frances hid 선물 in the drawer .,the presents,선물,1
+455,A tall boy threw the ball .,키 큰 소년 threw the ball .,A tall boy,키 큰 소년,1
+456,The Romans destroyed the city from a capital into a ruin .,로마인 destroyed the city from a capital into a ruin .,The Romans,로마인,0
+457,I worded the telegram tersely .,I worded 전보 tersely .,the telegram,전보,1
+458,What they feared most was to be no one available to help them .,What they feared most was to be 그들을 도와줄 사람이 없다 .,no one available to help them,그들을 도와줄 사람이 없다,0
+459,It ' s nothing like the America I remember .,It ' s 내가 기억하는 미국 같지 않아 .,nothing like the America I remember,내가 기억하는 미국 같지 않아,1
+460,I suspect that the contract which I want to peruse before filing away the deed may some loopholes .,I suspect that 증서를 제출하기 전에 정독하고 싶은 계약서 may some loopholes .,the contract which I want to peruse before filing away the deed,증서를 제출하기 전에 정독하고 싶은 계약서,1
+461,"This is the problem that you ' ll beat the competition more easily , the sooner you solve .","This is 문제 that you ' ll beat the competition more easily , the sooner you solve .",the problem,문제,0
+462,The Minister has arrived .,장관 has arrived .,The Minister,장관,1
+463,I have wanted to meet the man who spent so much money planning the assassination of Kennedy for many years .,I have wanted to meet 수년 동안 케네디 암살을 계획하는 데 많은 돈을 쓴 사람 .,the man who spent so much money planning the assassination of Kennedy for many years,수년 동안 케네디 암살을 계획하는 데 많은 돈을 쓴 사람,1
+464,The analysis of Lucy took longer than that of Gomez .,루시의 분석 took longer than that of Gomez .,The analysis of Lucy,루시의 분석,1
+465,Into Jeeves sauntered the room .,Into Jeeves sauntered 방 .,the room,방,0
+466,Pat was believed to have been examined by the dentist .,Pat was believed to have been examined by 치과 의사 .,the dentist,치과 의사,1
+467,"The students of English from Seoul faced many issues in the process of interpreting , transcribing , and editing the poems .","서울에서 온 영어과 학생들 faced many issues in the process of interpreting , transcribing , and editing the poems .",The students of English from Seoul,서울에서 온 영어과 학생들,1
+468,I want to peruse that contract before filing it away .,I want to peruse 그 계약 before filing it away .,that contract,그 계약,1
+469,That movie always shocks .,그 영화 always shocks .,That movie,그 영화,1
+470,Seoul was slept in by the businessman last night .,Seoul was slept in by the businessman 지난 밤 .,last night,지난 밤,0
+471,The book that I like which everyone else in the class hates was written by John .,내가 좋아하고 반 친구들 모두가 싫어하는 책 was written by John .,The book that I like which everyone else in the class hates,내가 좋아하고 반 친구들 모두가 싫어하는 책,1
+472,Dry the baby with the cloth asleep .,Dry the baby with 천 asleep .,the cloth,천,1
+473,Reports the height of the lettering on the covers of which the government prescribes should be abolished .,정부에서 규정하는 표지의 글자 높이를 보고합니다 should be abolished .,Reports the height of the lettering on the covers of which the government prescribes,정부에서 규정하는 표지의 글자 높이를 보고합니다,1
+474,Anson ' s hen nibbled his ear .,안손의 암탉 nibbled his ear .,Anson ' s hen,안손의 암탉,1
+475,A bear inhabits the cave .,곰 inhabits the cave .,A bear,곰,1
+476,Reggie did not chase the ball .,Reggie did not chase 공 .,the ball,공,1
+477,There were several hundred people yelling for me to put down gently .,There were 조용히 내려놓으라고 소리치는 수백명의 사람들 .,several hundred people yelling for me to put down gently,조용히 내려놓으라고 소리치는 수백명의 사람들,1
+478,Every man who has matches is happy .,성냥이 있는 모든 남자 is happy .,Every man who has matches,성냥이 있는 모든 남자,1
+479,Believing that the world is flat gives one some solace .,Believing that the world is flat gives one 약간의 위안 .,some solace,약간의 위안,1
+480,The horse kicked Penny in the shin .,말 kicked Penny in the shin .,The horse,말,1
+481,Alison poked the needle through the cloth .,Alison poked 바늘 through the cloth .,the needle,바늘,1
+482,The socks are ready for you to try them and the shoes on .,그 양말 are ready for you to try them and the shoes on .,The socks,그 양말,1
+483,Every student in Mary ' s class happened to vote Republican .,Mary의 반에 있는 모든 학생 happened to vote Republican .,Every student in Mary ' s class,Mary의 반에 있는 모든 학생,1
+484,I sent the package to the Antarctic .,I sent 패키지 to the Antarctic .,the package,패키지,1
+485,Whether to win is a question Mary never considered .,Whether to win is Mary가 결코 고려하지 않은 질문 .,a question Mary never considered,Mary가 결코 고려하지 않은 질문,1
+486,She slept the picture of Bill .,She slept 빌의 사진 .,the picture of Bill,빌의 사진,0
+487,The road zigzagged down the hill .,길 zigzagged down the hill .,The road,길,1
+488,Gomez ' s photograph of Pugsley belonging to Lucy .,고메즈의 Pugsley 사진 belonging to Lucy .,Gomez ' s photograph of Pugsley,고메즈의 Pugsley 사진,1
+489,Amanda drove at the package to New York .,Amanda drove at 패키지 to New York .,the package,패키지,0
+490,My pastor says I ate too much cake .,목사님 says I ate too much cake .,My pastor,목사님,1
+491,The student met the senator for John to meet Bill .,학생 met the senator for John to meet Bill .,The student,학생,0
+492,You married no one .,You married 아무도 .,no one,아무도,1
+493,Jack is the person whom Jenny fell in love .,Jack is 제니가 사랑에 빠진 사람 .,the person whom Jenny fell in love,제니가 사랑에 빠진 사람,0
+494,We believed to be the headmaster,We believed to be 교장,the headmaster,교장,0
+495,The new tax Jaws will gain the middle class .,새로운 세금 턱 will gain the middle class .,The new tax Jaws,새로운 세금 턱,0
+496,The dancing chorus line of elephants broke my television set .,코끼리의 춤추는 합창단 broke my television set .,The dancing chorus line of elephants,코끼리의 춤추는 합창단,1
+497,I pushed the table .,I pushed 탁자 .,the table,탁자,1
+498,Robin arrived all the way at the station .,Robin arrived 모든 방법 at the station .,all the way,모든 방법,0
+499,This is the friend for whose mother Kim gave a party .,This is 어머니 김이 파티를 준 친구 .,the friend for whose mother Kim gave a party,어머니 김이 파티를 준 친구,1
