@@ -12,3 +12,14 @@ The contents of the folder are as follows :
 ```
 pip install -r requirements.txt
 ```
+
+### Download datasets ###
+```
+from datasets import load_dataset
+
+koglish_glue = load_dataset("Jangyeong/Koglish_GLUE")
+koglish_sts = load_dataset("Jangyeong/Koglish_STS")
+koglish_sick = load_dataset("Jangyeong/Koglish_SICK")
+koglish_sick = load_dataset("Jangyeong/Koglish_NLI")
+ 
+```
