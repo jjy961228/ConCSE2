@@ -24,5 +24,6 @@ koglish_nli = load_dataset("Jangyeong/Koglish_NLI")
 koglish_sts = load_dataset("Jangyeong/Koglish_STS")
 koglish_sick = load_dataset("Jangyeong/Koglish_SICK")
 ```
+After downloading the dataset, place it in the Koglish_dataset directory.
  
 
