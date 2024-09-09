@@ -15,18 +15,11 @@ pip install -r requirements.txt
 
 ### Download datasets ###
 You can download the Koglish dataset using the datasets library as shown below.
-
-Koglish_glue was used in the experiments in section 5.1.
-
-```
+Koglish_glue was used in the experiments in **section 5.1**. 
+and 
+``` python
 from datasets import load_dataset
-```
 
-```
-koglish_glue = load_dataset("Jangyeong/Koglish_GLUE")
-```
-
-```
 koglish_glue = load_dataset("Jangyeong/Koglish_GLUE")
 koglish_nli = load_dataset("Jangyeong/Koglish_NLI")
 koglish_sts = load_dataset("Jangyeong/Koglish_STS")
