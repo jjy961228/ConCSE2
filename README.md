@@ -14,8 +14,8 @@ pip install -r requirements.txt
 ```
 
 ### Download datasets ###
-You can download the Koglish dataset using the datasets library as shown below.
-Koglish_glue was used in the experiments in **section 5.1**. 
+* You can download the Koglish dataset using the datasets library as shown below.
+* Koglish_glue was used in the experiments in **section 5.1**. 
 and 
 ``` python
 from datasets import load_dataset
