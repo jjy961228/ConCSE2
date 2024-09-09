@@ -14,8 +14,8 @@ pip install -r requirements.txt
 
 ### Download datasets ###
 * You can download the Koglish dataset using the datasets library as shown below.
-* Koglish_glue was used in the experiments in **section 5.1**. 
-* In the **ConCSE** experiment in **section 5.2**, Koglish_STS, Koglish_SICK, and Kolgish NLI were used: Koglish_NLI was used for training, and Koglish_sts and Koglish_SICK were used for testing.
+* Koglish-GLUE was used in the experiments in **section 5.1**. 
+* In the **ConCSE** experiment in **section 5.2**, Koglish-STS, Koglish-SICK, and Kolgish-NLI were used: Koglish-NLI was used for training, and Koglish-STS and Koglish-SICK were used for testing.
 ``` python
 from datasets import load_dataset
 
