@@ -19,7 +19,11 @@ pip install -r requirements.txt
 ``` python
 from datasets import load_dataset
 
-koglish_glue = load_dataset("Jangyeong/Koglish_GLUE")
+koglish_glue = load_dataset('Jangyeong/Koglish_GLUE', data_files={
+                            'train': 'SST2/cs_train.csv',
+                            'validation': 'SST2/cs_valid.csv',
+                            'test': 'SST2/cs_test.csv'
+                        })
 koglish_nli = load_dataset("Jangyeong/Koglish_NLI")
 koglish_sts = load_dataset("Jangyeong/Koglish_STS")
 koglish_sick = load_dataset("Jangyeong/Koglish_SICK")
